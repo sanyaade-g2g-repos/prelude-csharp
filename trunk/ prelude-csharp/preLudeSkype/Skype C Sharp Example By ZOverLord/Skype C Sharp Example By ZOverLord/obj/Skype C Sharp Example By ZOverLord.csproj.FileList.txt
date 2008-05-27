@@ -1,0 +1,29 @@
+bin\Release\Interop.SKYPE4COMLib.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Interop.SKYPE4COMLib.dll
+obj\Release\Skype C Sharp Example By ZOverLord.csproj.ResolveComReference.cache
+obj\Release\Skype C Sharp Example By ZOverLord.csproj.GenerateResource.Cache
+bin\Debug\Interop.SKYPE4COMLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SKYPE4COMLib.dll
+obj\Debug\Skype C Sharp Example By ZOverLord.csproj.ResolveComReference.cache
+obj\Debug\Skype C Sharp Example By ZOverLord.csproj.GenerateResource.Cache
+bin\Release\PreLudeEngine.dll
+bin\Release\Interop.SpeechLib.dll
+bin\Release\StringTokenizer.dll
+bin\Debug\Interop.SpeechLib.dll
+bin\Debug\StringTokenizer.dll
+bin\Release\SkypePrelude.exe.config
+bin\Release\SkypePrelude.exe
+bin\Release\SkypePrelude.pdb
+obj\Release\SkypePrelude.exe
+obj\Release\SkypePrelude.pdb
+obj\Release\SkypePrelude.Properties.Resources.resources
+obj\Release\SkypePrelude.Form1.resources
+bin\Debug\SkypePrelude.exe.config
+bin\Debug\SkypePrelude.exe
+bin\Debug\SkypePrelude.pdb
+obj\Debug\SkypePrelude.Form1.resources
+obj\Debug\SkypePrelude.Properties.Resources.resources
+obj\Debug\SkypePrelude.exe
+obj\Debug\SkypePrelude.pdb
