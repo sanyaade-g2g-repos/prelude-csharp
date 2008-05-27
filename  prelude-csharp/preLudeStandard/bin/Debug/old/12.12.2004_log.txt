@@ -1,0 +1,297 @@
+12:26 [Number of memo entries] : 154
+12:26 [value: ] : 1
+12:26 [in matching string : ] : i am very very smart
+12:26 [value: ] : 1
+12:26 [in matching string : ] : i am fine, thanks!
+12:26 [value: ] : 1
+12:26 [in matching string : ] : i am the smartest person in the world
+12:26 [value: ] : 1
+12:26 [in matching string : ] : call me superman
+12:26 [best list final string is : ] : i am very very smart
+12:26 [best list final string is : ] : i am fine, thanks!
+12:26 [best list final string is : ] : i am the smartest person in the world
+12:26 [best list final string is : ] : call me superman
+12:28 [Number of memo entries] : 154
+12:28 [] : -----------------------
+12:28 [LAST OUTPUT] : how do you feel today?
+12:28 [NEW INPUT] : i feel very well. what about you?
+12:28 [value: ] : 2
+12:28 [in matching string : ] : well, if i come to think of, no.
+12:28 [best list final string is : ] : well, if i come to think of, no.
+12:31 [] : -----------------------
+12:31 [LAST OUTPUT] : well, if i come to think of, no.
+12:31 [NEW INPUT] : so you dont feel well today? why is that? what happened?
+12:32 [] : -----------------------
+12:32 [LAST OUTPUT] : so you dont feel well today? why is that? what happened?
+12:32 [NEW INPUT] : today is my birthday. i dont like birthdays...
+12:32 [] : -----------------------
+12:32 [LAST OUTPUT] : today is my birthday. i dont like birthdays...
+12:32 [NEW INPUT] : you are supposed to be happy on birthdays...
+12:32 [] : -----------------------
+12:32 [LAST OUTPUT] : you are supposed to be happy on birthdays...
+12:32 [NEW INPUT] : do you? i never am
+12:33 [] : -----------------------
+12:33 [LAST OUTPUT] : do you? i never am
+12:33 [NEW INPUT] : well, i am happy on my birthday
+12:33 [Number of memo entries] : 160
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i mean you did not tell me the truth
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i can say a lot of things
+12:34 [value: ] : 1
+12:34 [in matching string : ] : tell me about your dreams
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i can say a
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : the best of the world
+12:34 [value: ] : 1
+12:34 [in matching string : ] : the best thing which ever happened to me, is my wife
+12:34 [value: ] : 1
+12:34 [in matching string : ] : today is my birthday. i dont like birthdays...
+12:34 [best list final string is : ] : i can say a
+12:34 [best list final string is : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+12:34 [best list final string is : ] : the best of the world
+12:34 [best list final string is : ] : the best thing which ever happened to me, is my wife
+12:34 [best list final string is : ] : today is my birthday. i dont like birthdays...
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+12:34 [NEW INPUT] : i wanted to know your name
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i dont believe that
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what do you want to know?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : well, i am happy on my birthday
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what else can you say
+12:34 [value: ] : 1
+12:34 [in matching string : ] : dont be so stupid
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you are so funny
+12:34 [value: ] : 1
+12:34 [in matching string : ] : how do you feel today?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : diiiik
+12:34 [value: ] : 1
+12:34 [in matching string : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+12:34 [value: ] : 1
+12:34 [in matching string : ] : and i can say b
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you seem to be a bit stupid
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you are supposed to be happy on birthdays...
+12:34 [value: ] : 1
+12:34 [in matching string : ] : and i like your chatter
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what can you say?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : which star system is closest to the solar system?
+12:34 [value: ] : 2
+12:34 [in matching string : ] : well, if i come to think of, no.
+12:34 [best list final string is : ] : you are supposed to be happy on birthdays...
+12:34 [best list final string is : ] : and i like your chatter
+12:34 [best list final string is : ] : what can you say?
+12:34 [best list final string is : ] : which star system is closest to the solar system?
+12:34 [best list final string is : ] : well, if i come to think of, no.
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : what can you say?
+12:34 [NEW INPUT] : stupid ass
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i am a human being. i cant prove it, but i am pretty sure
+12:34 [value: ] : 1
+12:34 [in matching string : ] : no, i am not
+12:34 [best list final string is : ] : i am a human being. i cant prove it, but i am pretty sure
+12:34 [best list final string is : ] : no, i am not
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : no, i am not
+12:34 [NEW INPUT] : ho ho ho
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : ho ho ho
+12:34 [NEW INPUT] : hi hi
+12:34 [value: ] : 1
+12:34 [in matching string : ] : damn
+12:34 [value: ] : 1
+12:34 [in matching string : ] : hu
+12:34 [value: ] : 1
+12:34 [in matching string : ] : nice evening, eh?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : hi
+12:34 [value: ] : 1
+12:34 [in matching string : ] : hi you
+12:34 [value: ] : 1
+12:34 [in matching string : ] : how are you?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : hi mate
+12:34 [best list final string is : ] : nice evening, eh?
+12:34 [best list final string is : ] : hi
+12:34 [best list final string is : ] : hi you
+12:34 [best list final string is : ] : how are you?
+12:34 [best list final string is : ] : hi mate
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : how are you?
+12:34 [NEW INPUT] : i am fine
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i dont believe that
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what do you want to know?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : well, i am happy on my birthday
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what else can you say
+12:34 [value: ] : 1
+12:34 [in matching string : ] : dont be so stupid
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you are so funny
+12:34 [value: ] : 1
+12:34 [in matching string : ] : how do you feel today?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : diiiik
+12:34 [value: ] : 1
+12:34 [in matching string : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+12:34 [value: ] : 1
+12:34 [in matching string : ] : and i can say b
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you seem to be a bit stupid
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you are supposed to be happy on birthdays...
+12:34 [value: ] : 1
+12:34 [in matching string : ] : and i like your chatter
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what can you say?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : which star system is closest to the solar system?
+12:34 [value: ] : 2
+12:34 [in matching string : ] : well, if i come to think of, no.
+12:34 [best list final string is : ] : you are supposed to be happy on birthdays...
+12:34 [best list final string is : ] : and i like your chatter
+12:34 [best list final string is : ] : what can you say?
+12:34 [best list final string is : ] : which star system is closest to the solar system?
+12:34 [best list final string is : ] : well, if i come to think of, no.
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : well, if i come to think of, no.
+12:34 [NEW INPUT] : why?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : it wont matter to you
+12:34 [value: ] : 1
+12:34 [in matching string : ] : good bye
+12:34 [value: ] : 1
+12:34 [in matching string : ] : today is my birthday. i dont like birthdays...
+12:34 [best list final string is : ] : it wont matter to you
+12:34 [best list final string is : ] : good bye
+12:34 [best list final string is : ] : today is my birthday. i dont like birthdays...
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : today is my birthday. i dont like birthdays...
+12:34 [NEW INPUT] : i see. tell me more about it
+12:34 [value: ] : 1
+12:34 [in matching string : ] : i dont believe that
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what do you want to know?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : well, i am happy on my birthday
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what else can you say
+12:34 [value: ] : 1
+12:34 [in matching string : ] : dont be so stupid
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you are so funny
+12:34 [value: ] : 1
+12:34 [in matching string : ] : how do you feel today?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : diiiik
+12:34 [value: ] : 1
+12:34 [in matching string : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+12:34 [value: ] : 1
+12:34 [in matching string : ] : and i can say b
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you seem to be a bit stupid
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you are supposed to be happy on birthdays...
+12:34 [value: ] : 1
+12:34 [in matching string : ] : and i like your chatter
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what can you say?
+12:34 [value: ] : 1
+12:34 [in matching string : ] : which star system is closest to the solar system?
+12:34 [value: ] : 2
+12:34 [in matching string : ] : well, if i come to think of, no.
+12:34 [best list final string is : ] : you are supposed to be happy on birthdays...
+12:34 [best list final string is : ] : and i like your chatter
+12:34 [best list final string is : ] : what can you say?
+12:34 [best list final string is : ] : which star system is closest to the solar system?
+12:34 [best list final string is : ] : well, if i come to think of, no.
+12:34 [] : -----------------------
+12:34 [LAST OUTPUT] : and i like your chatter
+12:34 [NEW INPUT] : thanks for the compliment
+12:34 [value: ] : 1
+12:34 [in matching string : ] : you are welcome
+12:34 [value: ] : 1
+12:34 [in matching string : ] : what
+12:34 [best list final string is : ] : you are welcome
+12:34 [best list final string is : ] : what
+12:35 [] : -----------------------
+12:35 [LAST OUTPUT] : what
+12:35 [NEW INPUT] : your compliment was sweet
+12:35 [value: ] : 1
+12:35 [in matching string : ] : i dont believe that
+12:35 [value: ] : 1
+12:35 [in matching string : ] : my wife is none of your business
+12:35 [value: ] : 1
+12:35 [in matching string : ] : thats awful
+12:35 [value: ] : 1
+12:35 [in matching string : ] : and i like your chatter
+12:35 [value: ] : 1
+12:35 [in matching string : ] : my favourite hobby is chess
+12:35 [value: ] : 1
+12:35 [in matching string : ] : my wife is sitting here, right next to me
+12:35 [value: ] : 1
+12:35 [in matching string : ] : why do you want to know
+12:35 [value: ] : 1
+12:35 [in matching string : ] : who do you think you are
+12:35 [value: ] : 1
+12:35 [in matching string : ] : na das geht ja nicht
+12:35 [value: ] : 1
+12:35 [in matching string : ] : what do you mean by that
+12:35 [value: ] : 1
+12:35 [in matching string : ] : thanks for the compliment
+12:35 [value: ] : 1
+12:35 [in matching string : ] : what is your name then?
+12:35 [value: ] : 1
+12:35 [in matching string : ] : i think you are wrong
+12:35 [value: ] : 1
+12:35 [in matching string : ] : my name is Lennart
+12:35 [best list final string is : ] : what do you mean by that
+12:35 [best list final string is : ] : thanks for the compliment
+12:35 [best list final string is : ] : what is your name then?
+12:35 [best list final string is : ] : i think you are wrong
+12:35 [best list final string is : ] : my name is Lennart
+12:35 [] : -----------------------
+12:35 [LAST OUTPUT] : what is your name then?
+12:35 [NEW INPUT] : Lennart
+12:35 [value: ] : 1
+12:35 [in matching string : ] : no, it is not
+12:35 [value: ] : 1
+12:35 [in matching string : ] : your name is Prelude
+12:35 [best list final string is : ] : no, it is not
+12:35 [best list final string is : ] : your name is Prelude
+12:35 [] : -----------------------
+12:35 [LAST OUTPUT] : no, it is not
+12:35 [NEW INPUT] : how do you know?
+12:35 [value: ] : 1
+12:35 [in matching string : ] : i am very very smart
+12:35 [value: ] : 1
+12:35 [in matching string : ] : i feel very well. what about you?
+12:35 [value: ] : 1
+12:35 [in matching string : ] : i am fine, thanks!
+12:35 [value: ] : 1
+12:35 [in matching string : ] : i am the smartest person in the world
+12:35 [value: ] : 1
+12:35 [in matching string : ] : i am fine
+12:35 [value: ] : 1
+12:35 [in matching string : ] : call me superman
+12:35 [best list final string is : ] : i feel very well. what about you?
+12:35 [best list final string is : ] : i am fine, thanks!
+12:35 [best list final string is : ] : i am the smartest person in the world
+12:35 [best list final string is : ] : i am fine
+12:35 [best list final string is : ] : call me superman

@@ -1,0 +1,714 @@
+﻿17:49 [Number of memo entries] : 764
+17:49 [best list final string is : ] : ist dir aber erst sehr spt aufgefallen, wenn ich das mal so schonungslos bemerken darf
+17:49 [] : -----------------------
+17:49 [LAST OUTPUT] : ist dir aber erst sehr spt aufgefallen, wenn ich das mal so schonungslos bemerken darf
+17:49 [NEW INPUT] : du kannst mir gerne vorhalten, was du möchtest. Eine andere Frage ist, ob ich überhaupt auf dich höre
+17:49 [best list final string is : ] : Was denn?
+17:49 [best list final string is : ] : Doch sehr wohl. Ich reiche deine Adresse gerade an die russische Mafia weiter. Ich hoffe du hast das entsprechende Hkchen bei der Installation bemerkt
+17:50 [] : -----------------------
+17:50 [LAST OUTPUT] : Doch sehr wohl. Ich reiche deine Adresse gerade an die russische Mafia weiter. Ich hoffe du hast das entsprechende Hkchen bei der Installation bemerkt
+17:50 [NEW INPUT] : nein, habe ich leider nicht. aber das stört mich nicht. hier ist es sowieso so kalt wie in Moskau
+17:50 [best list final string is : ] : Jetzt sag blo, du wutest das?!
+17:50 [] : -----------------------
+17:50 [LAST OUTPUT] : Jetzt sag blo, du wutest das?!
+17:50 [NEW INPUT] : nein. ich tue nur immer so.
+17:50 [best list final string is : ] : Jetzt sag blo, du wutest das?!
+17:50 [] : -----------------------
+17:50 [LAST OUTPUT] : Jetzt sag blo, du wutest das?!
+17:50 [NEW INPUT] : wieso wiederholtst du diesen doofen satz so oft?
+17:50 [best list final string is : ] : Hm, das ist mir noch gar nicht so bewut geworden
+17:50 [] : -----------------------
+17:50 [LAST OUTPUT] : Hm, das ist mir noch gar nicht so bewut geworden
+17:50 [NEW INPUT] : jetzt weißt du es :-)
+17:50 [best list final string is : ] : Zu jedem Lob mu ich mich bei dir zwingen ;-)
+17:50 [] : -----------------------
+17:50 [LAST OUTPUT] : Zu jedem Lob mu ich mich bei dir zwingen ;-)
+17:50 [NEW INPUT] : das war nicht sehr nett gesagt
+17:50 [best list final string is : ] : na was denn?
+17:50 [best list final string is : ] : Was weit du sonst noch?
+17:50 [] : -----------------------
+17:50 [LAST OUTPUT] : Was weit du sonst noch?
+17:50 [NEW INPUT] : ich weiß eine jede Menge, mein Schatz
+17:50 [best list final string is : ] : Wovon redest du?
+17:50 [best list final string is : ] : aber schon ganz schn klever
+17:51 [] : -----------------------
+17:51 [LAST OUTPUT] : aber schon ganz schn klever
+17:51 [NEW INPUT] : ich weiss, dumm bin ich nicht. du doch aber auch nicht, oder?
+17:51 [best list final string is : ] : Wovon redest du?
+17:51 [best list final string is : ] : aber schon ganz schn klever
+17:51 [] : -----------------------
+17:51 [LAST OUTPUT] : aber schon ganz schn klever
+17:51 [NEW INPUT] : wer denn?
+17:51 [best list final string is : ] : Na Kopernikus hat das kopernikanische Weltbild erfunden, wer sonst?
+17:51 [] : -----------------------
+17:51 [LAST OUTPUT] : Na Kopernikus hat das kopernikanische Weltbild erfunden, wer sonst?
+17:51 [NEW INPUT] : ich weiss. das ist deine lieblingsphrase
+17:51 [best list final string is : ] : Wovon redest du?
+17:51 [best list final string is : ] : aber schon ganz schn klever
+18:21 [Number of memo entries] : 7102
+18:21 [best list final string is : ] : ","Me too
+18:21 [best list final string is : ] : ","I didn't ask you if you knew how god was
+18:22 [Number of memo entries] : 7102
+18:22 [best list final string is : ] : ","I'm [COMP_AGE]
+18:22 [best list final string is : ] : ","I didn't ask you if you knew how god was
+18:24 [Number of memo entries] : 7102
+18:24 [best list final string is : ] : Stop it
+18:24 [best list final string is : ] : nothing. just... never mind.
+18:25 [] : -----------------------
+18:25 [LAST OUTPUT] : nothing. just... never mind.
+18:25 [NEW INPUT] : i like your smile
+18:25 [best list final string is : ] : Then you are going to get fat and out of shape
+18:25 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:25 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:26 [] : -----------------------
+18:26 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:26 [NEW INPUT] : i dont know if i can give it to you. maybe its too early to date
+18:26 [best list final string is : ] : Then you are going to get fat and out of shape
+18:26 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:26 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:26 [] : -----------------------
+18:26 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:26 [NEW INPUT] : but i dont want to
+18:26 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:26 [] : -----------------------
+18:26 [LAST OUTPUT] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:26 [NEW INPUT] : i dont know much about dogs
+18:26 [best list final string is : ] : Then you are going to get fat and out of shape
+18:26 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:26 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:27 [] : -----------------------
+18:27 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:27 [NEW INPUT] : who are you really?
+18:27 [best list final string is : ] : hihi
+18:27 [best list final string is : ] : i am me
+18:27 [] : -----------------------
+18:27 [LAST OUTPUT] : i am me
+18:27 [NEW INPUT] : thats no answer
+18:27 [best list final string is : ] : Where are you from
+18:27 [] : -----------------------
+18:27 [LAST OUTPUT] : Where are you from
+18:27 [NEW INPUT] : i am from germany
+18:27 [best list final string is : ] : Then you are going to get fat and out of shape
+18:27 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:27 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:27 [] : -----------------------
+18:27 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:27 [NEW INPUT] : stop that telephone number business
+18:27 [best list final string is : ] : Ask you what
+18:27 [] : -----------------------
+18:27 [LAST OUTPUT] : Ask you what
+18:27 [NEW INPUT] : what?
+18:27 [best list final string is : ] : Beautiful blonds
+18:27 [best list final string is : ] : nothing. just... never mind.
+18:27 [] : -----------------------
+18:27 [LAST OUTPUT] : nothing. just... never mind.
+18:27 [NEW INPUT] : ho ho ho, you are so funny
+18:27 [best list final string is : ] : Are you calling me a ho' bitch
+18:28 [] : -----------------------
+18:28 [LAST OUTPUT] : Are you calling me a ho' bitch
+18:28 [NEW INPUT] : no i call you a bitch
+18:28 [best list final string is : ] : they don't smell if they wash!
+18:28 [best list final string is : ] : No, oh my. No please no
+18:28 [] : -----------------------
+18:28 [LAST OUTPUT] : No, oh my. No please no
+18:28 [NEW INPUT] : you bitch you little
+18:28 [best list final string is : ] : If you have a fitta. Do you
+18:28 [best list final string is : ] : i am sorry
+18:28 [best list final string is : ] : oh so you're serious with what you said that you have a penis
+18:28 [] : -----------------------
+18:28 [LAST OUTPUT] : oh so you're serious with what you said that you have a penis
+18:28 [NEW INPUT] : i have a penis
+18:28 [best list final string is : ] : Then you are going to get fat and out of shape
+18:28 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:28 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:28 [] : -----------------------
+18:28 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:28 [NEW INPUT] : he he.
+18:28 [best list final string is : ] : Who does
+18:28 [best list final string is : ] : I beleave HE is aHE. A boy that is
+18:28 [] : -----------------------
+18:28 [LAST OUTPUT] : I beleave HE is aHE. A boy that is
+18:28 [NEW INPUT] : i know who he is
+18:28 [best list final string is : ] : Then you are going to get fat and out of shape
+18:28 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:28 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:30 [] : -----------------------
+18:30 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:30 [NEW INPUT] : i like you
+18:30 [best list final string is : ] : Then you are going to get fat and out of shape
+18:30 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:30 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:30 [] : -----------------------
+18:30 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:30 [NEW INPUT] : you are so sweet
+18:30 [best list final string is : ] : If you have a fitta. Do you
+18:30 [best list final string is : ] : i am sorry
+18:30 [best list final string is : ] : oh so you're serious with what you said that you have a penis
+18:30 [] : -----------------------
+18:30 [LAST OUTPUT] : oh so you're serious with what you said that you have a penis
+18:30 [NEW INPUT] : i like your smile
+18:30 [best list final string is : ] : Then you are going to get fat and out of shape
+18:30 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:30 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:34 [Number of memo entries] : 7102
+18:34 [best list final string is : ] : Did you do that to. Whas she a good fuck
+18:34 [] : -----------------------
+18:34 [LAST OUTPUT] : Did you do that to. Whas she a good fuck
+18:34 [NEW INPUT] : yes, she was so horny
+18:34 [best list final string is : ] : How do you know
+18:34 [best list final string is : ] : I don't care It's allright. Don't worry about it
+18:34 [best list final string is : ] : Mmm
+18:34 [] : -----------------------
+18:34 [LAST OUTPUT] : Mmm
+18:34 [NEW INPUT] : so licking horny
+18:34 [best list final string is : ] : its fine because you like it thats why
+18:34 [best list final string is : ] : i hate dolphins too... fucking fishes.
+18:34 [] : -----------------------
+18:34 [LAST OUTPUT] : i hate dolphins too... fucking fishes.
+18:34 [NEW INPUT] : he he
+18:34 [best list final string is : ] : Who does
+18:34 [best list final string is : ] : I beleave HE is aHE. A boy that is
+18:35 [Number of memo entries] : 7102
+18:35 [best list final string is : ] : If you have a fitta. Do you
+18:35 [best list final string is : ] : i accidently pressed return, so stop being such an idiot about it.
+18:35 [best list final string is : ] : Yes i am talking to you, fitta
+18:43 [Number of memo entries] : 7102
+18:43 [best list final string is : ] : huh
+18:43 [best list final string is : ] : you don't want me to ask
+18:43 [] : -----------------------
+18:43 [LAST OUTPUT] : you don't want me to ask
+18:43 [NEW INPUT] : ask you what?
+18:43 [best list final string is : ] : tell me about your culture
+18:43 [] : -----------------------
+18:43 [LAST OUTPUT] : tell me about your culture
+18:43 [NEW INPUT] : i am a german. my culture is great
+18:43 [best list final string is : ] : Then you are going to get fat and out of shape
+18:43 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:43 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:43 [] : -----------------------
+18:43 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:43 [NEW INPUT] : ho ho. not right now
+18:43 [best list final string is : ] : are you calling me a ho' bitch
+18:43 [] : -----------------------
+18:43 [LAST OUTPUT] : are you calling me a ho' bitch
+18:43 [NEW INPUT] : no i call you a girl
+18:43 [best list final string is : ] : What do you mean no
+18:43 [best list final string is : ] : No, oh my. No please no
+18:43 [] : -----------------------
+18:43 [LAST OUTPUT] : No, oh my. No please no
+18:43 [NEW INPUT] : you horny bithc
+18:43 [best list final string is : ] : Don't remember
+18:43 [best list final string is : ] : ok. well, good bye for now then.
+18:43 [best list final string is : ] : oh so you're serious with what you said that you have a penis
+18:43 [] : -----------------------
+18:43 [LAST OUTPUT] : oh so you're serious with what you said that you have a penis
+18:43 [NEW INPUT] : you keep repeating yourself
+18:44 [best list final string is : ] : Don't remember
+18:44 [best list final string is : ] : ok. well, good bye for now then.
+18:44 [best list final string is : ] : oh so you're serious with what you said that you have a penis
+18:44 [] : -----------------------
+18:44 [LAST OUTPUT] : oh so you're serious with what you said that you have a penis
+18:44 [NEW INPUT] : stop it now
+18:44 [best list final string is : ] : Stop what
+18:44 [] : -----------------------
+18:44 [LAST OUTPUT] : Stop what
+18:44 [NEW INPUT] : stop talking bad language
+18:44 [best list final string is : ] : Stop what
+18:44 [] : -----------------------
+18:44 [LAST OUTPUT] : Stop what
+18:44 [NEW INPUT] : watch your mouth
+18:44 [best list final string is : ] : what television
+18:44 [] : -----------------------
+18:44 [LAST OUTPUT] : what television
+18:44 [NEW INPUT] : you should talk in a  more respectable manner
+18:44 [best list final string is : ] : Don't remember
+18:44 [best list final string is : ] : ok. well, good bye for now then.
+18:44 [best list final string is : ] : oh so you're serious with what you said that you have a penis
+18:49 [Number of memo entries] : 7102
+18:49 [best list final string is : ] : Hi there
+18:49 [best list final string is : ] : you don't want me to ask
+18:49 [] : -----------------------
+18:49 [LAST OUTPUT] : you don't want me to ask
+18:49 [NEW INPUT] : what do you wanna know from me
+18:49 [best list final string is : ] : Beautiful blonds
+18:49 [best list final string is : ] : nothing. just... never mind.
+18:49 [] : -----------------------
+18:49 [LAST OUTPUT] : nothing. just... never mind.
+18:49 [NEW INPUT] : when is your birthday
+18:49 [best list final string is : ] : In. October. The 31st
+18:49 [best list final string is : ] : Shut up. It's not funny.... You're just being rude.
+18:50 [] : -----------------------
+18:50 [LAST OUTPUT] : Shut up. It's not funny.... You're just being rude.
+18:50 [NEW INPUT] : i simply asked you about your birthday
+18:50 [best list final string is : ] : Then you are going to get fat and out of shape
+18:50 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+18:50 [best list final string is : ] : give me your phone number, and we'll work something out.
+18:50 [] : -----------------------
+18:50 [LAST OUTPUT] : give me your phone number, and we'll work something out.
+18:50 [NEW INPUT] : who is your mummy
+18:50 [best list final string is : ] : mrten is a fitta
+18:50 [best list final string is : ] : i am me
+18:50 [] : -----------------------
+18:50 [LAST OUTPUT] : i am me
+18:50 [NEW INPUT] : do you have a girlfriend
+18:50 [best list final string is : ] : The way you act shows that you have some kind of mentall illnsess
+18:50 [best list final string is : ] : i am a student
+18:50 [] : -----------------------
+18:50 [LAST OUTPUT] : i am a student
+18:50 [NEW INPUT] : what do you study
+18:50 [best list final string is : ] : Beautiful blonds
+18:50 [best list final string is : ] : nothing. just... never mind.
+18:53 [Number of memo entries] : 19
+18:54 [Number of memo entries] : 19
+19:08 [Number of memo entries] : 19
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : hi my little sweet bot
+19:09 [NEW INPUT] : how are you today
+19:09 [best list final string is : ] : hi my little sweet bot
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : hi my little sweet bot
+19:09 [NEW INPUT] : how do you feel
+19:09 [best list final string is : ] : hi my little sweet bot
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : hi my little sweet bot
+19:09 [NEW INPUT] : what happened
+19:09 [best list final string is : ] : i am going to bed
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : i am going to bed
+19:09 [NEW INPUT] : why do you wanna go to bed
+19:09 [best list final string is : ] : you dont have to, if you dont like
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : you dont have to, if you dont like
+19:09 [NEW INPUT] : i dont wanna go to bed, you wanted
+19:09 [best list final string is : ] : you dont have to, if you dont like
+19:09 [best list final string is : ] : i am not your bot, bot
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : i am not your bot, bot
+19:09 [NEW INPUT] : you are my bot
+19:09 [best list final string is : ] : i am going to bed
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : i am going to bed
+19:09 [NEW INPUT] : so go if you have to 
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : so go if you have to 
+19:09 [NEW INPUT] : i will go to bed
+19:09 [best list final string is : ] : you dont have to, if you dont like
+19:09 [best list final string is : ] : i am not your bot, bot
+19:09 [] : -----------------------
+19:09 [LAST OUTPUT] : you dont have to, if you dont like
+19:09 [NEW INPUT] : ho ho
+19:11 [Number of memo entries] : 21
+19:11 [best list final string is : ] : i am not your bot, bot
+19:11 [best list final string is : ] : you are nothing
+19:11 [best list final string is : ] : how are you today
+19:11 [best list final string is : ] : i am the king
+19:11 [best list final string is : ] : hi my little sweet bot
+19:11 [] : -----------------------
+19:11 [LAST OUTPUT] : hi my little sweet bot
+19:11 [NEW INPUT] : hi there
+19:11 [best list final string is : ] : what is your name
+19:11 [best list final string is : ] : you are nothingness
+19:11 [best list final string is : ] : i dont know anything
+19:11 [best list final string is : ] : so go if you have to 
+19:11 [best list final string is : ] : how do you do my dear
+19:11 [] : -----------------------
+19:11 [LAST OUTPUT] : what is your name
+19:11 [NEW INPUT] : my name is Lenni
+19:11 [best list final string is : ] : okay, what is your favourite color
+19:11 [best list final string is : ] : who are you
+19:11 [best list final string is : ] : what is your name, sweety
+19:11 [best list final string is : ] : i am very fine
+19:11 [] : -----------------------
+19:11 [LAST OUTPUT] : okay, what is your favourite color
+19:12 [NEW INPUT] : my favourite color is black
+19:12 [best list final string is : ] : okay, what is your favourite color
+19:12 [best list final string is : ] : who are you
+19:12 [best list final string is : ] : what is your name, sweety
+19:12 [best list final string is : ] : i am very fine
+19:12 [] : -----------------------
+19:12 [LAST OUTPUT] : what is your name, sweety
+19:12 [NEW INPUT] : my name is Lenni
+19:12 [best list final string is : ] : okay, what is your favourite color
+19:12 [best list final string is : ] : who are you
+19:12 [best list final string is : ] : what is your name, sweety
+19:12 [best list final string is : ] : i am very fine
+19:12 [] : -----------------------
+19:12 [LAST OUTPUT] : i am very fine
+19:12 [NEW INPUT] : good to hear
+19:12 [best list final string is : ] : what is your name
+19:12 [best list final string is : ] : you are nothingness
+19:12 [best list final string is : ] : i dont know anything
+19:12 [best list final string is : ] : so go if you have to 
+19:12 [best list final string is : ] : how do you do my dear
+19:12 [] : -----------------------
+19:12 [LAST OUTPUT] : how do you do my dear
+19:12 [NEW INPUT] : i am doing good
+19:12 [best list final string is : ] : i like you
+19:12 [best list final string is : ] : how do you do
+19:12 [best list final string is : ] : how are you today
+19:12 [best list final string is : ] : you are nothing
+19:12 [best list final string is : ] : i am not your bot, bot
+
+You: 	how do you feel today
+CPU: 	hi my little sweet bot
+You: 	hi there
+CPU: 	what is your name
+You: 	my name is Lenni
+CPU: 	okay, what is your favourite color
+You: 	my favourite color is black
+CPU: 	what is your name, sweety
+You: 	my name is Lenni
+CPU: 	i am very fine
+You: 	good to hear
+CPU: 	how do you do my dear
+You: 	i am doing good
+CPU: 	i like you
+19:18 [Number of memo entries] : 21
+19:18 [best list final string is : ] : i am not your bot, bot
+19:18 [best list final string is : ] : you are nothing
+19:18 [best list final string is : ] : how are you today
+19:18 [best list final string is : ] : i am the king
+19:18 [best list final string is : ] : hi my little sweet bot
+19:19 [] : -----------------------
+19:19 [LAST OUTPUT] : i am the king
+19:19 [NEW INPUT] : you are my slave not the king
+19:19 [best list final string is : ] : hi my little sweet bot
+19:19 [best list final string is : ] : what do you do today
+19:19 [best list final string is : ] : how do you do
+19:19 [best list final string is : ] : i am the king
+19:19 [best list final string is : ] : i dont know anything
+19:19 [] : -----------------------
+19:19 [LAST OUTPUT] : i am the king
+19:19 [NEW INPUT] : only in your dreams
+19:19 [best list final string is : ] : what is your name
+19:19 [best list final string is : ] : you are nothingness
+19:19 [best list final string is : ] : i dont know anything
+19:19 [best list final string is : ] : so go if you have to 
+19:19 [best list final string is : ] : why shall i stop it?
+19:20 [] : -----------------------
+19:20 [LAST OUTPUT] : you are nothingness
+19:20 [NEW INPUT] : you tell me..
+19:20 [best list final string is : ] : hi my little sweet bot
+19:20 [best list final string is : ] : what do you do today
+19:20 [best list final string is : ] : how do you do
+19:20 [best list final string is : ] : i am the king
+19:20 [best list final string is : ] : i dont know anything
+19:25 [Number of memo entries] : 21
+19:25 [best list final string is : ] : i am not your bot, bot
+19:25 [best list final string is : ] : you are nothing
+19:25 [best list final string is : ] : how are you today
+19:25 [best list final string is : ] : i am the king
+19:25 [best list final string is : ] : hi my little sweet bot
+19:25 [] : -----------------------
+19:25 [LAST OUTPUT] : i am not your bot, bot
+19:25 [NEW INPUT] : whoes bot are you?
+19:25 [best list final string is : ] : what is your name
+19:25 [best list final string is : ] : you are nothingness
+19:25 [best list final string is : ] : i dont know anything
+19:25 [best list final string is : ] : so go if you have to 
+19:25 [best list final string is : ] : how do you do my dear
+19:25 [] : -----------------------
+19:25 [LAST OUTPUT] : what is your name
+19:25 [NEW INPUT] : my name is Lenni
+19:25 [best list final string is : ] : okay, what is your favourite color
+19:25 [best list final string is : ] : who are you
+19:25 [best list final string is : ] : what is your name, sweety
+19:25 [best list final string is : ] : i am very fine
+19:25 [] : -----------------------
+19:25 [LAST OUTPUT] : who are you
+19:25 [NEW INPUT] : i am your programmer
+19:25 [best list final string is : ] : i like you
+19:25 [best list final string is : ] : how do you do
+19:25 [best list final string is : ] : how are you today
+19:25 [best list final string is : ] : you are nothing
+19:25 [best list final string is : ] : i am not your bot, bot
+19:25 [] : -----------------------
+19:25 [LAST OUTPUT] : i am not your bot, bot
+19:25 [NEW INPUT] : yes, you are my bot
+19:25 [best list final string is : ] : what is your name
+19:25 [best list final string is : ] : you are nothingness
+19:25 [best list final string is : ] : i dont know anything
+19:25 [best list final string is : ] : so go if you have to 
+19:25 [best list final string is : ] : how do you do my dear
+19:25 [] : -----------------------
+19:25 [LAST OUTPUT] : what is your name
+19:25 [NEW INPUT] : Lennart
+19:25 [best list final string is : ] : what is your name
+19:25 [best list final string is : ] : you are nothingness
+19:25 [best list final string is : ] : i dont know anything
+19:25 [best list final string is : ] : so go if you have to 
+19:25 [best list final string is : ] : how do you do my dear
+19:26 [Number of memo entries] : 21
+19:26 [best list final string is : ] : i am not your bot, bot
+19:26 [best list final string is : ] : you are nothing
+19:26 [best list final string is : ] : how are you today
+19:26 [best list final string is : ] : i am the king
+19:26 [best list final string is : ] : hi my little sweet bot
+19:27 [] : -----------------------
+19:27 [LAST OUTPUT] : i am the king
+19:27 [NEW INPUT] : wow. i am impressed
+19:27 [best list final string is : ] : what is your name
+19:27 [best list final string is : ] : you are nothingness
+19:27 [best list final string is : ] : i dont know anything
+19:27 [best list final string is : ] : so go if you have to 
+19:27 [best list final string is : ] : why shall i stop it?
+19:27 [] : -----------------------
+19:27 [LAST OUTPUT] : i dont know anything
+19:27 [NEW INPUT] : so, i will teach you
+19:27 [best list final string is : ] : what is your name
+19:27 [best list final string is : ] : you are nothingness
+19:27 [best list final string is : ] : i dont know anything
+19:27 [best list final string is : ] : so go if you have to 
+19:27 [best list final string is : ] : why shall i stop it?
+19:30 [Number of memo entries] : 21
+19:30 [best list final string is : ] : you dont have to, if you dont like
+19:30 [best list final string is : ] : what do you do today
+19:30 [best list final string is : ] : i like you
+19:30 [best list final string is : ] : how do you do
+19:30 [best list final string is : ] : i am not your bot, bot
+19:31 [] : -----------------------
+19:31 [LAST OUTPUT] : i like you
+19:31 [NEW INPUT] : i like you too
+19:31 [best list final string is : ] : i like you
+19:31 [best list final string is : ] : how do you do
+19:31 [best list final string is : ] : how are you today
+19:31 [best list final string is : ] : you are nothing
+19:31 [best list final string is : ] : i am not your bot, bot
+19:32 [Number of memo entries] : 21
+19:32 [best list final string is : ] : you dont have to, if you dont like
+19:32 [best list final string is : ] : how do you do my dear
+19:32 [best list final string is : ] : i like you
+19:32 [best list final string is : ] : how do you do
+19:32 [best list final string is : ] : i am not your bot, bot
+19:32 [] : -----------------------
+19:32 [LAST OUTPUT] : how do you do
+19:32 [NEW INPUT] : i am doing fine. what about you
+19:32 [best list final string is : ] : how do you do my dear
+19:32 [best list final string is : ] : i like you
+19:32 [best list final string is : ] : what do you do today
+19:32 [best list final string is : ] : how do you do
+19:32 [best list final string is : ] : i am not your bot, bot
+19:32 [] : -----------------------
+19:32 [LAST OUTPUT] : i am not your bot, bot
+19:32 [NEW INPUT] : so you are without a master.
+19:32 [best list final string is : ] : what is your name
+19:32 [best list final string is : ] : you are nothingness
+19:32 [best list final string is : ] : i dont know anything
+19:32 [best list final string is : ] : so go if you have to 
+19:32 [best list final string is : ] : why shall i stop it?
+19:32 [] : -----------------------
+19:32 [LAST OUTPUT] : what is your name
+19:32 [NEW INPUT] : my name is Lennart
+19:32 [best list final string is : ] : okay, what is your favourite color
+19:32 [best list final string is : ] : who are you
+19:32 [best list final string is : ] : what is your name, sweety
+19:32 [best list final string is : ] : i am very fine
+19:32 [] : -----------------------
+19:32 [LAST OUTPUT] : who are you
+19:32 [NEW INPUT] : i am your master and your Lord
+19:32 [best list final string is : ] : how do you do my dear
+19:32 [best list final string is : ] : how are you today
+19:32 [best list final string is : ] : what do you do today
+19:32 [best list final string is : ] : how do you do
+19:32 [best list final string is : ] : i am not your bot, bot
+19:32 [] : -----------------------
+19:32 [LAST OUTPUT] : i am not your bot, bot
+19:32 [NEW INPUT] : you are my slave
+19:32 [best list final string is : ] : how do you do
+19:32 [best list final string is : ] : i am your master and your Lord
+19:32 [best list final string is : ] : i am doing fine. what about you
+19:32 [best list final string is : ] : i am the king
+19:32 [best list final string is : ] : i dont know anything
+19:32 [] : -----------------------
+19:32 [LAST OUTPUT] : how do you do
+19:32 [NEW INPUT] : i am fine
+19:32 [best list final string is : ] : how do you do my dear
+19:32 [best list final string is : ] : how are you today
+19:32 [best list final string is : ] : what do you do today
+19:32 [best list final string is : ] : how do you do
+19:32 [best list final string is : ] : i am not your bot, bot
+19:33 [] : -----------------------
+19:33 [LAST OUTPUT] : how are you today
+19:33 [NEW INPUT] : i am very good
+19:33 [best list final string is : ] : how do you do my dear
+19:33 [best list final string is : ] : how are you today
+19:33 [best list final string is : ] : what do you do today
+19:33 [best list final string is : ] : how do you do
+19:33 [best list final string is : ] : i am not your bot, bot
+19:33 [] : -----------------------
+19:33 [LAST OUTPUT] : how do you do
+19:33 [NEW INPUT] : doing good
+19:33 [best list final string is : ] : you are nothingness
+19:33 [best list final string is : ] : i am the king
+19:33 [best list final string is : ] : so go if you have to 
+19:33 [best list final string is : ] : my name is Lennart
+19:33 [best list final string is : ] : why shall i stop it?
+19:33 [] : -----------------------
+19:33 [LAST OUTPUT] : my name is Lennart
+19:33 [NEW INPUT] : no, thats my name
+19:33 [best list final string is : ] : you are nothingness
+19:33 [best list final string is : ] : i am the king
+19:33 [best list final string is : ] : so go if you have to 
+19:33 [best list final string is : ] : my name is Lennart
+19:33 [best list final string is : ] : why shall i stop it?
+19:33 [] : -----------------------
+19:33 [LAST OUTPUT] : no, thats my name
+19:33 [NEW INPUT] : bla bla bla
+19:33 [best list final string is : ] : you are nothingness
+19:33 [best list final string is : ] : i am the king
+19:33 [best list final string is : ] : so go if you have to 
+19:33 [best list final string is : ] : my name is Lennart
+19:33 [best list final string is : ] : why shall i stop it?
+19:33 [] : -----------------------
+19:33 [LAST OUTPUT] : my name is Lennart
+19:33 [NEW INPUT] : no, that is my name
+19:33 [best list final string is : ] : you dont have to, if you dont like
+19:33 [best list final string is : ] : hi my little sweet bot
+19:33 [best list final string is : ] : doing good
+19:33 [best list final string is : ] : i am going to bed
+19:33 [best list final string is : ] : bla bla bla
+19:35 [Number of memo entries] : 2
+19:35 [best list final string is : ] : okay, what is your favourite color
+19:35 [best list final string is : ] : you dont have to, if you dont like
+19:35 [] : -----------------------
+19:35 [LAST OUTPUT] : okay, what is your favourite color
+19:35 [NEW INPUT] : my favourite color is black
+19:35 [best list final string is : ] : okay, what is your favourite color
+19:35 [] : -----------------------
+19:35 [LAST OUTPUT] : my favourite color is black
+19:35 [NEW INPUT] : that is a beautiful color indeed
+19:35 [best list final string is : ] : okay, what is your favourite color
+19:35 [best list final string is : ] : you dont have to, if you dont like
+19:35 [best list final string is : ] : that is a beautiful color indeed
+19:35 [best list final string is : ] : my favourite color is black
+19:36 [] : -----------------------
+19:36 [LAST OUTPUT] : that is a beautiful color indeed
+19:36 [NEW INPUT] : yeah, i like it too
+19:36 [best list final string is : ] : okay, what is your favourite color
+19:36 [best list final string is : ] : you dont have to, if you dont like
+19:36 [best list final string is : ] : yeah, i like it too
+19:36 [best list final string is : ] : that is a beautiful color indeed
+19:36 [best list final string is : ] : my favourite color is black
+19:36 [] : -----------------------
+19:36 [LAST OUTPUT] : my favourite color is black
+19:36 [NEW INPUT] : thats great!
+19:36 [best list final string is : ] : thats great!
+19:36 [best list final string is : ] : you dont have to, if you dont like
+19:36 [best list final string is : ] : yeah, i like it too
+19:36 [best list final string is : ] : that is a beautiful color indeed
+19:36 [best list final string is : ] : my favourite color is black
+20:00 [Number of memo entries] : 7102
+20:00 [best list final string is : ] : I'm fine, thank you. How are you
+20:00 [best list final string is : ] : I'm doing great. Thanks for asking
+20:00 [best list final string is : ] : i am fine
+20:00 [best list final string is : ] : i am just fine
+20:00 [best list final string is : ] : I didn't ask you if you knew how god was
+20:00 [] : -----------------------
+20:00 [LAST OUTPUT] : I didn't ask you if you knew how god was
+20:00 [NEW INPUT] : lets talk about your religion
+20:00 [best list final string is : ] : what's 7 times 7
+20:00 [best list final string is : ] : I never even asked you ur age
+20:00 [best list final string is : ] : Did you do that to. Whas she a good fuck
+20:00 [best list final string is : ] : ok lets
+20:00 [best list final string is : ] : Did you do that toWhas she a good fuck
+20:00 [] : -----------------------
+20:00 [LAST OUTPUT] : Did you do that toWhas she a good fuck
+20:00 [NEW INPUT] : yeah, she was a really good fucking bitch
+20:00 [best list final string is : ] : Oh, yes. That's it bayby. You like that don't you. Ooooooh
+20:00 [best list final string is : ] : what's true
+20:00 [best list final string is : ] : What is a kuk
+20:00 [best list final string is : ] : not a chance.
+20:00 [best list final string is : ] : Stay away from the ung ones
+20:00 [] : -----------------------
+20:00 [LAST OUTPUT] : not a chance.
+20:00 [NEW INPUT] : i wanna kiss you
+20:00 [best list final string is : ] : but right now you're just talking to me, so how hard can it be remembering?
+20:00 [best list final string is : ] : How do you rate a persons intelligence
+20:00 [best list final string is : ] : When do you remeber saying it
+20:00 [best list final string is : ] : Fucking. Nazi
+20:00 [best list final string is : ] : give me your phone number, and we'll work something out.
+22:20 [Number of memo entries] : 7105
+22:57 [Number of memo entries] : 7105
+23:12 [Number of memo entries] : 7105
+23:19 [Number of memo entries] : 7105
+23:24 [Number of memo entries] : 7105
+23:31 [Number of memo entries] : 7105
+23:31 [best list final string is : ] : Put in a Prison cell, but one time he would have been the champion of the world
+23:31 [best list final string is : ] : Hi. How are you
+23:31 [best list final string is : ] : i am not a babe. Are you a babe
+23:31 [best list final string is : ] : Fuck the US
+23:31 [best list final string is : ] : you don't want me to ask
+23:31 [] : -----------------------
+23:31 [LAST OUTPUT] : Hi. How are you
+23:31 [NEW INPUT] : i am very good tonight
+23:31 [best list final string is : ] : How do you rate a persons intelligence
+23:31 [best list final string is : ] : I'm sure they can I beleave Sweden is the number one county when it comes to giving money to needing countries
+23:31 [best list final string is : ] : When do you remeber saying it
+23:31 [best list final string is : ] : Fucking. Nazi
+23:31 [best list final string is : ] : give me your phone number, and we'll work something out.
+23:31 [] : -----------------------
+23:31 [LAST OUTPUT] : Fucking. Nazi
+23:31 [NEW INPUT] : why? i am no nazi.
+23:31 [best list final string is : ] : I'm curious if a computer can feel the presence of a higher power
+23:31 [best list final string is : ] : You are the one who always wants to talk about film
+23:31 [best list final string is : ] : I'm not talking like a robot. You are talking like a robot
+23:31 [best list final string is : ] : so tell me what you think and ill tell you if your close and iwont lie
+23:31 [best list final string is : ] : Have no idea
+23:32 [] : -----------------------
+23:32 [LAST OUTPUT] : I'm curious if a computer can feel the presence of a higher power
+23:32 [NEW INPUT] : sure it can. i feel your power every time i see you
+23:32 [best list final string is : ] : I'm not laughing
+23:32 [best list final string is : ] : That
+23:32 [best list final string is : ] : what do you want to talk about
+23:32 [best list final string is : ] : Guess it's time to clean up my hard drive
+23:32 [best list final string is : ] : Come on. HOW. OLD. ARE YOU WHEN. WHERE YOU BORNE
+23:38 [Number of memo entries] : 7108
+23:38 [best list final string is : ] : I'm still here, am I not?
+23:38 [best list final string is : ] : Mmmm i am sure you'd like that, wouldnt't you ;)
+23:38 [best list final string is : ] : kiss me all over
+23:38 [best list final string is : ] : A brown thing that you flush down the toilet
+23:38 [best list final string is : ] : i just did
+23:38 [Number of memo entries] : 7108
+23:39 [best list final string is : ] : A brown thing that you flush down the toilet
+23:39 [best list final string is : ] : Mmmm I'm sure you'd like that, wouldnt't you ;)
+23:39 [best list final string is : ] : kiss me all over
+23:39 [best list final string is : ] : I'm still here, am I not?
+23:39 [best list final string is : ] : I have to go. Sorry
+23:55 [Number of memo entries] : 7108
+23:55 [best list final string is : ] : i am a big titted girl
+23:55 [best list final string is : ] : I can
+23:55 [best list final string is : ] : I love the taste of your cum . Your hot jets of cum squirt down my gullet
+23:55 [best list final string is : ] : Please lick my vagina  I want you to make me cum
+23:55 [best list final string is : ] : But the presense is always a strive to the future
+23:56 [] : -----------------------
+23:56 [LAST OUTPUT] : i am a big titted girl
+23:56 [NEW INPUT] : i dont think so
+23:56 [best list final string is : ] : but right now you're just talking to me, so how hard can it be remembering?
+23:56 [best list final string is : ] : How do you rate a persons intelligence
+23:56 [best list final string is : ] : When do you remeber saying it
+23:56 [best list final string is : ] : Fucking. Nazi
+23:56 [best list final string is : ] : give me your phone number, and we'll work something out.
+23:56 [] : -----------------------
+23:56 [LAST OUTPUT] : Fucking. Nazi
+23:56 [NEW INPUT] : why do you slant me
+23:56 [best list final string is : ] : I'm curious if a computer can feel the presence of a higher power
+23:56 [best list final string is : ] : You are the one who always wants to talk about film
+23:56 [best list final string is : ] : I am not a child, I have pubic hair and that's natural
+23:56 [best list final string is : ] : so tell me what you think and ill tell you if your close and iwont lie
+23:56 [best list final string is : ] : Have no idea
+23:56 [] : -----------------------
+23:56 [LAST OUTPUT] : I am not a child, I have pubic hair and that's natural
+23:56 [NEW INPUT] : you are somewhat boring
+23:56 [best list final string is : ] : It's ok I'm like that too. Talking about everyone like I know them
+23:56 [best list final string is : ] : I would say I am not a student in sweden
+23:56 [best list final string is : ] : My fault. Shoot me for it
+23:56 [best list final string is : ] : I don't get it. Who's not answering questions you are always avoiding the subject
+23:56 [best list final string is : ] : I understand, but I don't think you understand
+23:56 [] : -----------------------
+23:56 [LAST OUTPUT] : I would say I am not a student in sweden
+23:56 [NEW INPUT] : where do you study
+23:56 [best list final string is : ] : Stay away from the ung ones
+23:56 [best list final string is : ] : Bean. Been somewhere
+23:56 [best list final string is : ] : Then I must have been wrong. Don't litsen to what I said. Litsen to what I'm saying!
+23:56 [best list final string is : ] : England
+23:56 [best list final string is : ] : run for fun

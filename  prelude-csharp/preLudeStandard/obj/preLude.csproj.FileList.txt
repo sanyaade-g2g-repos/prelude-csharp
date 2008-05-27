@@ -1,0 +1,3 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\preLude.preLude.MainForm.resources
+obj\Debug\preLude.DefaultNamespace.AboutBox.resources

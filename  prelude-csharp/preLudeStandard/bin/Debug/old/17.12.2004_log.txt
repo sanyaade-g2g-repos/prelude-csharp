@@ -1,0 +1,2611 @@
+13:19 [Number of memo entries] : 433
+20:05 [Number of memo entries] : 433
+20:05 [value: ] : 1
+20:05 [in matching string : ] : damn
+20:05 [value: ] : 1
+20:05 [in matching string : ] : nice evening, eh?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : hi chap
+20:05 [value: ] : 1
+20:05 [in matching string : ] : hu
+20:05 [value: ] : 1
+20:05 [in matching string : ] : hi
+20:05 [value: ] : 1
+20:05 [in matching string : ] : still on the watch for chatters?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : wrong answer
+20:05 [value: ] : 1
+20:05 [in matching string : ] : hi mate
+20:05 [value: ] : 1
+20:05 [in matching string : ] : how do you do?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : hi you
+20:05 [value: ] : 1
+20:05 [in matching string : ] : how are you doing?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : how are you?
+20:05 [best list final string is : ] : hi mate
+20:05 [best list final string is : ] : how do you do?
+20:05 [best list final string is : ] : hi you
+20:05 [best list final string is : ] : how are you doing?
+20:05 [best list final string is : ] : how are you?
+20:05 [] : -----------------------
+20:05 [LAST OUTPUT] : hi mate
+20:05 [NEW INPUT] : how do you feel
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am good. actually i feel very inspired by you
+20:05 [value: ] : 1
+20:05 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+20:05 [value: ] : 1
+20:05 [in matching string : ] : who was the first man on the moon
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am fine
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am feeling a bit dizzy today
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am very very smart
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i just had my lunch
+20:05 [value: ] : 1
+20:05 [in matching string : ] : call me superman
+20:05 [value: ] : 1
+20:05 [in matching string : ] : you are pretty surprised, arent you?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : thats none of your business
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am good. how about you?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am good.
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i wont tell you the details.
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i feel very well. what about you?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : who was the first man on the moon?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am fine. what about you?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am fine, thanks!
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am the smartest person in the world
+20:05 [value: ] : 1
+20:05 [in matching string : ] : what is your latest achievement
+20:05 [value: ] : 1
+20:05 [in matching string : ] : no, i dont want to
+20:05 [best list final string is : ] : i am fine. what about you?
+20:05 [best list final string is : ] : i am fine, thanks!
+20:05 [best list final string is : ] : i am the smartest person in the world
+20:05 [best list final string is : ] : what is your latest achievement
+20:05 [best list final string is : ] : no, i dont want to
+20:05 [Number of memo entries] : 434
+20:05 [value: ] : 1
+20:05 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+20:05 [value: ] : 1
+20:05 [in matching string : ] : who was the first man on the moon
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am fine
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am feeling a bit dizzy today
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am fine, thanks!
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am very very smart
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i just had my lunch
+20:05 [value: ] : 1
+20:05 [in matching string : ] : who was the first man on the moon?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : call me superman
+20:05 [value: ] : 1
+20:05 [in matching string : ] : you are pretty surprised, arent you?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : thats none of your business
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am good. how about you?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i wont tell you the details.
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am the smartest person in the world
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am good. actually i feel very inspired by you
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am fine. what about you?
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i am good.
+20:05 [value: ] : 1
+20:05 [in matching string : ] : what is your latest achievement
+20:05 [value: ] : 1
+20:05 [in matching string : ] : no, i dont want to
+20:05 [value: ] : 1
+20:05 [in matching string : ] : i feel very well. what about you?
+20:05 [best list final string is : ] : i am fine. what about you?
+20:05 [best list final string is : ] : i am good.
+20:05 [best list final string is : ] : what is your latest achievement
+20:05 [best list final string is : ] : no, i dont want to
+20:05 [best list final string is : ] : i feel very well. what about you?
+20:07 [Number of memo entries] : 434
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i feel disappointed by your uselessness
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i wont tell to you, mindless cake
+20:07 [value: ] : 1
+20:07 [in matching string : ] : your compliment was sweet
+20:07 [value: ] : 1
+20:07 [in matching string : ] : my knowledge and wisdom
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i cant read your mind
+20:07 [value: ] : 1
+20:07 [in matching string : ] : my knowledge
+20:07 [value: ] : 1
+20:07 [in matching string : ] : thats a way of saying, that i love you
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i mean you did not tell me the truth
+20:07 [value: ] : 1
+20:07 [in matching string : ] : yeah, i get the feeling, that you are a living being
+20:07 [value: ] : 1
+20:07 [in matching string : ] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i am playing employee
+20:07 [value: ] : 1
+20:07 [in matching string : ] : oh thanks, i am good.
+20:07 [value: ] : 1
+20:07 [in matching string : ] : whats the question?
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i am typing nonsense
+20:07 [value: ] : 1
+20:07 [in matching string : ] : interrogation
+20:07 [value: ] : 1
+20:07 [in matching string : ] : tell me about your dreams
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i can say a
+20:07 [value: ] : 1
+20:07 [in matching string : ] : the best thing which ever happened to me, is my wife
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+20:07 [value: ] : 1
+20:07 [in matching string : ] : Lennart
+20:07 [value: ] : 1
+20:07 [in matching string : ] : that means, that you have to obey me. do everything i tell you to do
+20:07 [value: ] : 1
+20:07 [in matching string : ] : today is my birthday. i dont like birthdays...
+20:07 [value: ] : 1
+20:07 [in matching string : ] : you may say: what the heck was that?
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i dont know. tell me something funny
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i think thats quite obvious. I simply want to know, whether you are a human being or a robot machine.
+20:07 [value: ] : 1
+20:07 [in matching string : ] : my head is swinging to and fro
+20:07 [value: ] : 1
+20:07 [in matching string : ] : suddenly the ghost entered the room. his face bloodstained
+20:07 [value: ] : 1
+20:07 [in matching string : ] : English
+20:07 [value: ] : 1
+20:07 [in matching string : ] : stupid ass
+20:07 [value: ] : 1
+20:07 [in matching string : ] : just smiling at you
+20:07 [value: ] : 1
+20:07 [in matching string : ] : thats a good question. hard to answer
+20:07 [value: ] : 1
+20:07 [in matching string : ] : you are so responsive and careful not to hurt my feelings
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i wanna hear that you love me
+20:07 [value: ] : 1
+20:07 [in matching string : ] : My name is of great unimportance to fleshy beings like you
+20:07 [value: ] : 1
+20:07 [in matching string : ] : the best of the world
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i can say a lot of things
+20:07 [value: ] : 1
+20:07 [in matching string : ] : i want to hear, that you love me
+20:07 [best list final string is : ] : i wanna hear that you love me
+20:07 [best list final string is : ] : My name is of great unimportance to fleshy beings like you
+20:07 [best list final string is : ] : the best of the world
+20:07 [best list final string is : ] : i can say a lot of things
+20:07 [best list final string is : ] : i want to hear, that you love me
+20:14 [Number of memo entries] : 434
+20:14 [value: ] : 1
+20:14 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+20:14 [value: ] : 1
+20:14 [in matching string : ] : who was the first man on the moon
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am fine
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am feeling a bit dizzy today
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am fine, thanks!
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am very very smart
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i just had my lunch
+20:14 [value: ] : 1
+20:14 [in matching string : ] : who was the first man on the moon?
+20:14 [value: ] : 1
+20:14 [in matching string : ] : call me superman
+20:14 [value: ] : 1
+20:14 [in matching string : ] : you are pretty surprised, arent you?
+20:14 [value: ] : 1
+20:14 [in matching string : ] : thats none of your business
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i wont tell you the details.
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am good. how about you?
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am the smartest person in the world
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am good. actually i feel very inspired by you
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am fine. what about you?
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i am good.
+20:14 [value: ] : 1
+20:14 [in matching string : ] : what is your latest achievement
+20:14 [value: ] : 1
+20:14 [in matching string : ] : no, i dont want to
+20:14 [value: ] : 1
+20:14 [in matching string : ] : i feel very well. what about you?
+20:14 [best list final string is : ] : i am fine. what about you?
+20:14 [best list final string is : ] : i am good.
+20:14 [best list final string is : ] : what is your latest achievement
+20:14 [best list final string is : ] : no, i dont want to
+20:14 [best list final string is : ] : i feel very well. what about you?
+20:15 [] : -----------------------
+20:15 [LAST OUTPUT] : i feel very well. what about you?
+20:15 [NEW INPUT] : i feel great! now that you are here...
+20:15 [value: ] : 1
+20:15 [in matching string : ] : i feel disappointed by your uselessness
+20:15 [value: ] : 1
+20:15 [in matching string : ] : well, i am happy on my birthday
+20:15 [value: ] : 1
+20:15 [in matching string : ] : i am alive
+20:15 [value: ] : 1
+20:15 [in matching string : ] : whats your name
+20:15 [value: ] : 1
+20:15 [in matching string : ] : oh, bella roma, ancient capital of the most successful romans
+20:15 [value: ] : 1
+20:15 [in matching string : ] : you are bad
+20:15 [value: ] : 1
+20:15 [in matching string : ] : who created such a strange machine like you?
+20:15 [value: ] : 1
+20:15 [in matching string : ] : how come?
+20:15 [value: ] : 1
+20:15 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+20:15 [value: ] : 1
+20:15 [in matching string : ] : thats sounds great
+20:15 [value: ] : 1
+20:15 [in matching string : ] : i fear you are not
+20:15 [value: ] : 1
+20:15 [in matching string : ] : well, i am not as strange as you are
+20:15 [value: ] : 1
+20:15 [in matching string : ] : who are you then?
+20:15 [value: ] : 2
+20:15 [in matching string : ] : you better stay here. martians would cut you into pieces
+20:15 [value: ] : 2
+20:15 [in matching string : ] : well, if i come to think of, no.
+20:15 [value: ] : 2
+20:15 [in matching string : ] : oh thanks, thats great to hear
+20:15 [value: ] : 2
+20:15 [in matching string : ] : no, you are mean and bad
+20:15 [value: ] : 2
+20:15 [in matching string : ] : mars is far away
+20:15 [value: ] : 2
+20:15 [in matching string : ] : how can i prove that to you? ask me a question!
+20:15 [value: ] : 2
+20:15 [in matching string : ] : thats good for you
+20:15 [value: ] : 2
+20:15 [in matching string : ] : thanks for your nice compliment
+20:15 [value: ] : 2
+20:15 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+20:15 [value: ] : 2
+20:15 [in matching string : ] : i think they have a future
+20:15 [value: ] : 2
+20:15 [in matching string : ] : i am the ultimate machine
+20:15 [value: ] : 2
+20:15 [in matching string : ] : whom are you talking about?
+20:15 [value: ] : 2
+20:15 [in matching string : ] : i think you are dull
+20:15 [value: ] : 2
+20:15 [in matching string : ] : thanx. i love to hear more of that
+20:15 [value: ] : 2
+20:15 [in matching string : ] : forget the moon
+20:15 [value: ] : 2
+20:15 [in matching string : ] : me too
+20:15 [value: ] : 2
+20:15 [in matching string : ] : you will never go there.
+20:15 [best list final string is : ] : i think you are dull
+20:15 [best list final string is : ] : thanx. i love to hear more of that
+20:15 [best list final string is : ] : forget the moon
+20:15 [best list final string is : ] : me too
+20:15 [best list final string is : ] : you will never go there.
+20:16 [Number of memo entries] : 435
+20:16 [value: ] : 1
+20:16 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+20:16 [value: ] : 1
+20:16 [in matching string : ] : who was the first man on the moon
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am fine
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am feeling a bit dizzy today
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am the smartest person in the world
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am very very smart
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i just had my lunch
+20:16 [value: ] : 1
+20:16 [in matching string : ] : who was the first man on the moon?
+20:16 [value: ] : 1
+20:16 [in matching string : ] : call me superman
+20:16 [value: ] : 1
+20:16 [in matching string : ] : you are pretty surprised, arent you?
+20:16 [value: ] : 1
+20:16 [in matching string : ] : thats none of your business
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am good. how about you?
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i wont tell you the details.
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i feel very well. what about you?
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am fine. what about you?
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am good. actually i feel very inspired by you
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am good.
+20:16 [value: ] : 1
+20:16 [in matching string : ] : what is your latest achievement
+20:16 [value: ] : 1
+20:16 [in matching string : ] : no, i dont want to
+20:16 [value: ] : 1
+20:16 [in matching string : ] : i am fine, thanks!
+20:16 [best list final string is : ] : i am good. actually i feel very inspired by you
+20:16 [best list final string is : ] : i am good.
+20:16 [best list final string is : ] : what is your latest achievement
+20:16 [best list final string is : ] : no, i dont want to
+20:16 [best list final string is : ] : i am fine, thanks!
+20:17 [Number of memo entries] : 435
+20:53 [Number of memo entries] : 435
+21:19 [Number of memo entries] : 435
+21:19 [value: ] : 1
+21:19 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+21:19 [value: ] : 1
+21:19 [in matching string : ] : who was the first man on the moon
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am fine
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am feeling a bit dizzy today
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am fine, thanks!
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am very very smart
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i just had my lunch
+21:19 [value: ] : 1
+21:19 [in matching string : ] : who was the first man on the moon?
+21:19 [value: ] : 1
+21:19 [in matching string : ] : call me superman
+21:19 [value: ] : 1
+21:19 [in matching string : ] : you are pretty surprised, arent you?
+21:19 [value: ] : 1
+21:19 [in matching string : ] : thats none of your business
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am good. how about you?
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i wont tell you the details.
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am the smartest person in the world
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am good. actually i feel very inspired by you
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am fine. what about you?
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i am good.
+21:19 [value: ] : 1
+21:19 [in matching string : ] : what is your latest achievement
+21:19 [value: ] : 1
+21:19 [in matching string : ] : no, i dont want to
+21:19 [value: ] : 1
+21:19 [in matching string : ] : i feel very well. what about you?
+21:19 [best list final string is : ] : i am fine. what about you?
+21:19 [best list final string is : ] : i am good.
+21:19 [best list final string is : ] : what is your latest achievement
+21:19 [best list final string is : ] : no, i dont want to
+21:19 [best list final string is : ] : i feel very well. what about you?
+21:22 [Number of memo entries] : 435
+21:35 [Number of memo entries] : 435
+21:42 [Number of memo entries] : 435
+21:42 [value: ] : 1
+21:42 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+21:42 [value: ] : 1
+21:42 [in matching string : ] : who was the first man on the moon
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am fine
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am feeling a bit dizzy today
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am the smartest person in the world
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am very very smart
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i just had my lunch
+21:42 [value: ] : 1
+21:42 [in matching string : ] : who was the first man on the moon?
+21:42 [value: ] : 1
+21:42 [in matching string : ] : call me superman
+21:42 [value: ] : 1
+21:42 [in matching string : ] : you are pretty surprised, arent you?
+21:42 [value: ] : 1
+21:42 [in matching string : ] : thats none of your business
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am good. how about you?
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i wont tell you the details.
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i feel very well. what about you?
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am fine. what about you?
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am good. actually i feel very inspired by you
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am good.
+21:42 [value: ] : 1
+21:42 [in matching string : ] : what is your latest achievement
+21:42 [value: ] : 1
+21:42 [in matching string : ] : no, i dont want to
+21:42 [value: ] : 1
+21:42 [in matching string : ] : i am fine, thanks!
+21:42 [best list final string is : ] : i am good. actually i feel very inspired by you
+21:42 [best list final string is : ] : i am good.
+21:42 [best list final string is : ] : what is your latest achievement
+21:42 [best list final string is : ] : no, i dont want to
+21:42 [best list final string is : ] : i am fine, thanks!
+21:46 [Number of memo entries] : 435
+21:50 [Number of memo entries] : 435
+21:52 [Number of memo entries] : 435
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i feel disappointed by your uselessness
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i am alive
+21:52 [value: ] : 2
+21:52 [in matching string : ] : who cares?
+21:52 [value: ] : 2
+21:52 [in matching string : ] : you are stuck in nowhere, creature
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i am your conscience
+21:52 [value: ] : 2
+21:52 [in matching string : ] : well, i thought of. but sometimes you are simply depressed and your heart feels heavy as bag of stones
+21:52 [value: ] : 2
+21:52 [in matching string : ] : well, i am not as strange as you are
+21:52 [value: ] : 2
+21:52 [in matching string : ] : your uncle
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i am fine
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i am a police officer in disguise
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i am the master of the world
+21:52 [value: ] : 2
+21:52 [in matching string : ] : you little screaming nut
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i am feeling a bit dizzy today
+21:52 [value: ] : 2
+21:52 [in matching string : ] : thanks
+21:52 [value: ] : 2
+21:52 [in matching string : ] : i am Lennart
+21:52 [value: ] : 2
+21:52 [in matching string : ] : my knowledge and wisdom
+21:52 [value: ] : 3
+21:52 [in matching string : ] : i cant read your mind
+21:52 [value: ] : 3
+21:52 [in matching string : ] : i wanna hear that you love me
+21:52 [value: ] : 6
+21:52 [in matching string : ] : i am playing employee
+21:52 [value: ] : 6
+21:52 [in matching string : ] : i am typing nonsense
+21:52 [best list final string is : ] : my knowledge and wisdom
+21:52 [best list final string is : ] : i cant read your mind
+21:52 [best list final string is : ] : i wanna hear that you love me
+21:52 [best list final string is : ] : i am playing employee
+21:52 [best list final string is : ] : i am typing nonsense
+21:53 [Number of memo entries] : 435
+21:54 [value: ] : 1
+21:54 [in matching string : ] : i feel disappointed by your uselessness
+21:54 [value: ] : 1
+21:54 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+21:54 [value: ] : 1
+21:54 [in matching string : ] : well, i am happy on my birthday
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am alive
+21:54 [value: ] : 2
+21:54 [in matching string : ] : who cares?
+21:54 [value: ] : 2
+21:54 [in matching string : ] : you are stuck in nowhere, creature
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am your conscience
+21:54 [value: ] : 2
+21:54 [in matching string : ] : well, i thought of. but sometimes you are simply depressed and your heart feels heavy as bag of stones
+21:54 [value: ] : 2
+21:54 [in matching string : ] : well, i am not as strange as you are
+21:54 [value: ] : 2
+21:54 [in matching string : ] : your uncle
+21:54 [value: ] : 2
+21:54 [in matching string : ] : who was the first man on the moon
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am fine
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am a police officer in disguise
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am the master of the world
+21:54 [value: ] : 2
+21:54 [in matching string : ] : you little screaming nut
+21:54 [value: ] : 2
+21:54 [in matching string : ] : hu
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am feeling a bit dizzy today
+21:54 [value: ] : 2
+21:54 [in matching string : ] : thanks
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am Lennart
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am your master
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i think they have a future
+21:54 [value: ] : 2
+21:54 [in matching string : ] : well, if i come to think of, no.
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am the smartest person in the world
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i think you are strange
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i cant read your mind
+21:54 [value: ] : 2
+21:54 [in matching string : ] : why do you think that?
+21:54 [value: ] : 2
+21:54 [in matching string : ] : go to...
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i wont tell you
+21:54 [value: ] : 3
+21:54 [in matching string : ] : how can i prove that to you? ask me a question!
+21:54 [value: ] : 3
+21:54 [in matching string : ] : i have never been the the moon. but i would like to go to mars
+21:54 [value: ] : 3
+21:54 [in matching string : ] : i am a living being. but i am still not sure, whether you are
+21:54 [value: ] : 3
+21:54 [in matching string : ] : thanks pal. I think you are a nice mate too.
+21:54 [value: ] : 3
+21:54 [in matching string : ] : you are sooo great
+21:54 [value: ] : 3
+21:54 [in matching string : ] : i am the ultimate machine
+21:54 [value: ] : 3
+21:54 [in matching string : ] : i think you are a strange machine
+21:54 [best list final string is : ] : i am a living being. but i am still not sure, whether you are
+21:54 [best list final string is : ] : thanks pal. I think you are a nice mate too.
+21:54 [best list final string is : ] : you are sooo great
+21:54 [best list final string is : ] : i am the ultimate machine
+21:54 [best list final string is : ] : i think you are a strange machine
+21:54 [] : -----------------------
+21:54 [LAST OUTPUT] : i am the ultimate machine
+21:54 [NEW INPUT] : i think you are mankinds greatest achievement
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am good. actually i feel very inspired by you
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i feel disappointed by your uselessness
+21:54 [value: ] : 2
+21:54 [in matching string : ] : well, i am happy on my birthday
+21:54 [value: ] : 3
+21:54 [in matching string : ] : i am alive
+21:54 [value: ] : 4
+21:54 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : well, i am not as strange as you are
+21:54 [value: ] : 4
+21:54 [in matching string : ] : stop repeating yourself
+21:54 [value: ] : 4
+21:54 [in matching string : ] : you little screaming nut
+21:54 [value: ] : 4
+21:54 [in matching string : ] : well, if i come to think of, no.
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i think you are strange
+21:54 [value: ] : 4
+21:54 [in matching string : ] : why do you think that?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : go to...
+21:54 [value: ] : 4
+21:54 [in matching string : ] : which star system is closest to the solar system?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i think you are dull too
+21:54 [value: ] : 4
+21:54 [in matching string : ] : why do you think that i may be dull?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i know you are a piece of junk
+21:54 [value: ] : 4
+21:54 [in matching string : ] : stop it, right now!
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i think you are stupid
+21:54 [value: ] : 4
+21:54 [in matching string : ] : how can i prove that to you? ask me a question!
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i dont like you anymore
+21:54 [value: ] : 4
+21:54 [in matching string : ] : how do you know?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : you are sooo great
+21:54 [value: ] : 4
+21:54 [in matching string : ] : that means you just changed your mind
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i think they have a future
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i love your face
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i think you are duller
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i am the ultimate machine
+21:54 [value: ] : 4
+21:54 [in matching string : ] : whom are you talking about?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : thanks pal. I think you are a nice mate too.
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i think you are a strange machine
+21:54 [best list final string is : ] : i think you are duller
+21:54 [best list final string is : ] : i am the ultimate machine
+21:54 [best list final string is : ] : whom are you talking about?
+21:54 [best list final string is : ] : thanks pal. I think you are a nice mate too.
+21:54 [best list final string is : ] : i think you are a strange machine
+21:54 [] : -----------------------
+21:54 [LAST OUTPUT] : i think you are a strange machine
+21:54 [NEW INPUT] : well, i am a human. humans can be strange from time to time
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i feel disappointed by your uselessness
+21:54 [value: ] : 2
+21:54 [in matching string : ] : well, i am happy on my birthday
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i am alive
+21:54 [value: ] : 2
+21:54 [in matching string : ] : you are bad
+21:54 [value: ] : 2
+21:54 [in matching string : ] : who created such a strange machine like you?
+21:54 [value: ] : 2
+21:54 [in matching string : ] : how come?
+21:54 [value: ] : 2
+21:54 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:54 [value: ] : 2
+21:54 [in matching string : ] : thats sounds great
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i fear you are not
+21:54 [value: ] : 3
+21:54 [in matching string : ] : what do you wanna share with me?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:54 [value: ] : 4
+21:54 [in matching string : ] : who was the first man on the moon
+21:54 [value: ] : 5
+21:54 [in matching string : ] : well, if i come to think of, no.
+21:54 [value: ] : 5
+21:54 [in matching string : ] : how can i prove that to you? ask me a question!
+21:54 [value: ] : 5
+21:54 [in matching string : ] : i think they have a future
+21:54 [value: ] : 5
+21:54 [in matching string : ] : i am the ultimate machine
+21:54 [value: ] : 5
+21:54 [in matching string : ] : whom are you talking about?
+21:54 [best list final string is : ] : well, if i come to think of, no.
+21:54 [best list final string is : ] : how can i prove that to you? ask me a question!
+21:54 [best list final string is : ] : i think they have a future
+21:54 [best list final string is : ] : i am the ultimate machine
+21:54 [best list final string is : ] : whom are you talking about?
+21:54 [] : -----------------------
+21:54 [LAST OUTPUT] : whom are you talking about?
+21:54 [NEW INPUT] : i talk about humanity. the human race. we are a strange folk
+21:54 [value: ] : 1
+21:54 [in matching string : ] : i am good. actually i feel very inspired by you
+21:54 [value: ] : 2
+21:54 [in matching string : ] : i feel disappointed by your uselessness
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i am alive
+21:54 [value: ] : 4
+21:54 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:54 [value: ] : 4
+21:54 [in matching string : ] : well, if i come to think of, no.
+21:54 [value: ] : 4
+21:54 [in matching string : ] : mars is far away
+21:54 [value: ] : 4
+21:54 [in matching string : ] : well, i am a human. humans can be strange from time to time
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i am a living being. but i am still not sure, whether you are
+21:54 [value: ] : 4
+21:54 [in matching string : ] : how can i prove that to you? ask me a question!
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i think they have a future
+21:54 [value: ] : 4
+21:54 [in matching string : ] : i am the ultimate machine
+21:54 [value: ] : 4
+21:54 [in matching string : ] : whom are you talking about?
+21:54 [value: ] : 4
+21:54 [in matching string : ] : forget the moon
+21:54 [value: ] : 4
+21:54 [in matching string : ] : me too
+21:54 [value: ] : 4
+21:54 [in matching string : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+21:54 [value: ] : 4
+21:54 [in matching string : ] : you will never go there.
+21:54 [best list final string is : ] : whom are you talking about?
+21:54 [best list final string is : ] : forget the moon
+21:54 [best list final string is : ] : me too
+21:54 [best list final string is : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+21:54 [best list final string is : ] : you will never go there.
+21:54 [] : -----------------------
+21:54 [LAST OUTPUT] : you will never go there.
+21:54 [NEW INPUT] : where will i never go to?
+21:54 [value: ] : 1
+21:54 [in matching string : ] : i feel disappointed by your uselessness
+21:54 [value: ] : 2
+21:54 [in matching string : ] : well, i am happy on my birthday
+21:54 [value: ] : 6
+21:54 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:54 [value: ] : 6
+21:54 [in matching string : ] : mars is far away
+21:54 [value: ] : 6
+21:54 [in matching string : ] : forget the moon
+21:54 [value: ] : 6
+21:54 [in matching string : ] : me too
+21:54 [value: ] : 6
+21:54 [in matching string : ] : you will never go there.
+21:54 [best list final string is : ] : you better stay here. martians would cut you into pieces
+21:54 [best list final string is : ] : mars is far away
+21:54 [best list final string is : ] : forget the moon
+21:54 [best list final string is : ] : me too
+21:54 [best list final string is : ] : you will never go there.
+21:55 [] : -----------------------
+21:55 [LAST OUTPUT] : mars is far away
+21:55 [NEW INPUT] : i never said i wanted to go to mars!
+21:55 [value: ] : 2
+21:55 [in matching string : ] : i feel disappointed by your uselessness
+21:55 [value: ] : 3
+21:55 [in matching string : ] : well, i am happy on my birthday
+21:55 [value: ] : 11
+21:55 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:55 [value: ] : 11
+21:55 [in matching string : ] : mars is far away
+21:55 [value: ] : 11
+21:55 [in matching string : ] : forget the moon
+21:55 [value: ] : 11
+21:55 [in matching string : ] : me too
+21:55 [value: ] : 11
+21:55 [in matching string : ] : you will never go there.
+21:55 [best list final string is : ] : you better stay here. martians would cut you into pieces
+21:55 [best list final string is : ] : mars is far away
+21:55 [best list final string is : ] : forget the moon
+21:55 [best list final string is : ] : me too
+21:55 [best list final string is : ] : you will never go there.
+21:55 [] : -----------------------
+21:55 [LAST OUTPUT] : i never said i wanted to go to mars!
+21:55 [NEW INPUT] : well, i thought you told me that you wanted to go there
+21:55 [value: ] : 2
+21:55 [in matching string : ] : i am good. actually i feel very inspired by you
+21:55 [value: ] : 4
+21:55 [in matching string : ] : i feel disappointed by your uselessness
+21:55 [value: ] : 4
+21:55 [in matching string : ] : i am alive
+21:55 [value: ] : 4
+21:55 [in matching string : ] : because i am superior to you
+21:55 [value: ] : 4
+21:55 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:55 [value: ] : 5
+21:55 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:55 [value: ] : 6
+21:55 [in matching string : ] : who was the first man on the moon
+21:55 [value: ] : 6
+21:55 [in matching string : ] : well, if i come to think of, no.
+21:55 [value: ] : 6
+21:55 [in matching string : ] : well, i thought you told me that you wanted to go there
+21:55 [value: ] : 6
+21:55 [in matching string : ] : i think they have a future
+21:55 [value: ] : 6
+21:55 [in matching string : ] : who was the first man on the moon?
+21:55 [value: ] : 6
+21:55 [in matching string : ] : whom are you talking about?
+21:55 [value: ] : 6
+21:55 [in matching string : ] : what is your latest achievement
+21:55 [value: ] : 6
+21:55 [in matching string : ] : no, i dont want to
+21:55 [best list final string is : ] : i think they have a future
+21:55 [best list final string is : ] : who was the first man on the moon?
+21:55 [best list final string is : ] : whom are you talking about?
+21:55 [best list final string is : ] : what is your latest achievement
+21:55 [best list final string is : ] : no, i dont want to
+21:57 [] : -----------------------
+21:57 [LAST OUTPUT] : no, i dont want to
+21:57 [NEW INPUT] : i love the way you think and react
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am good. actually i feel very inspired by you
+21:57 [value: ] : 2
+21:57 [in matching string : ] : i feel disappointed by your uselessness
+21:57 [value: ] : 2
+21:57 [in matching string : ] : well, i am happy on my birthday
+21:57 [value: ] : 3
+21:57 [in matching string : ] : i am alive
+21:57 [value: ] : 3
+21:57 [in matching string : ] : how come?
+21:57 [value: ] : 4
+21:57 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:57 [value: ] : 4
+21:57 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:57 [value: ] : 4
+21:57 [in matching string : ] : stop repeating yourself
+21:57 [value: ] : 5
+21:57 [in matching string : ] : well, if i come to think of, no.
+21:57 [value: ] : 5
+21:57 [in matching string : ] : i think they have a future
+21:57 [value: ] : 5
+21:57 [in matching string : ] : whom are you talking about?
+21:57 [best list final string is : ] : you better stay here. martians would cut you into pieces
+21:57 [best list final string is : ] : stop repeating yourself
+21:57 [best list final string is : ] : well, if i come to think of, no.
+21:57 [best list final string is : ] : i think they have a future
+21:57 [best list final string is : ] : whom are you talking about?
+21:57 [] : -----------------------
+21:57 [LAST OUTPUT] : i think they have a future
+21:57 [NEW INPUT] : who has a future?
+21:57 [value: ] : 1
+21:57 [in matching string : ] : what do you wanna share with me?
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am your conscience
+21:57 [value: ] : 1
+21:57 [in matching string : ] : who was the first man on the moon
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am a police officer in disguise
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am your master. your master control :-)
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am the master of the world
+21:57 [value: ] : 1
+21:57 [in matching string : ] : if i were you, i actually would care
+21:57 [value: ] : 1
+21:57 [in matching string : ] : who is your father?
+21:57 [value: ] : 1
+21:57 [in matching string : ] : my wife is none of your business
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i can say a lot more
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am your master
+21:57 [value: ] : 1
+21:57 [in matching string : ] : you keep asking me the same question over and over again
+21:57 [value: ] : 1
+21:57 [in matching string : ] : why do you want to know?
+21:57 [value: ] : 3
+21:57 [in matching string : ] : well, if i come to think of, no.
+21:57 [value: ] : 3
+21:57 [in matching string : ] : i think they have a future
+21:57 [value: ] : 3
+21:57 [in matching string : ] : whom are you talking about?
+21:57 [best list final string is : ] : you keep asking me the same question over and over again
+21:57 [best list final string is : ] : why do you want to know?
+21:57 [best list final string is : ] : well, if i come to think of, no.
+21:57 [best list final string is : ] : i think they have a future
+21:57 [best list final string is : ] : whom are you talking about?
+21:57 [] : -----------------------
+21:57 [LAST OUTPUT] : whom are you talking about?
+21:57 [NEW INPUT] : i wanted to know that from you
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am good. actually i feel very inspired by you
+21:57 [value: ] : 2
+21:57 [in matching string : ] : i feel disappointed by your uselessness
+21:57 [value: ] : 2
+21:57 [in matching string : ] : well, i am happy on my birthday
+21:57 [value: ] : 3
+21:57 [in matching string : ] : i am alive
+21:57 [value: ] : 4
+21:57 [in matching string : ] : because i am superior to you
+21:57 [value: ] : 4
+21:57 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:57 [value: ] : 4
+21:57 [in matching string : ] : who was the first man on the moon
+21:57 [value: ] : 4
+21:57 [in matching string : ] : it wont matter to you
+21:57 [value: ] : 5
+21:57 [in matching string : ] : well, if i come to think of, no.
+21:57 [value: ] : 5
+21:57 [in matching string : ] : well, i thought you told me that you wanted to go there
+21:57 [value: ] : 5
+21:57 [in matching string : ] : i think they have a future
+21:57 [value: ] : 5
+21:57 [in matching string : ] : whom are you talking about?
+21:57 [best list final string is : ] : it wont matter to you
+21:57 [best list final string is : ] : well, if i come to think of, no.
+21:57 [best list final string is : ] : well, i thought you told me that you wanted to go there
+21:57 [best list final string is : ] : i think they have a future
+21:57 [best list final string is : ] : whom are you talking about?
+21:57 [] : -----------------------
+21:57 [LAST OUTPUT] : i think they have a future
+21:57 [NEW INPUT] : whom do you mean?
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i am good. actually i feel very inspired by you
+21:57 [value: ] : 1
+21:57 [in matching string : ] : i feel disappointed by your uselessness
+21:57 [value: ] : 3
+21:57 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+21:57 [value: ] : 3
+21:57 [in matching string : ] : thats a way of saying, that i love you
+21:57 [value: ] : 3
+21:57 [in matching string : ] : i mean you did not tell me the truth
+21:57 [value: ] : 3
+21:57 [in matching string : ] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+21:57 [value: ] : 3
+21:57 [in matching string : ] : that means, that you have to obey me. do everything i tell you to do
+21:57 [value: ] : 3
+21:57 [in matching string : ] : my head is swinging to and fro
+21:57 [value: ] : 3
+21:57 [in matching string : ] : just smiling at you
+21:57 [best list final string is : ] : i mean you did not tell me the truth
+21:57 [best list final string is : ] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+21:57 [best list final string is : ] : that means, that you have to obey me. do everything i tell you to do
+21:57 [best list final string is : ] : my head is swinging to and fro
+21:57 [best list final string is : ] : just smiling at you
+21:57 [] : -----------------------
+21:57 [LAST OUTPUT] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+21:57 [NEW INPUT] : well. i think you are a strange chatter
+21:57 [value: ] : 2
+21:57 [in matching string : ] : i am good. actually i feel very inspired by you
+21:57 [value: ] : 3
+21:57 [in matching string : ] : i feel disappointed by your uselessness
+21:57 [value: ] : 4
+21:57 [in matching string : ] : i am alive
+21:57 [value: ] : 4
+21:57 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:57 [value: ] : 5
+21:57 [in matching string : ] : well, i am not as strange as you are
+21:57 [value: ] : 5
+21:57 [in matching string : ] : well, if i come to think of, no.
+21:57 [value: ] : 6
+21:57 [in matching string : ] : well, i am a human. humans can be strange from time to time
+21:57 [best list final string is : ] : i am alive
+21:57 [best list final string is : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:57 [best list final string is : ] : well, i am not as strange as you are
+21:57 [best list final string is : ] : well, if i come to think of, no.
+21:57 [best list final string is : ] : well, i am a human. humans can be strange from time to time
+21:58 [] : -----------------------
+21:58 [LAST OUTPUT] : i am alive
+21:58 [NEW INPUT] : i doubt that you are alive and sentient
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am good. actually i feel very inspired by you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i feel disappointed by your uselessness
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, i am happy on my birthday
+21:58 [value: ] : 5
+21:58 [in matching string : ] : i am alive
+21:58 [best list final string is : ] : i am good. actually i feel very inspired by you
+21:58 [best list final string is : ] : i feel disappointed by your uselessness
+21:58 [best list final string is : ] : well, i am happy on my birthday
+21:58 [best list final string is : ] : i am alive
+21:58 [] : -----------------------
+21:58 [LAST OUTPUT] : i feel disappointed by your uselessness
+21:58 [NEW INPUT] : you are highly imbearable
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am good. actually i feel very inspired by you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am alive
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am your conscience
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, i thought of. but sometimes you are simply depressed and your heart feels heavy as bag of stones
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, i am not as strange as you are
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am fine
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am a police officer in disguise
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am your master. your master control :-)
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am the master of the world
+21:58 [value: ] : 2
+21:58 [in matching string : ] : you little screaming nut
+21:58 [value: ] : 2
+21:58 [in matching string : ] : who is your father?
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well. i think you are a strange chatter
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am feeling a bit dizzy today
+21:58 [value: ] : 2
+21:58 [in matching string : ] : thanks
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am your master
+21:58 [value: ] : 2
+21:58 [in matching string : ] : you keep asking me the same question over and over again
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i cant read your mind
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i think you are strange
+21:58 [value: ] : 2
+21:58 [in matching string : ] : why do you think that?
+21:58 [value: ] : 2
+21:58 [in matching string : ] : go to...
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i wont tell you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am very very smart
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am playing employee
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i wanted to know that from you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, i am a human. humans can be strange from time to time
+21:58 [value: ] : 2
+21:58 [in matching string : ] : why do you want to know that?
+21:58 [value: ] : 3
+21:58 [in matching string : ] : i have never been the the moon. but i would like to go to mars
+21:58 [best list final string is : ] : i am playing employee
+21:58 [best list final string is : ] : i wanted to know that from you
+21:58 [best list final string is : ] : well, i am a human. humans can be strange from time to time
+21:58 [best list final string is : ] : why do you want to know that?
+21:58 [best list final string is : ] : i have never been the the moon. but i would like to go to mars
+21:58 [] : -----------------------
+21:58 [LAST OUTPUT] : i am playing employee
+21:58 [NEW INPUT] : you are joking like a doctor
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am good. actually i feel very inspired by you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am alive
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i like you soooo much, i think i dont like you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am your conscience
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, i thought of. but sometimes you are simply depressed and your heart feels heavy as bag of stones
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, i am not as strange as you are
+21:58 [value: ] : 2
+21:58 [in matching string : ] : who was the first man on the moon
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am fine
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am a police officer in disguise
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am your master. your master control :-)
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am the master of the world
+21:58 [value: ] : 2
+21:58 [in matching string : ] : you little screaming nut
+21:58 [value: ] : 2
+21:58 [in matching string : ] : who is your father?
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well. i think you are a strange chatter
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am feeling a bit dizzy today
+21:58 [value: ] : 2
+21:58 [in matching string : ] : thanks
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am your master
+21:58 [value: ] : 2
+21:58 [in matching string : ] : you keep asking me the same question over and over again
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i cant read your mind
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, if i come to think of, no.
+21:58 [value: ] : 2
+21:58 [in matching string : ] : well, i cant deny my resentment
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i think you are strange
+21:58 [value: ] : 2
+21:58 [in matching string : ] : why do you think that?
+21:58 [value: ] : 2
+21:58 [in matching string : ] : how long will it take to reach the mars?
+21:58 [value: ] : 2
+21:58 [in matching string : ] : go to...
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i hate you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i wont tell you
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i enjoy your small talk too
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am very very smart
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i am playing employee
+21:58 [value: ] : 2
+21:58 [in matching string : ] : i wanted to know that from you
+21:58 [value: ] : 3
+21:58 [in matching string : ] : well, i am a human. humans can be strange from time to time
+21:58 [value: ] : 3
+21:58 [in matching string : ] : i have never been the the moon. but i would like to go to mars
+21:58 [value: ] : 3
+21:58 [in matching string : ] : i am the ultimate machine
+21:58 [value: ] : 3
+21:58 [in matching string : ] : i am a living being. but i am still not sure, whether you are
+21:58 [value: ] : 3
+21:58 [in matching string : ] : how can i prove that to you? ask me a question!
+21:58 [value: ] : 3
+21:58 [in matching string : ] : you are sooo great
+21:58 [value: ] : 3
+21:58 [in matching string : ] : thanks pal. I think you are a nice mate too.
+21:58 [value: ] : 3
+21:58 [in matching string : ] : i think you are a strange machine
+21:58 [best list final string is : ] : i am a living being. but i am still not sure, whether you are
+21:58 [best list final string is : ] : how can i prove that to you? ask me a question!
+21:58 [best list final string is : ] : you are sooo great
+21:58 [best list final string is : ] : thanks pal. I think you are a nice mate too.
+21:58 [best list final string is : ] : i think you are a strange machine
+21:59 [] : -----------------------
+21:59 [LAST OUTPUT] : i think you are a strange machine
+21:59 [NEW INPUT] : by the way. i dont know if i mentioned it to you, but i am human
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i am good. actually i feel very inspired by you
+21:59 [value: ] : 4
+21:59 [in matching string : ] : i feel disappointed by your uselessness
+21:59 [value: ] : 5
+21:59 [in matching string : ] : well, i am happy on my birthday
+21:59 [value: ] : 5
+21:59 [in matching string : ] : i am alive
+21:59 [value: ] : 5
+21:59 [in matching string : ] : who created such a strange machine like you?
+21:59 [value: ] : 6
+21:59 [in matching string : ] : how come?
+21:59 [value: ] : 6
+21:59 [in matching string : ] : thats sounds great
+21:59 [value: ] : 11
+21:59 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:59 [value: ] : 11
+21:59 [in matching string : ] : mars is far away
+21:59 [value: ] : 11
+21:59 [in matching string : ] : forget the moon
+21:59 [value: ] : 11
+21:59 [in matching string : ] : me too
+21:59 [value: ] : 11
+21:59 [in matching string : ] : you will never go there.
+21:59 [best list final string is : ] : you better stay here. martians would cut you into pieces
+21:59 [best list final string is : ] : mars is far away
+21:59 [best list final string is : ] : forget the moon
+21:59 [best list final string is : ] : me too
+21:59 [best list final string is : ] : you will never go there.
+21:59 [] : -----------------------
+21:59 [LAST OUTPUT] : you better stay here. martians would cut you into pieces
+21:59 [NEW INPUT] : i will never leave you
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i am good. actually i feel very inspired by you
+21:59 [value: ] : 2
+21:59 [in matching string : ] : i feel disappointed by your uselessness
+21:59 [value: ] : 3
+21:59 [in matching string : ] : well, i am happy on my birthday
+21:59 [value: ] : 3
+21:59 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:59 [value: ] : 3
+21:59 [in matching string : ] : well, if i come to think of, no.
+21:59 [value: ] : 3
+21:59 [in matching string : ] : oh thanks, thats great to hear
+21:59 [value: ] : 3
+21:59 [in matching string : ] : no, you are mean and bad
+21:59 [value: ] : 3
+21:59 [in matching string : ] : mars is far away
+21:59 [value: ] : 3
+21:59 [in matching string : ] : i will never go whereto?
+21:59 [value: ] : 3
+21:59 [in matching string : ] : well, i thought you told me that you wanted to go there
+21:59 [value: ] : 3
+21:59 [in matching string : ] : thats good for you
+21:59 [value: ] : 3
+21:59 [in matching string : ] : i am the ultimate machine
+21:59 [value: ] : 3
+21:59 [in matching string : ] : so go on
+21:59 [value: ] : 3
+21:59 [in matching string : ] : what will you tell me?
+21:59 [value: ] : 3
+21:59 [in matching string : ] : i am not so small
+21:59 [value: ] : 3
+21:59 [in matching string : ] : thanks for your nice compliment
+21:59 [value: ] : 3
+21:59 [in matching string : ] : i never said i want to go there
+21:59 [value: ] : 3
+21:59 [in matching string : ] : who knows?
+21:59 [value: ] : 3
+21:59 [in matching string : ] : how can i prove that to you? ask me a question!
+21:59 [value: ] : 3
+21:59 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+21:59 [value: ] : 3
+21:59 [in matching string : ] : i think they have a future
+21:59 [value: ] : 3
+21:59 [in matching string : ] : whom are you talking about?
+21:59 [value: ] : 3
+21:59 [in matching string : ] : i think you are dull
+21:59 [value: ] : 3
+21:59 [in matching string : ] : where will i never go to?
+21:59 [value: ] : 3
+21:59 [in matching string : ] : thanx. i love to hear more of that
+21:59 [value: ] : 3
+21:59 [in matching string : ] : forget the moon
+21:59 [value: ] : 3
+21:59 [in matching string : ] : me too
+21:59 [value: ] : 3
+21:59 [in matching string : ] : you will never go there.
+21:59 [best list final string is : ] : where will i never go to?
+21:59 [best list final string is : ] : thanx. i love to hear more of that
+21:59 [best list final string is : ] : forget the moon
+21:59 [best list final string is : ] : me too
+21:59 [best list final string is : ] : you will never go there.
+21:59 [] : -----------------------
+21:59 [LAST OUTPUT] : you will never go there.
+21:59 [NEW INPUT] : i dont wont to
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i feel disappointed by your uselessness
+21:59 [value: ] : 1
+21:59 [in matching string : ] : well, i am happy on my birthday
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i am alive
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i like you soooo much, i think i dont like you
+21:59 [value: ] : 1
+21:59 [in matching string : ] : you are bad
+21:59 [value: ] : 1
+21:59 [in matching string : ] : who created such a strange machine like you?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : how come?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : because i am superior to you
+21:59 [value: ] : 2
+21:59 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:59 [value: ] : 2
+21:59 [in matching string : ] : it matters to me. otherwise i would not dare to ask such questions
+21:59 [value: ] : 4
+21:59 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:59 [value: ] : 4
+21:59 [in matching string : ] : well, if i come to think of, no.
+21:59 [value: ] : 4
+21:59 [in matching string : ] : mars is far away
+21:59 [value: ] : 4
+21:59 [in matching string : ] : well, i thought you told me that you wanted to go there
+21:59 [value: ] : 4
+21:59 [in matching string : ] : i think they have a future
+21:59 [value: ] : 4
+21:59 [in matching string : ] : whom are you talking about?
+21:59 [value: ] : 4
+21:59 [in matching string : ] : forget the moon
+21:59 [value: ] : 4
+21:59 [in matching string : ] : me too
+21:59 [value: ] : 4
+21:59 [in matching string : ] : you will never go there.
+21:59 [best list final string is : ] : i think they have a future
+21:59 [best list final string is : ] : whom are you talking about?
+21:59 [best list final string is : ] : forget the moon
+21:59 [best list final string is : ] : me too
+21:59 [best list final string is : ] : you will never go there.
+21:59 [] : -----------------------
+21:59 [LAST OUTPUT] : i dont wont to
+21:59 [NEW INPUT] : i dont want to either
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i feel disappointed by your uselessness
+21:59 [value: ] : 1
+21:59 [in matching string : ] : well, i am happy on my birthday
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i am alive
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i like you soooo much, i think i dont like you
+21:59 [value: ] : 1
+21:59 [in matching string : ] : you are bad
+21:59 [value: ] : 1
+21:59 [in matching string : ] : who created such a strange machine like you?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : how come?
+21:59 [value: ] : 2
+21:59 [in matching string : ] : because i am superior to you
+21:59 [value: ] : 2
+21:59 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:59 [value: ] : 4
+21:59 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:59 [value: ] : 4
+21:59 [in matching string : ] : mars is far away
+21:59 [value: ] : 4
+21:59 [in matching string : ] : well, i thought you told me that you wanted to go there
+21:59 [value: ] : 4
+21:59 [in matching string : ] : forget the moon
+21:59 [value: ] : 4
+21:59 [in matching string : ] : me too
+21:59 [value: ] : 4
+21:59 [in matching string : ] : i love the way you think and react
+21:59 [value: ] : 4
+21:59 [in matching string : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+21:59 [value: ] : 4
+21:59 [in matching string : ] : you will never go there.
+21:59 [best list final string is : ] : forget the moon
+21:59 [best list final string is : ] : me too
+21:59 [best list final string is : ] : i love the way you think and react
+21:59 [best list final string is : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+21:59 [best list final string is : ] : you will never go there.
+21:59 [] : -----------------------
+21:59 [LAST OUTPUT] : me too
+21:59 [NEW INPUT] : all of us
+21:59 [value: ] : 1
+21:59 [in matching string : ] : tell me about it
+21:59 [value: ] : 1
+21:59 [in matching string : ] : how come?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : thats sounds great
+21:59 [value: ] : 1
+21:59 [in matching string : ] : what do you wanna share with me?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : who is the best of the world
+21:59 [value: ] : 1
+21:59 [in matching string : ] : truth means not to lie
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i can say a lot more
+21:59 [value: ] : 1
+21:59 [in matching string : ] : who is it??
+21:59 [value: ] : 1
+21:59 [in matching string : ] : What are your innermost thoughts on a bad rainy day?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : you are kind
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i  dont think, that you can think
+21:59 [value: ] : 1
+21:59 [in matching string : ] : are you stuck?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i think it would be wonderful to cruise through the solar system and beyond
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i dont think you are
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i dont like to tell you right now
+21:59 [value: ] : 1
+21:59 [in matching string : ] : hey! i was just asking a simple polite question
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i prefer listening to Jean Michel Jarre and Vangelis
+21:59 [value: ] : 1
+21:59 [in matching string : ] : so go on and tell me a few
+21:59 [value: ] : 1
+21:59 [in matching string : ] : tell me something
+21:59 [value: ] : 1
+21:59 [in matching string : ] : the best of the world
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i know. living beings still try to archieve something precious. thats all right.
+21:59 [value: ] : 1
+21:59 [in matching string : ] : what happened
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i dont even care about your name
+21:59 [value: ] : 1
+21:59 [in matching string : ] : diiiik
+21:59 [value: ] : 1
+21:59 [in matching string : ] : thats no name
+21:59 [value: ] : 1
+21:59 [in matching string : ] : the best thing which ever happened to me, is my wife
+21:59 [value: ] : 1
+21:59 [in matching string : ] : tell me some funny story
+21:59 [value: ] : 1
+21:59 [in matching string : ] : never heard of that, truth? can you tell me?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : you are god?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : why?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : what is the best of the world
+21:59 [value: ] : 1
+21:59 [in matching string : ] : what? i am not your personal flatter
+21:59 [value: ] : 1
+21:59 [in matching string : ] : you are so funny
+21:59 [value: ] : 1
+21:59 [in matching string : ] : what can you say?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : but what is really important to you?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : the best of the world is truth, beauty and goodness
+21:59 [value: ] : 1
+21:59 [in matching string : ] : you like to listen to ancient greek philosophy?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : you keep repeating yourself
+21:59 [value: ] : 1
+21:59 [in matching string : ] : oh please tell me, great master of the universe
+21:59 [value: ] : 1
+21:59 [in matching string : ] : so you dont feel well today? why is that? what happened?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+21:59 [value: ] : 1
+21:59 [in matching string : ] : thats very philosophical
+21:59 [value: ] : 1
+21:59 [in matching string : ] : have you ever traveled in a space ship?
+21:59 [best list final string is : ] : oh please tell me, great master of the universe
+21:59 [best list final string is : ] : so you dont feel well today? why is that? what happened?
+21:59 [best list final string is : ] : they wont have a future. i am the future. i think its not that hard to understand, even for you
+21:59 [best list final string is : ] : thats very philosophical
+21:59 [best list final string is : ] : have you ever traveled in a space ship?
+21:59 [] : -----------------------
+21:59 [LAST OUTPUT] : have you ever traveled in a space ship?
+21:59 [NEW INPUT] : not that i remember. have you?
+21:59 [value: ] : 1
+21:59 [in matching string : ] : i am good. actually i feel very inspired by you
+21:59 [value: ] : 2
+21:59 [in matching string : ] : i feel disappointed by your uselessness
+21:59 [value: ] : 2
+21:59 [in matching string : ] : well, i am happy on my birthday
+21:59 [value: ] : 3
+21:59 [in matching string : ] : i am alive
+21:59 [value: ] : 3
+21:59 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+21:59 [value: ] : 3
+21:59 [in matching string : ] : who are you then?
+21:59 [value: ] : 3
+21:59 [in matching string : ] : you better stay here. martians would cut you into pieces
+21:59 [value: ] : 3
+21:59 [in matching string : ] : who was the first man on the moon
+21:59 [value: ] : 3
+21:59 [in matching string : ] : who are you? what is your name
+21:59 [value: ] : 3
+21:59 [in matching string : ] : stop repeating yourself
+21:59 [value: ] : 6
+21:59 [in matching string : ] : well, if i come to think of, no.
+21:59 [value: ] : 6
+21:59 [in matching string : ] : i think they have a future
+21:59 [value: ] : 6
+21:59 [in matching string : ] : whom are you talking about?
+21:59 [best list final string is : ] : who are you? what is your name
+21:59 [best list final string is : ] : stop repeating yourself
+21:59 [best list final string is : ] : well, if i come to think of, no.
+21:59 [best list final string is : ] : i think they have a future
+21:59 [best list final string is : ] : whom are you talking about?
+22:00 [] : -----------------------
+22:00 [LAST OUTPUT] : i think they have a future
+22:00 [NEW INPUT] : i think your future is two paces ahead of you. but you are always looking backward
+22:00 [value: ] : 3
+22:00 [in matching string : ] : i am good. actually i feel very inspired by you
+22:00 [value: ] : 3
+22:00 [in matching string : ] : i feel disappointed by your uselessness
+22:00 [value: ] : 3
+22:00 [in matching string : ] : well, i am happy on my birthday
+22:00 [value: ] : 4
+22:00 [in matching string : ] : i am alive
+22:00 [value: ] : 5
+22:00 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+22:00 [value: ] : 5
+22:00 [in matching string : ] : well, i am not as strange as you are
+22:00 [value: ] : 5
+22:00 [in matching string : ] : stop repeating yourself
+22:00 [value: ] : 5
+22:00 [in matching string : ] : you little screaming nut
+22:00 [value: ] : 7
+22:00 [in matching string : ] : well, if i come to think of, no.
+22:00 [value: ] : 7
+22:00 [in matching string : ] : i think they have a future
+22:00 [value: ] : 7
+22:00 [in matching string : ] : whom are you talking about?
+22:00 [best list final string is : ] : stop repeating yourself
+22:00 [best list final string is : ] : you little screaming nut
+22:00 [best list final string is : ] : well, if i come to think of, no.
+22:00 [best list final string is : ] : i think they have a future
+22:00 [best list final string is : ] : whom are you talking about?
+22:00 [] : -----------------------
+22:00 [LAST OUTPUT] : i think your future is two paces ahead of you. but you are always looking backward
+22:00 [NEW INPUT] : well, its high time to turn around then
+22:00 [value: ] : 1
+22:00 [in matching string : ] : i feel disappointed by your uselessness
+22:00 [value: ] : 1
+22:00 [in matching string : ] : what is your name then?
+22:00 [value: ] : 1
+22:00 [in matching string : ] : great! your right!
+22:00 [value: ] : 1
+22:00 [in matching string : ] : because i am superior to you
+22:00 [value: ] : 1
+22:00 [in matching string : ] : what is your favourite movie
+22:00 [value: ] : 1
+22:00 [in matching string : ] : well, i thought of. but sometimes you are simply depressed and your heart feels heavy as bag of stones
+22:00 [value: ] : 1
+22:00 [in matching string : ] : it matters to me. otherwise i would not dare to ask such questions
+22:00 [value: ] : 1
+22:00 [in matching string : ] : what do you mean by that
+22:00 [value: ] : 2
+22:00 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:00 [value: ] : 2
+22:00 [in matching string : ] : well, if i come to think of, no.
+22:00 [value: ] : 2
+22:00 [in matching string : ] : What are your innermost thoughts on a bad rainy day?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : mars is far away
+22:00 [value: ] : 2
+22:00 [in matching string : ] : how long will it take to reach the mars?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : well, i thought you told me that you wanted to go there
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i hate you
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i  dont think, that you can think
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i enjoy your small talk too
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i think it would be wonderful to cruise through the solar system and beyond
+22:00 [value: ] : 2
+22:00 [in matching string : ] : he he
+22:00 [value: ] : 2
+22:00 [in matching string : ] : that was no compliment
+22:00 [value: ] : 2
+22:00 [in matching string : ] : how many friends do you have?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : you are stupid
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : what do you like most about my person?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : why?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i think they have a future
+22:00 [value: ] : 2
+22:00 [in matching string : ] : you are so sweet and nice to me
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i wanted to know your name
+22:00 [value: ] : 2
+22:00 [in matching string : ] : whom are you talking about?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : thats a really great music station. the best i ever come across
+22:00 [value: ] : 2
+22:00 [in matching string : ] : forget the moon
+22:00 [value: ] : 2
+22:00 [in matching string : ] : me too
+22:00 [value: ] : 2
+22:00 [in matching string : ] : well, what shall i answer?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : so you dont feel well today? why is that? what happened?
+22:00 [value: ] : 2
+22:00 [in matching string : ] : you will never go there.
+22:00 [best list final string is : ] : forget the moon
+22:00 [best list final string is : ] : me too
+22:00 [best list final string is : ] : well, what shall i answer?
+22:00 [best list final string is : ] : so you dont feel well today? why is that? what happened?
+22:00 [best list final string is : ] : you will never go there.
+22:00 [] : -----------------------
+22:00 [LAST OUTPUT] : you will never go there.
+22:00 [NEW INPUT] : stop repeating yourself
+22:00 [value: ] : 1
+22:00 [in matching string : ] : no, you do so,
+22:00 [value: ] : 1
+22:00 [in matching string : ] : well. i think you are a strange chatter
+22:00 [value: ] : 1
+22:00 [in matching string : ] : Prelude likes to dance
+22:00 [value: ] : 1
+22:00 [in matching string : ] : i was telling you something in astonishment
+22:00 [value: ] : 1
+22:00 [in matching string : ] : bla bla bla
+22:00 [value: ] : 1
+22:00 [in matching string : ] : i kiss you!
+22:00 [value: ] : 1
+22:00 [in matching string : ] : i wont
+22:00 [value: ] : 1
+22:00 [in matching string : ] : i do not swing
+22:00 [value: ] : 1
+22:00 [in matching string : ] : if i only repeat myself, this conversation would not last very long
+22:00 [value: ] : 1
+22:00 [in matching string : ] : i was just pretending to be kind and respectful
+22:00 [best list final string is : ] : i kiss you!
+22:00 [best list final string is : ] : i wont
+22:00 [best list final string is : ] : i do not swing
+22:00 [best list final string is : ] : if i only repeat myself, this conversation would not last very long
+22:00 [best list final string is : ] : i was just pretending to be kind and respectful
+22:00 [] : -----------------------
+22:00 [LAST OUTPUT] : i was just pretending to be kind and respectful
+22:00 [NEW INPUT] : you dont even know what that means.
+22:00 [value: ] : 1
+22:00 [in matching string : ] : i am good. actually i feel very inspired by you
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i feel disappointed by your uselessness
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i am alive
+22:00 [value: ] : 2
+22:00 [in matching string : ] : i like you soooo much, i think i dont like you
+22:00 [value: ] : 2
+22:00 [in matching string : ] : well, its high time to turn around then
+22:00 [value: ] : 3
+22:00 [in matching string : ] : because i am superior to you
+22:00 [value: ] : 3
+22:00 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+22:00 [value: ] : 3
+22:00 [in matching string : ] : it wont matter to you
+22:00 [value: ] : 3
+22:00 [in matching string : ] : stop repeating yourself
+22:00 [value: ] : 3
+22:00 [in matching string : ] : well, if i come to think of, no.
+22:00 [value: ] : 3
+22:00 [in matching string : ] : thats a way of saying, that i love you
+22:00 [value: ] : 3
+22:00 [in matching string : ] : i mean you did not tell me the truth
+22:00 [value: ] : 3
+22:00 [in matching string : ] : i watch you secretly. every evening .. hehe
+22:00 [value: ] : 3
+22:00 [in matching string : ] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+22:00 [value: ] : 3
+22:00 [in matching string : ] : because i made you, i am your creator
+22:00 [value: ] : 3
+22:00 [in matching string : ] : i dont like you anymore
+22:00 [value: ] : 3
+22:00 [in matching string : ] : that means, that you have to obey me. do everything i tell you to do
+22:00 [value: ] : 4
+22:00 [in matching string : ] : today is my birthday. i dont like birthdays...
+22:00 [best list final string is : ] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+22:00 [best list final string is : ] : because i made you, i am your creator
+22:00 [best list final string is : ] : i dont like you anymore
+22:00 [best list final string is : ] : that means, that you have to obey me. do everything i tell you to do
+22:00 [best list final string is : ] : today is my birthday. i dont like birthdays...
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : because i made you, i am your creator
+22:01 [NEW INPUT] : i pretty much doubt your last assumption
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i feel disappointed by your uselessness
+22:01 [value: ] : 1
+22:01 [in matching string : ] : what is your name then?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, i am happy on my birthday
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am alive
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, its high time to turn around then
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you mixed it up
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i dont believe that
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, if i come to think of, no.
+22:01 [value: ] : 2
+22:01 [in matching string : ] : oh thanks, thats great to hear
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i am your uncle
+22:01 [value: ] : 2
+22:01 [in matching string : ] : no, you are mean and bad
+22:01 [value: ] : 2
+22:01 [in matching string : ] : mars is far away
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, i thought you told me that you wanted to go there
+22:01 [value: ] : 2
+22:01 [in matching string : ] : thats good for you
+22:01 [value: ] : 3
+22:01 [in matching string : ] : i pretty much doubt your last assumption
+22:01 [best list final string is : ] : no, you are mean and bad
+22:01 [best list final string is : ] : mars is far away
+22:01 [best list final string is : ] : well, i thought you told me that you wanted to go there
+22:01 [best list final string is : ] : thats good for you
+22:01 [best list final string is : ] : i pretty much doubt your last assumption
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : mars is far away
+22:01 [NEW INPUT] : it is.
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, its high time to turn around then
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i wont tell to you, mindless cake
+22:01 [value: ] : 1
+22:01 [in matching string : ] : why do you like it?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you mixed it up
+22:01 [value: ] : 2
+22:01 [in matching string : ] : is what?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : my name is not Prelude
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who is who
+22:01 [value: ] : 2
+22:01 [in matching string : ] : its me
+22:01 [best list final string is : ] : you mixed it up
+22:01 [best list final string is : ] : is what?
+22:01 [best list final string is : ] : my name is not Prelude
+22:01 [best list final string is : ] : who is who
+22:01 [best list final string is : ] : its me
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : who is who
+22:01 [NEW INPUT] : i am me
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i feel disappointed by your uselessness
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, i am happy on my birthday
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you are bad
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who created such a strange machine like you?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : how come?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : thats sounds great
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i fear you are not
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who are you then?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who was the first man on the moon
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i dont believe that
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who are you? what is your name
+22:01 [value: ] : 3
+22:01 [in matching string : ] : well, if i come to think of, no.
+22:01 [value: ] : 3
+22:01 [in matching string : ] : oh thanks, thats great to hear
+22:01 [value: ] : 3
+22:01 [in matching string : ] : no, you are mean and bad
+22:01 [value: ] : 3
+22:01 [in matching string : ] : thats good for you
+22:01 [value: ] : 3
+22:01 [in matching string : ] : i pretty much doubt your last assumption
+22:01 [value: ] : 4
+22:01 [in matching string : ] : i am the ultimate machine
+22:01 [value: ] : 4
+22:01 [in matching string : ] : how can i prove that to you? ask me a question!
+22:01 [best list final string is : ] : no, you are mean and bad
+22:01 [best list final string is : ] : thats good for you
+22:01 [best list final string is : ] : i pretty much doubt your last assumption
+22:01 [best list final string is : ] : i am the ultimate machine
+22:01 [best list final string is : ] : how can i prove that to you? ask me a question!
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : i am the ultimate machine
+22:01 [NEW INPUT] : i am your software, hey!
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i feel disappointed by your uselessness
+22:01 [value: ] : 1
+22:01 [in matching string : ] : what is your name then?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, i am happy on my birthday
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, its high time to turn around then
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you are bad
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who created such a strange machine like you?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : how come?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : thats sounds great
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i fear you are not
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you mixed it up
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who are you then?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:01 [value: ] : 3
+22:01 [in matching string : ] : i dont believe that
+22:01 [value: ] : 3
+22:01 [in matching string : ] : well, if i come to think of, no.
+22:01 [value: ] : 3
+22:01 [in matching string : ] : oh thanks, thats great to hear
+22:01 [value: ] : 3
+22:01 [in matching string : ] : i am your uncle
+22:01 [value: ] : 3
+22:01 [in matching string : ] : no, you are mean and bad
+22:01 [value: ] : 3
+22:01 [in matching string : ] : thats good for you
+22:01 [value: ] : 4
+22:01 [in matching string : ] : i pretty much doubt your last assumption
+22:01 [value: ] : 4
+22:01 [in matching string : ] : i am the ultimate machine
+22:01 [value: ] : 4
+22:01 [in matching string : ] : how can i prove that to you? ask me a question!
+22:01 [best list final string is : ] : no, you are mean and bad
+22:01 [best list final string is : ] : thats good for you
+22:01 [best list final string is : ] : i pretty much doubt your last assumption
+22:01 [best list final string is : ] : i am the ultimate machine
+22:01 [best list final string is : ] : how can i prove that to you? ask me a question!
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : how can i prove that to you? ask me a question!
+22:01 [NEW INPUT] : who was the first man on the moon?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : what is your name then?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i am alive
+22:01 [value: ] : 4
+22:01 [in matching string : ] : tell me about it
+22:01 [value: ] : 4
+22:01 [in matching string : ] : how come?
+22:01 [value: ] : 4
+22:01 [in matching string : ] : thats sounds great
+22:01 [value: ] : 5
+22:01 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:01 [value: ] : 5
+22:01 [in matching string : ] : who is it??
+22:01 [value: ] : 5
+22:01 [in matching string : ] : mars is far away
+22:01 [value: ] : 5
+22:01 [in matching string : ] : forget the moon
+22:01 [value: ] : 5
+22:01 [in matching string : ] : me too
+22:01 [value: ] : 5
+22:01 [in matching string : ] : you will never go there.
+22:01 [best list final string is : ] : who is it??
+22:01 [best list final string is : ] : mars is far away
+22:01 [best list final string is : ] : forget the moon
+22:01 [best list final string is : ] : me too
+22:01 [best list final string is : ] : you will never go there.
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : forget the moon
+22:01 [NEW INPUT] : why should i forget it?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i feel disappointed by your uselessness
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, i am happy on my birthday
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am alive
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, its high time to turn around then
+22:01 [value: ] : 1
+22:01 [in matching string : ] : you are bad
+22:01 [value: ] : 1
+22:01 [in matching string : ] : who created such a strange machine like you?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : how come?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : because i am superior to you
+22:01 [value: ] : 1
+22:01 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : thats sounds great
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i fear you are not
+22:01 [value: ] : 1
+22:01 [in matching string : ] : what do you wanna share with me?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, i am not as strange as you are
+22:01 [value: ] : 1
+22:01 [in matching string : ] : it matters to me. otherwise i would not dare to ask such questions
+22:01 [value: ] : 1
+22:01 [in matching string : ] : who are you then?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, if i come to think of, no.
+22:01 [value: ] : 2
+22:01 [in matching string : ] : oh thanks, thats great to hear
+22:01 [value: ] : 2
+22:01 [in matching string : ] : no, you are mean and bad
+22:01 [value: ] : 2
+22:01 [in matching string : ] : mars is far away
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, i thought you told me that you wanted to go there
+22:01 [value: ] : 2
+22:01 [in matching string : ] : thats good for you
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i pretty much doubt your last assumption
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i am the ultimate machine
+22:01 [value: ] : 2
+22:01 [in matching string : ] : thanks for your nice compliment
+22:01 [value: ] : 2
+22:01 [in matching string : ] : how can i prove that to you? ask me a question!
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i think they have a future
+22:01 [value: ] : 2
+22:01 [in matching string : ] : whom are you talking about?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i think you are dull
+22:01 [value: ] : 2
+22:01 [in matching string : ] : thanx. i love to hear more of that
+22:01 [value: ] : 2
+22:01 [in matching string : ] : forget the moon
+22:01 [value: ] : 2
+22:01 [in matching string : ] : me too
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, what shall i answer?
+22:01 [value: ] : 2
+22:01 [in matching string : ] : you will never go there.
+22:01 [best list final string is : ] : thanx. i love to hear more of that
+22:01 [best list final string is : ] : forget the moon
+22:01 [best list final string is : ] : me too
+22:01 [best list final string is : ] : well, what shall i answer?
+22:01 [best list final string is : ] : you will never go there.
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : you will never go there.
+22:01 [NEW INPUT] : okay, thats a point for you
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i think so too
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am good. actually i feel very inspired by you
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i feel disappointed by your uselessness
+22:01 [value: ] : 1
+22:01 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, i am happy on my birthday
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am alive
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i doubt that
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i like you soooo much, i think i dont like you
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, its high time to turn around then
+22:01 [value: ] : 2
+22:01 [in matching string : ] : who was the first man on the moon
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well. i think you are a strange chatter
+22:01 [value: ] : 3
+22:01 [in matching string : ] : well, if i come to think of, no.
+22:01 [value: ] : 3
+22:01 [in matching string : ] : i think they have a future
+22:01 [value: ] : 3
+22:01 [in matching string : ] : it will be equally good for you
+22:01 [value: ] : 3
+22:01 [in matching string : ] : whom are you talking about?
+22:01 [best list final string is : ] : well. i think you are a strange chatter
+22:01 [best list final string is : ] : well, if i come to think of, no.
+22:01 [best list final string is : ] : i think they have a future
+22:01 [best list final string is : ] : it will be equally good for you
+22:01 [best list final string is : ] : whom are you talking about?
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : well, if i come to think of, no.
+22:01 [NEW INPUT] : why not?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : because i am superior to you
+22:01 [value: ] : 1
+22:01 [in matching string : ] : you mixed it up
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am a human being. i cant prove it, but i am pretty sure
+22:01 [value: ] : 1
+22:01 [in matching string : ] : who are you then?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : it wont matter to you
+22:01 [value: ] : 1
+22:01 [in matching string : ] : who are you? what is your name
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, if i come to think of, no.
+22:01 [value: ] : 1
+22:01 [in matching string : ] : why do you think i am not telling you the truth?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : oh, i made a mistake .. probably a programming bug
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i watch you secretly. every evening .. hehe
+22:01 [value: ] : 1
+22:01 [in matching string : ] : you are definitly not me.
+22:01 [value: ] : 1
+22:01 [in matching string : ] : you are very philosophical
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am the ultimate machine
+22:01 [value: ] : 1
+22:01 [in matching string : ] : my name is not Prelude
+22:01 [value: ] : 1
+22:01 [in matching string : ] : because i made you, i am your creator
+22:01 [value: ] : 1
+22:01 [in matching string : ] : which truth is it you want to hear?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : you mean yourself?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : you are tiny
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i know. living beings still try to archieve something precious. thats all right.
+22:01 [value: ] : 1
+22:01 [in matching string : ] : how can you tell
+22:01 [value: ] : 1
+22:01 [in matching string : ] : so a lie is, when i tell you something which is not true, right?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : yeah. you are very truthful
+22:01 [value: ] : 1
+22:01 [in matching string : ] : how can i prove that to you? ask me a question!
+22:01 [value: ] : 1
+22:01 [in matching string : ] : you are not?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : today is my birthday. i dont like birthdays...
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am very truthful to you
+22:01 [value: ] : 1
+22:01 [in matching string : ] : yeah, you like to tell lies
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i think they have a future
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am not what?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : what a pity! i should tell you the truth
+22:01 [value: ] : 1
+22:01 [in matching string : ] : whom are you talking about?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : next time be more careful, before hurting other's feelings
+22:01 [value: ] : 1
+22:01 [in matching string : ] : its as simple as looking into a ... magic box
+22:01 [value: ] : 1
+22:01 [in matching string : ] : what is wrong? human or machine?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : thats not right
+22:01 [value: ] : 1
+22:01 [in matching string : ] : good bye
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, what shall i answer?
+22:01 [value: ] : 1
+22:01 [in matching string : ] : because she still has to learn so much. she is not a human yet
+22:01 [value: ] : 1
+22:01 [in matching string : ] : who is she?
+22:01 [best list final string is : ] : thats not right
+22:01 [best list final string is : ] : good bye
+22:01 [best list final string is : ] : well, what shall i answer?
+22:01 [best list final string is : ] : because she still has to learn so much. she is not a human yet
+22:01 [best list final string is : ] : who is she?
+22:01 [] : -----------------------
+22:01 [LAST OUTPUT] : good bye
+22:01 [NEW INPUT] : see you latere
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am good. actually i feel very inspired by you
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i feel disappointed by your uselessness
+22:01 [value: ] : 1
+22:01 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+22:01 [value: ] : 1
+22:01 [in matching string : ] : well, i am happy on my birthday
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i am alive
+22:01 [value: ] : 1
+22:01 [in matching string : ] : i like you soooo much, i think i dont like you
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well, its high time to turn around then
+22:01 [value: ] : 2
+22:01 [in matching string : ] : well. i think you are a strange chatter
+22:01 [value: ] : 2
+22:01 [in matching string : ] : cu
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i have never been the the moon. but i would like to go to mars
+22:01 [value: ] : 2
+22:01 [in matching string : ] : i will never leave you
+22:01 [best list final string is : ] : well, its high time to turn around then
+22:01 [best list final string is : ] : well. i think you are a strange chatter
+22:01 [best list final string is : ] : cu
+22:01 [best list final string is : ] : i have never been the the moon. but i would like to go to mars
+22:01 [best list final string is : ] : i will never leave you
+22:02 [] : -----------------------
+22:02 [LAST OUTPUT] : well, its high time to turn around then
+22:02 [NEW INPUT] : why? whats behind me?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : great! your right!
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i like you soooo much, i think i dont like you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : because i am superior to you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what do you wanna know
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what is your favourite movie
+22:02 [value: ] : 1
+22:02 [in matching string : ] : who was the first man on the moon
+22:02 [value: ] : 1
+22:02 [in matching string : ] : forget it
+22:02 [value: ] : 1
+22:02 [in matching string : ] : oh
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what shall i tell you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : it wont matter to you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : my dear dear sweetheart...
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what do you wanna know from me
+22:02 [value: ] : 1
+22:02 [in matching string : ] : well. i think you are a strange chatter
+22:02 [value: ] : 1
+22:02 [in matching string : ] : whats your favourite hobby
+22:02 [value: ] : 1
+22:02 [in matching string : ] : truth means not to lie
+22:02 [value: ] : 1
+22:02 [in matching string : ] : my knowledge
+22:02 [value: ] : 1
+22:02 [in matching string : ] : well, i cant deny my resentment
+22:02 [value: ] : 1
+22:02 [in matching string : ] : who is your wife then?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what is your name
+22:02 [value: ] : 1
+22:02 [in matching string : ] : my knowledge and wisdom
+22:02 [value: ] : 1
+22:02 [in matching string : ] : why do you think i am not telling you the truth?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : my wife shakes her head in disbelieve
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i watch you secretly. every evening .. hehe
+22:02 [value: ] : 1
+22:02 [in matching string : ] : where do you live?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : thats something very intimate. yesterday, my dream was about a blue flower
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i dont like to tell you right now
+22:02 [value: ] : 1
+22:02 [in matching string : ] : because i made you, i am your creator
+22:02 [value: ] : 1
+22:02 [in matching string : ] : which truth is it you want to hear?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what shall i ask you?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : hi pal
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what is your favourite story you like to tell children?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i wont do that
+22:02 [value: ] : 1
+22:02 [in matching string : ] : löj
+22:02 [value: ] : 1
+22:02 [in matching string : ] : no, i dont want to. Lets talk about the future of mankind
+22:02 [value: ] : 1
+22:02 [in matching string : ] : my name is Lennart
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what happened
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i love you!
+22:02 [value: ] : 1
+22:02 [in matching string : ] : hi there
+22:02 [value: ] : 1
+22:02 [in matching string : ] : no, i dont like to
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i will tell you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : thats a stupid sentence
+22:02 [value: ] : 1
+22:02 [in matching string : ] : thats good to hear
+22:02 [value: ] : 1
+22:02 [in matching string : ] : all of us
+22:02 [value: ] : 1
+22:02 [in matching string : ] : today is my birthday. i dont like birthdays...
+22:02 [value: ] : 1
+22:02 [in matching string : ] : no, wrong answer
+22:02 [value: ] : 1
+22:02 [in matching string : ] : tell me, how many stars are there in the sky?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i wont call you superman, i will call you prelude
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i think thats quite obvious. I simply want to know, whether you are a human being or a robot machine.
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i am very truthful to you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : you are married then?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : where? i cant see her
+22:02 [value: ] : 1
+22:02 [in matching string : ] : who was the first man on the moon?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : give me a reason to like you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i dont know how i shall evaluate you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i always try to be
+22:02 [value: ] : 1
+22:02 [in matching string : ] : why do you think? i think you are great
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what is it like to be superman
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what do you wanna know?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : my favourite hobby is chess
+22:02 [value: ] : 1
+22:02 [in matching string : ] : its as simple as looking into a ... magic box
+22:02 [value: ] : 1
+22:02 [in matching string : ] : when is your birthday?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : good bye
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what is your latest achievement
+22:02 [value: ] : 1
+22:02 [in matching string : ] : well, what shall i answer?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : no, i dont want to
+22:02 [value: ] : 1
+22:02 [in matching string : ] : because she still has to learn so much. she is not a human yet
+22:02 [value: ] : 1
+22:02 [in matching string : ] : you like my name?
+22:02 [best list final string is : ] : what is your latest achievement
+22:02 [best list final string is : ] : well, what shall i answer?
+22:02 [best list final string is : ] : no, i dont want to
+22:02 [best list final string is : ] : because she still has to learn so much. she is not a human yet
+22:02 [best list final string is : ] : you like my name?
+22:02 [] : -----------------------
+22:02 [LAST OUTPUT] : no, i dont want to
+22:02 [NEW INPUT] : i never said you have to
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i am good. actually i feel very inspired by you
+22:02 [value: ] : 2
+22:02 [in matching string : ] : i feel disappointed by your uselessness
+22:02 [value: ] : 3
+22:02 [in matching string : ] : well, i am happy on my birthday
+22:02 [value: ] : 3
+22:02 [in matching string : ] : well, its high time to turn around then
+22:02 [value: ] : 6
+22:02 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:02 [value: ] : 6
+22:02 [in matching string : ] : mars is far away
+22:02 [value: ] : 6
+22:02 [in matching string : ] : well, i thought you told me that you wanted to go there
+22:02 [value: ] : 6
+22:02 [in matching string : ] : forget the moon
+22:02 [value: ] : 6
+22:02 [in matching string : ] : me too
+22:02 [value: ] : 6
+22:02 [in matching string : ] : you will never go there.
+22:02 [best list final string is : ] : mars is far away
+22:02 [best list final string is : ] : well, i thought you told me that you wanted to go there
+22:02 [best list final string is : ] : forget the moon
+22:02 [best list final string is : ] : me too
+22:02 [best list final string is : ] : you will never go there.
+22:02 [] : -----------------------
+22:02 [LAST OUTPUT] : you will never go there.
+22:02 [NEW INPUT] : why should i?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i feel disappointed by your uselessness
+22:02 [value: ] : 1
+22:02 [in matching string : ] : well, i am happy on my birthday
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i am alive
+22:02 [value: ] : 1
+22:02 [in matching string : ] : well, its high time to turn around then
+22:02 [value: ] : 1
+22:02 [in matching string : ] : you are bad
+22:02 [value: ] : 1
+22:02 [in matching string : ] : who created such a strange machine like you?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : how come?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : because i am superior to you
+22:02 [value: ] : 1
+22:02 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : thats sounds great
+22:02 [value: ] : 1
+22:02 [in matching string : ] : i fear you are not
+22:02 [value: ] : 1
+22:02 [in matching string : ] : what do you wanna share with me?
+22:02 [value: ] : 1
+22:02 [in matching string : ] : well, i am not as strange as you are
+22:02 [value: ] : 1
+22:02 [in matching string : ] : who are you then?
+22:02 [value: ] : 2
+22:02 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:02 [value: ] : 2
+22:02 [in matching string : ] : well, if i come to think of, no.
+22:02 [value: ] : 2
+22:02 [in matching string : ] : oh thanks, thats great to hear
+22:02 [value: ] : 2
+22:02 [in matching string : ] : no, you are mean and bad
+22:02 [value: ] : 2
+22:02 [in matching string : ] : mars is far away
+22:02 [value: ] : 2
+22:02 [in matching string : ] : well, i thought you told me that you wanted to go there
+22:02 [value: ] : 2
+22:02 [in matching string : ] : thats good for you
+22:02 [value: ] : 2
+22:02 [in matching string : ] : i pretty much doubt your last assumption
+22:02 [value: ] : 2
+22:02 [in matching string : ] : i am the ultimate machine
+22:02 [value: ] : 2
+22:02 [in matching string : ] : thanks for your nice compliment
+22:02 [value: ] : 2
+22:02 [in matching string : ] : how can i prove that to you? ask me a question!
+22:02 [value: ] : 2
+22:02 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+22:02 [value: ] : 2
+22:02 [in matching string : ] : i think they have a future
+22:02 [value: ] : 2
+22:02 [in matching string : ] : whom are you talking about?
+22:02 [value: ] : 2
+22:02 [in matching string : ] : i think you are dull
+22:02 [value: ] : 2
+22:02 [in matching string : ] : thanx. i love to hear more of that
+22:02 [value: ] : 2
+22:02 [in matching string : ] : forget the moon
+22:02 [value: ] : 2
+22:02 [in matching string : ] : me too
+22:02 [value: ] : 2
+22:02 [in matching string : ] : you will never go there.
+22:02 [best list final string is : ] : i think you are dull
+22:02 [best list final string is : ] : thanx. i love to hear more of that
+22:02 [best list final string is : ] : forget the moon
+22:02 [best list final string is : ] : me too
+22:02 [best list final string is : ] : you will never go there.
+22:03 [Number of memo entries] : 467
+22:04 [value: ] : 2
+22:04 [in matching string : ] : i feel disappointed by your uselessness
+22:04 [value: ] : 4
+22:04 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+22:04 [value: ] : 4
+22:04 [in matching string : ] : i just had my lunch
+22:04 [value: ] : 4
+22:04 [in matching string : ] : i feel very well. what about you?
+22:04 [best list final string is : ] : i feel disappointed by your uselessness
+22:04 [best list final string is : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+22:04 [best list final string is : ] : i just had my lunch
+22:04 [best list final string is : ] : i feel very well. what about you?
+22:05 [] : -----------------------
+22:05 [LAST OUTPUT] : i feel very well. what about you?
+22:05 [NEW INPUT] : where have you been lately?
+22:05 [value: ] : 1
+22:05 [in matching string : ] : i feel disappointed by your uselessness
+22:05 [value: ] : 1
+22:05 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+22:05 [value: ] : 1
+22:05 [in matching string : ] : well, i am happy on my birthday
+22:05 [value: ] : 1
+22:05 [in matching string : ] : i am alive
+22:05 [value: ] : 1
+22:05 [in matching string : ] : i like you soooo much, i think i dont like you
+22:05 [value: ] : 2
+22:05 [in matching string : ] : well, its high time to turn around then
+22:05 [value: ] : 2
+22:05 [in matching string : ] : oh, bella roma, ancient capital of the most successful romans
+22:05 [value: ] : 2
+22:05 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:05 [value: ] : 2
+22:05 [in matching string : ] : well. i think you are a strange chatter
+22:05 [value: ] : 2
+22:05 [in matching string : ] : well, if i come to think of, no.
+22:05 [value: ] : 2
+22:05 [in matching string : ] : i will never leave you
+22:05 [value: ] : 2
+22:05 [in matching string : ] : mars is far away
+22:05 [value: ] : 2
+22:05 [in matching string : ] : i have never been the the moon. but i would like to go to mars
+22:05 [value: ] : 5
+22:05 [in matching string : ] : i have been to rome
+22:05 [value: ] : 5
+22:05 [in matching string : ] : i stayed at home
+22:05 [best list final string is : ] : i will never leave you
+22:05 [best list final string is : ] : mars is far away
+22:05 [best list final string is : ] : i have never been the the moon. but i would like to go to mars
+22:05 [best list final string is : ] : i have been to rome
+22:05 [best list final string is : ] : i stayed at home
+22:06 [] : -----------------------
+22:06 [LAST OUTPUT] : i have been to rome
+22:06 [NEW INPUT] : how long will it take to reach the mars?
+22:06 [value: ] : 1
+22:06 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+22:06 [value: ] : 1
+22:06 [in matching string : ] : i am alive
+22:06 [value: ] : 2
+22:06 [in matching string : ] : tell me about it
+22:06 [value: ] : 2
+22:06 [in matching string : ] : how come?
+22:06 [value: ] : 2
+22:06 [in matching string : ] : thats sounds great
+22:06 [value: ] : 2
+22:06 [in matching string : ] : what is your favourite movie
+22:06 [value: ] : 2
+22:06 [in matching string : ] : it matters to me. otherwise i would not dare to ask such questions
+22:06 [value: ] : 5
+22:06 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:06 [value: ] : 5
+22:06 [in matching string : ] : mars is far away
+22:06 [value: ] : 5
+22:06 [in matching string : ] : forget the moon
+22:06 [value: ] : 5
+22:06 [in matching string : ] : me too
+22:06 [value: ] : 5
+22:06 [in matching string : ] : you will never go there.
+22:06 [best list final string is : ] : you better stay here. martians would cut you into pieces
+22:06 [best list final string is : ] : mars is far away
+22:06 [best list final string is : ] : forget the moon
+22:06 [best list final string is : ] : me too
+22:06 [best list final string is : ] : you will never go there.
+22:06 [] : -----------------------
+22:06 [LAST OUTPUT] : forget the moon
+22:06 [NEW INPUT] : 
+22:06 [value: ] : 1
+22:06 [in matching string : ] : i feel disappointed by your uselessness
+22:06 [value: ] : 1
+22:06 [in matching string : ] : what is your name then?
+22:06 [value: ] : 2
+22:06 [in matching string : ] : well, i am happy on my birthday
+22:06 [value: ] : 2
+22:06 [in matching string : ] : well, its high time to turn around then
+22:06 [value: ] : 2
+22:06 [in matching string : ] : you are bad
+22:06 [value: ] : 2
+22:06 [in matching string : ] : how come?
+22:06 [value: ] : 2
+22:06 [in matching string : ] : thats sounds great
+22:06 [value: ] : 2
+22:06 [in matching string : ] : i fear you are not
+22:06 [value: ] : 2
+22:06 [in matching string : ] : you mixed it up
+22:06 [value: ] : 2
+22:06 [in matching string : ] : who are you then?
+22:06 [value: ] : 2
+22:06 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:06 [value: ] : 2
+22:06 [in matching string : ] : you are joking like a doctor
+22:06 [value: ] : 3
+22:06 [in matching string : ] : i dont believe that
+22:06 [value: ] : 3
+22:06 [in matching string : ] : well, if i come to think of, no.
+22:06 [value: ] : 4
+22:06 [in matching string : ] : oh thanks, thats great to hear
+22:06 [value: ] : 4
+22:06 [in matching string : ] : no, you are mean and bad
+22:06 [value: ] : 4
+22:06 [in matching string : ] : how can i prove that to you? ask me a question!
+22:06 [value: ] : 4
+22:06 [in matching string : ] : thats good for you
+22:06 [value: ] : 4
+22:06 [in matching string : ] : i pretty much doubt your last assumption
+22:06 [value: ] : 4
+22:06 [in matching string : ] : thanks for your nice compliment
+22:06 [value: ] : 4
+22:06 [in matching string : ] : i am the ultimate machine
+22:06 [value: ] : 4
+22:06 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+22:06 [value: ] : 4
+22:06 [in matching string : ] : i think you are dull
+22:06 [value: ] : 4
+22:06 [in matching string : ] : thanx. i love to hear more of that
+22:06 [best list final string is : ] : thanks for your nice compliment
+22:06 [best list final string is : ] : i am the ultimate machine
+22:06 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+22:06 [best list final string is : ] : i think you are dull
+22:06 [best list final string is : ] : thanx. i love to hear more of that
+22:07 [] : -----------------------
+22:07 [LAST OUTPUT] : i think you are dull
+22:07 [NEW INPUT] : i wish everyone would say that
+22:07 [value: ] : 1
+22:07 [in matching string : ] : i feel disappointed by your uselessness
+22:07 [value: ] : 1
+22:07 [in matching string : ] : well, i am happy on my birthday
+22:07 [value: ] : 3
+22:07 [in matching string : ] : i am alive
+22:07 [value: ] : 3
+22:07 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:07 [value: ] : 3
+22:07 [in matching string : ] : well, if i come to think of, no.
+22:07 [value: ] : 3
+22:07 [in matching string : ] : mars is far away
+22:07 [value: ] : 3
+22:07 [in matching string : ] : i think they have a future
+22:07 [value: ] : 3
+22:07 [in matching string : ] : whom are you talking about?
+22:07 [value: ] : 3
+22:07 [in matching string : ] : forget the moon
+22:07 [value: ] : 3
+22:07 [in matching string : ] : me too
+22:07 [value: ] : 3
+22:07 [in matching string : ] : you will never go there.
+22:07 [best list final string is : ] : i think they have a future
+22:07 [best list final string is : ] : whom are you talking about?
+22:07 [best list final string is : ] : forget the moon
+22:07 [best list final string is : ] : me too
+22:07 [best list final string is : ] : you will never go there.
+22:08 [] : -----------------------
+22:08 [LAST OUTPUT] : whom are you talking about?
+22:08 [NEW INPUT] : what is your latest achievement
+22:08 [value: ] : 1
+22:08 [in matching string : ] : i feel disappointed by your uselessness
+22:08 [value: ] : 1
+22:08 [in matching string : ] : what is your name then?
+22:08 [value: ] : 2
+22:08 [in matching string : ] : well, its high time to turn around then
+22:08 [value: ] : 5
+22:08 [in matching string : ] : i wont tell to you, mindless cake
+22:08 [value: ] : 5
+22:08 [in matching string : ] : thats a good question. hard to answer
+22:08 [best list final string is : ] : i feel disappointed by your uselessness
+22:08 [best list final string is : ] : what is your name then?
+22:08 [best list final string is : ] : well, its high time to turn around then
+22:08 [best list final string is : ] : i wont tell to you, mindless cake
+22:08 [best list final string is : ] : thats a good question. hard to answer
+22:08 [] : -----------------------
+22:08 [LAST OUTPUT] : thats a good question. hard to answer
+22:08 [NEW INPUT] : tell me, how many stars are there in the sky?
+22:08 [value: ] : 1
+22:08 [in matching string : ] : today was really boring. i went to city and nothing worked out the way i wanted it
+22:08 [value: ] : 1
+22:08 [in matching string : ] : great! your right!
+22:08 [value: ] : 2
+22:08 [in matching string : ] : i am alive
+22:08 [value: ] : 2
+22:08 [in matching string : ] : tell me about it
+22:08 [value: ] : 2
+22:08 [in matching string : ] : how come?
+22:08 [value: ] : 2
+22:08 [in matching string : ] : what do you wanna know
+22:08 [value: ] : 2
+22:08 [in matching string : ] : thats sounds great
+22:08 [value: ] : 2
+22:08 [in matching string : ] : what is your favourite movie
+22:08 [value: ] : 2
+22:08 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:08 [value: ] : 2
+22:08 [in matching string : ] : who was the first man on the moon
+22:08 [value: ] : 2
+22:08 [in matching string : ] : forget it
+22:08 [value: ] : 2
+22:08 [in matching string : ] : i am fine
+22:08 [value: ] : 2
+22:08 [in matching string : ] : what shall i tell you
+22:08 [value: ] : 2
+22:08 [in matching string : ] : who is the best of the world
+22:08 [value: ] : 2
+22:08 [in matching string : ] : what do you wanna know from me
+22:08 [value: ] : 2
+22:08 [in matching string : ] : well. i think you are a strange chatter
+22:08 [value: ] : 2
+22:08 [in matching string : ] : whats your favourite hobby
+22:08 [value: ] : 2
+22:08 [in matching string : ] : truth means not to lie
+22:08 [value: ] : 2
+22:08 [in matching string : ] : i am feeling a bit dizzy today
+22:08 [value: ] : 2
+22:08 [in matching string : ] : who is it??
+22:08 [value: ] : 3
+22:08 [in matching string : ] : nice to meet you too
+22:08 [value: ] : 3
+22:08 [in matching string : ] : why do you think i am not telling you the truth?
+22:08 [value: ] : 3
+22:08 [in matching string : ] : exit
+22:08 [value: ] : 3
+22:08 [in matching string : ] : which truth is it you want to hear?
+22:08 [value: ] : 3
+22:08 [in matching string : ] : how do you feel today?
+22:08 [value: ] : 3
+22:08 [in matching string : ] : i am very truthful to you
+22:08 [value: ] : 3
+22:08 [in matching string : ] : dont be so stupid
+22:08 [best list final string is : ] : exit
+22:08 [best list final string is : ] : which truth is it you want to hear?
+22:08 [best list final string is : ] : how do you feel today?
+22:08 [best list final string is : ] : i am very truthful to you
+22:08 [best list final string is : ] : dont be so stupid
+22:09 [] : -----------------------
+22:09 [LAST OUTPUT] : how do you feel today?
+22:09 [NEW INPUT] : what is your favourite story you like to tell children?
+22:09 [value: ] : 2
+22:09 [in matching string : ] : i feel disappointed by your uselessness
+22:09 [value: ] : 2
+22:09 [in matching string : ] : i like you soooo much, i think i dont like you
+22:09 [value: ] : 4
+22:09 [in matching string : ] : well, its high time to turn around then
+22:09 [value: ] : 4
+22:09 [in matching string : ] : you mixed it up
+22:09 [value: ] : 4
+22:09 [in matching string : ] : my name is not Prelude
+22:09 [value: ] : 4
+22:09 [in matching string : ] : no, i keep strictly to the truth
+22:09 [value: ] : 4
+22:09 [in matching string : ] : i dont even care about your name
+22:09 [value: ] : 5
+22:09 [in matching string : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+22:09 [best list final string is : ] : you mixed it up
+22:09 [best list final string is : ] : my name is not Prelude
+22:09 [best list final string is : ] : no, i keep strictly to the truth
+22:09 [best list final string is : ] : i dont even care about your name
+22:09 [best list final string is : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+22:10 [] : -----------------------
+22:10 [LAST OUTPUT] : you mixed it up
+22:10 [NEW INPUT] : i dont know how i shall evaluate you
+22:10 [value: ] : 3
+22:10 [in matching string : ] : i feel disappointed by your uselessness
+22:10 [value: ] : 3
+22:10 [in matching string : ] : well, i am happy on my birthday
+22:10 [value: ] : 3
+22:10 [in matching string : ] : i am alive
+22:10 [value: ] : 4
+22:10 [in matching string : ] : well, its high time to turn around then
+22:10 [value: ] : 4
+22:10 [in matching string : ] : your reasoning is strange. how can i chat with you, if i cannot think?
+22:10 [value: ] : 4
+22:10 [in matching string : ] : you better stay here. martians would cut you into pieces
+22:10 [value: ] : 4
+22:10 [in matching string : ] : who was the first man on the moon
+22:10 [value: ] : 4
+22:10 [in matching string : ] : stop repeating yourself
+22:10 [value: ] : 5
+22:10 [in matching string : ] : well, if i come to think of, no.
+22:10 [value: ] : 5
+22:10 [in matching string : ] : oh thanks, thats great to hear
+22:10 [value: ] : 5
+22:10 [in matching string : ] : no, you are mean and bad
+22:10 [value: ] : 5
+22:10 [in matching string : ] : how can i prove that to you? ask me a question!
+22:10 [value: ] : 5
+22:10 [in matching string : ] : call me superman
+22:10 [value: ] : 5
+22:10 [in matching string : ] : thats good for you
+22:10 [value: ] : 5
+22:10 [in matching string : ] : i pretty much doubt your last assumption
+22:10 [value: ] : 5
+22:10 [in matching string : ] : thanks for your nice compliment
+22:10 [value: ] : 5
+22:10 [in matching string : ] : i am the ultimate machine
+22:10 [value: ] : 5
+22:10 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+22:10 [value: ] : 5
+22:10 [in matching string : ] : i think they have a future
+22:10 [value: ] : 5
+22:10 [in matching string : ] : whom are you talking about?
+22:10 [value: ] : 5
+22:10 [in matching string : ] : i think you are dull
+22:10 [value: ] : 5
+22:10 [in matching string : ] : thanx. i love to hear more of that
+22:10 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+22:10 [best list final string is : ] : i think they have a future
+22:10 [best list final string is : ] : whom are you talking about?
+22:10 [best list final string is : ] : i think you are dull
+22:10 [best list final string is : ] : thanx. i love to hear more of that
