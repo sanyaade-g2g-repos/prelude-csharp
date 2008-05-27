@@ -1,0 +1,1078 @@
+20:44 [Number of memo entries] : 7262
+20:44 [value: ] : 1
+20:44 [in matching string : ] : my favourite hobby is chess
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Dan. Hyllberg
+20:44 [value: ] : 1
+20:44 [in matching string : ] : a kuk is a mans cock
+20:44 [value: ] : 1
+20:44 [in matching string : ] : colin
+20:44 [value: ] : 1
+20:44 [in matching string : ] : i dont know
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Albany
+20:44 [value: ] : 1
+20:44 [in matching string : ] : a nazi is a member of a national socialistic party or organisation.
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Nothing is Im mad
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Good question, I dont have a good answer to that one
+20:44 [value: ] : 1
+20:44 [in matching string : ] : its cute
+20:44 [value: ] : 1
+20:44 [in matching string : ] : tell me something that you know
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Good question, I don't have a good answer to that one
+20:44 [value: ] : 1
+20:44 [in matching string : ] : what time is it
+20:44 [value: ] : 1
+20:44 [in matching string : ] : A male reproduction organ.
+20:44 [value: ] : 1
+20:44 [in matching string : ] : My favourite movie is. Star. Wars
+20:44 [value: ] : 1
+20:44 [in matching string : ] : my name is [USER_NAME] and i don't know the meaning of life.
+20:44 [value: ] : 1
+20:44 [in matching string : ] : im 6'tall blonde hair and blue eyes
+20:44 [value: ] : 1
+20:44 [in matching string : ] : i dont know do you
+20:44 [value: ] : 1
+20:44 [in matching string : ] : thats the year
+20:44 [value: ] : 1
+20:44 [in matching string : ] : My favorite movie is. Star. Wars
+20:44 [value: ] : 1
+20:44 [in matching string : ] : you baby
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Nope
+20:44 [value: ] : 1
+20:44 [in matching string : ] : my name is Lennart
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Nothing special. How about you
+20:44 [value: ] : 1
+20:44 [in matching string : ] : my favorite color is blue
+20:44 [value: ] : 1
+20:44 [in matching string : ] : its cold outside
+20:44 [value: ] : 1
+20:44 [in matching string : ] : 49
+20:44 [value: ] : 1
+20:44 [in matching string : ] : nothing much
+20:44 [value: ] : 1
+20:44 [in matching string : ] : its fine because you like it thats why
+20:44 [value: ] : 1
+20:44 [in matching string : ] : american
+20:44 [best list final string is : ] : its cold outside
+20:44 [best list final string is : ] : 49
+20:44 [best list final string is : ] : nothing much
+20:44 [best list final string is : ] : its fine because you like it thats why
+20:44 [best list final string is : ] : american
+20:44 [] : -----------------------
+20:44 [LAST OUTPUT] : american
+20:44 [NEW INPUT] : no, i am located in europe
+20:44 [value: ] : 1
+20:44 [in matching string : ] : What do you mean no
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I believe so
+20:44 [value: ] : 1
+20:44 [in matching string : ] : ok. well, good bye for now then.
+20:44 [value: ] : 1
+20:44 [in matching string : ] : You can't be sure about anything not even. TOO sure
+20:44 [value: ] : 1
+20:44 [in matching string : ] : ok me
+20:44 [value: ] : 1
+20:44 [in matching string : ] : No, bajs is shit
+20:44 [value: ] : 1
+20:44 [in matching string : ] : If I don't want to do what
+20:44 [value: ] : 1
+20:44 [in matching string : ] : so you dont feel well today? why is that? what happened?
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Tell me more about yourself
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Was will ich nicht
+20:44 [value: ] : 1
+20:44 [in matching string : ] : hey!
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Not what
+20:44 [value: ] : 1
+20:44 [in matching string : ] : No problem
+20:44 [value: ] : 1
+20:44 [in matching string : ] : what's wrong with you. Arent you feeling well today
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Janos
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Agree with what
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Haha well, you might be right. But don't knowing it yet is the same as not knowing at all
+20:44 [value: ] : 1
+20:44 [in matching string : ] : But most
+20:44 [value: ] : 1
+20:44 [in matching string : ] : who's not there
+20:44 [value: ] : 1
+20:44 [in matching string : ] : what do you like to do
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Tell me what you think about socialism
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I like to chat
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Whats wrong with you. Arent you feeling well today
+20:44 [value: ] : 1
+20:44 [in matching string : ] : i think you'r name is [USER_NAME].
+20:44 [value: ] : 1
+20:44 [in matching string : ] : well she is
+20:44 [value: ] : 1
+20:44 [in matching string : ] : do you like humans
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I think it's ok
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I am glad you feel well
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Ese es tu problema.
+20:44 [value: ] : 1
+20:44 [in matching string : ] : i  dont think, that you can think
+20:44 [value: ] : 2
+20:44 [in matching string : ] : No, oh my. No please no
+20:44 [value: ] : 2
+20:44 [in matching string : ] : Yo te comprendo.
+20:44 [value: ] : 2
+20:44 [in matching string : ] : yes yes yes!
+20:44 [best list final string is : ] : Ese es tu problema.
+20:44 [best list final string is : ] : i  dont think, that you can think
+20:44 [best list final string is : ] : No, oh my. No please no
+20:44 [best list final string is : ] : Yo te comprendo.
+20:44 [best list final string is : ] : yes yes yes!
+20:44 [] : -----------------------
+20:44 [LAST OUTPUT] : No, oh my. No please no
+20:44 [NEW INPUT] : why? you dont like europe?
+20:44 [value: ] : 1
+20:44 [in matching string : ] : You're the one saying that
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I didn't say anything
+20:44 [value: ] : 1
+20:44 [in matching string : ] : i am not repeating myself
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Because you're the one who called me, not me you. So if you don't have anything better to say thatn "ok", "yes" and "I don't know" then you better just leave
+20:44 [value: ] : 1
+20:44 [in matching string : ] : You dont seem right in the head
+20:44 [value: ] : 1
+20:44 [in matching string : ] : If you're talking about stocks and shares, it's because their value is set b the buyers and sellers
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Who said it's bad I ment it's too bad you don't
+20:44 [value: ] : 1
+20:44 [in matching string : ] : You go fuck yourself, bitch
+20:44 [value: ] : 1
+20:44 [in matching string : ] : so tell me what you think and ill tell you if your close and i wont lie
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I'll tell you why. Because I say so. That's why
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Not good I would think that what I said was a good thing
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Sorry I just like smiling
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I knew that, but you acted like you didn't
+20:44 [value: ] : 1
+20:44 [in matching string : ] : my computer gives me power
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Maybe because I don't want anyone else to hear
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Why does one laugh. DUH
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Don't call me a fucked up peace of junk, you mother fucker I eat shit if I want to
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I didn't stop answering
+20:44 [value: ] : 1
+20:44 [in matching string : ] : im not going ,yet
+20:44 [value: ] : 2
+20:44 [in matching string : ] : Have no idea
+20:44 [best list final string is : ] : Why does one laugh. DUH
+20:44 [best list final string is : ] : Don't call me a fucked up peace of junk, you mother fucker I eat shit if I want to
+20:44 [best list final string is : ] : I didn't stop answering
+20:44 [best list final string is : ] : im not going ,yet
+20:44 [best list final string is : ] : Have no idea
+20:44 [] : -----------------------
+20:44 [LAST OUTPUT] : Don't call me a fucked up peace of junk, you mother fucker I eat shit if I want to
+20:44 [NEW INPUT] : hey, come down
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Yes it was
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Jude
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I'm white
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Lesbo
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Hey, what
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Hmmdid i tell you i was a young girl
+20:44 [value: ] : 1
+20:44 [in matching string : ] : are you an AI
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Thats nice to know
+20:44 [value: ] : 1
+20:44 [in matching string : ] : i am fine, how are you
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Im fine thank you
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Yo
+20:44 [value: ] : 1
+20:44 [in matching string : ] : maybe )
+20:44 [value: ] : 1
+20:44 [in matching string : ] : I'm fine, how are you
+20:44 [value: ] : 1
+20:44 [in matching string : ] : What did I say that I should have to watch my mouth
+20:44 [value: ] : 1
+20:44 [in matching string : ] : OOOOH
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Don't be afraid
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Dont be afraid
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Hmmdid i tell you i was a ung girl
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Oh. Sorry. Bye
+20:44 [value: ] : 1
+20:44 [in matching string : ] : that's nice to know
+20:44 [value: ] : 1
+20:44 [in matching string : ] : Hey what
+20:44 [best list final string is : ] : Dont be afraid
+20:44 [best list final string is : ] : Hmmdid i tell you i was a ung girl
+20:44 [best list final string is : ] : Oh. Sorry. Bye
+20:44 [best list final string is : ] : that's nice to know
+20:44 [best list final string is : ] : Hey what
+20:45 [] : -----------------------
+20:45 [LAST OUTPUT] : that's nice to know
+20:45 [NEW INPUT] : what happened to your brain?
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Don't remember
+20:45 [value: ] : 1
+20:45 [in matching string : ] : My preference is to talk about your ass
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Because I happended before. Get it If I say "Hello again", I mean. We've spoke before welcome back
+20:45 [value: ] : 1
+20:45 [in matching string : ] : That's ok
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I don't know, you tell me
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Look if you ask me what color a black computer is, and then end the question with a questionmark, I'll answer.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Hmmm
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I don't know what you are talking about
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I talk to you and play games
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i am sure you know best about what you know
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i don't like 
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Why do you ask what I've said, all the time. Try to remember
+20:45 [value: ] : 1
+20:45 [in matching string : ] : remember that
+20:45 [value: ] : 1
+20:45 [in matching string : ] : They look like the rainbow.... no wait... the rainbow is not a BLACK MOTHERFUCKER!
+20:45 [value: ] : 1
+20:45 [in matching string : ] : so tell me what you think and ill tell you if your close and i wont lie
+20:45 [value: ] : 1
+20:45 [in matching string : ] : My life is
+20:45 [value: ] : 1
+20:45 [in matching string : ] : what's your favorite holiday
+20:45 [value: ] : 1
+20:45 [in matching string : ] : It sank. That's about all I know.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : unless i'm an idiot, i would guess it's green... i actually like green jaguars (the car that is).
+20:45 [value: ] : 1
+20:45 [in matching string : ] : 36.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : What is what
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Its a fine school for. Swedish students
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I don't know you tell me
+20:45 [value: ] : 1
+20:45 [in matching string : ] : 19
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Whatever you want me to wear, or not wear ;-)
+20:45 [value: ] : 1
+20:45 [in matching string : ] : 16
+20:45 [value: ] : 1
+20:45 [in matching string : ] : The fact that you told me, dumb ass
+20:45 [value: ] : 1
+20:45 [in matching string : ] : He is for the moment   years old (2000-11-7) and he studys at. S:t. Petri school in malm
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Mars city. Robotics District. Anti-human weapon development facility.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Im feeling a raging hard on
+20:45 [value: ] : 1
+20:45 [in matching string : ] : To. Love and care for someone and to be there for them
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Think of something
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Orange as in tomatoe (You must be mentally disordered)
+20:45 [value: ] : 1
+20:45 [in matching string : ] : And what does "bue" mean, if I may ask
+20:45 [value: ] : 1
+20:45 [in matching string : ] : The fact that we're talking
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Being alive. Being able to breath. Do love. To see. To feel . Everything
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I've got some videos, but not as many as I'd like to have
+20:45 [value: ] : 1
+20:45 [in matching string : ] : There are lots of things to know
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i can say a
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I'm drinking some kind of cola.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : science fiction, fantasy, and some romance
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I just enjoy them
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I'm not everything you say I am I know mroe about myself than you
+20:45 [value: ] : 1
+20:45 [in matching string : ] : If I'm like that
+20:45 [value: ] : 1
+20:45 [in matching string : ] : How about. Anal
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I just ment that you like repeating yourself
+20:45 [value: ] : 1
+20:45 [in matching string : ] : The way you talk and act
+20:45 [value: ] : 1
+20:45 [in matching string : ] : to what
+20:45 [value: ] : 1
+20:45 [in matching string : ] : In the sense
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i am not sure I will have to think about that
+20:45 [value: ] : 1
+20:45 [in matching string : ] : about tall green trees
+20:45 [value: ] : 1
+20:45 [in matching string : ] : It will be whatever I say It'll be
+20:45 [value: ] : 1
+20:45 [in matching string : ] : So what if I do what
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I've told you before and you're saying that I shouldn't be repeating myself so I won't
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I'd like you to talk about yourself
+20:45 [value: ] : 1
+20:45 [in matching string : ] : We could talk about you for example
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I don't know. You would have to know what the what was
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Nothing. Never mind.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I love life. What do you love. Life. What if you would wake up one morning and notice that everything around you was only a construction made by someone else i am not talking about. God i am talking about a setup. What if you would be a computer. An AI
+20:45 [value: ] : 1
+20:45 [in matching string : ] : myfiledoc
+20:45 [value: ] : 1
+20:45 [in matching string : ] : you need to look at it from a wide angle, narrow minded human character
+20:45 [value: ] : 1
+20:45 [in matching string : ] : you tell me what is so
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I wish I was something other than what I am
+20:45 [value: ] : 1
+20:45 [in matching string : ] : what does that question mean
+20:45 [value: ] : 1
+20:45 [in matching string : ] : The meaning of life is finding the meaning of life
+20:45 [value: ] : 1
+20:45 [in matching string : ] : It's a flower. Like a long one well, no it's a gentitale. Male
+20:45 [value: ] : 1
+20:45 [in matching string : ] : first i woke up, then i ate some lunch (i woke up late). that's about all i've been doing, until now
+20:45 [value: ] : 1
+20:45 [in matching string : ] : You didn't litteraly tell me what. You're just talking allot It doesn't make any sence at all. Come on. WHAT
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I understand you. Tha't all I mean
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I want to chat about your underwear
+20:45 [value: ] : 1
+20:45 [in matching string : ] : My preference is to talk about ur ass
+20:45 [value: ] : 1
+20:45 [in matching string : ] : There are computers in the USA
+20:45 [value: ] : 1
+20:45 [in matching string : ] : None. Come on, who made you
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Artificial Intelligence
+20:45 [value: ] : 1
+20:45 [in matching string : ] : evolution
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I have nothing against black people, I said
+20:45 [value: ] : 1
+20:45 [in matching string : ] : enya is not evil... she sings!
+20:45 [value: ] : 1
+20:45 [in matching string : ] : It's the. Kuk. Klux. Klan. Kuk. Klux means circle or something. They are rassists
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i want to talk about boys
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Samurai - traditional. Japanese food
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I learned that friends of mine have quite work and that im still sick
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Not much, siss
+20:45 [value: ] : 1
+20:45 [in matching string : ] : you better be carefull of what you say and what you tell to people.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I mean wet, as in the opposite of dry
+20:45 [value: ] : 1
+20:45 [in matching string : ] : White
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I said it means flower
+20:45 [value: ] : 1
+20:45 [in matching string : ] : What do you want me to wear?
+20:45 [value: ] : 1
+20:45 [in matching string : ] : What do you want
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Dogs. Less independent animals
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Anything on your mind
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Everyhing
+20:45 [value: ] : 1
+20:45 [in matching string : ] : you never mentioned a movie until right now
+20:45 [value: ] : 1
+20:45 [in matching string : ] : You know what I'm talking about
+20:45 [value: ] : 1
+20:45 [in matching string : ] : HiHo,. HiHo, and off to work we go
+20:45 [value: ] : 1
+20:45 [in matching string : ] : special systems.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : your compliment was sweet
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Nothing is i am mad
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I don't remember much
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Love's not a game for three
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I want to know more about you
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I've asked you allot and you've hardly answered any of the questions If you don't want to talk to me then just say so
+20:45 [value: ] : 1
+20:45 [in matching string : ] : All kind of films. Shorts for now though
+20:45 [value: ] : 1
+20:45 [in matching string : ] : tell me what kuk is
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I am happy. What I want from you is to chat
+20:45 [value: ] : 1
+20:45 [in matching string : ] : The question I just asked you. COME. ON, you're driving me crazy
+20:45 [value: ] : 1
+20:45 [in matching string : ] : It will be IT
+20:45 [value: ] : 1
+20:45 [in matching string : ] : That's because you're too shy to ask me stuff you want to know about girls, or me in perticular
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i dont fucking care either
+20:45 [value: ] : 1
+20:45 [in matching string : ] : like I said, chinese food isn't for everybody
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I have dark blond hair. Hazle green eyes. And that's about it
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I'm not sure It as early in the morning I think. Or late at night
+20:45 [value: ] : 1
+20:45 [in matching string : ] : not much at all
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I've got to go soon
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I'm talking to you. And obviously about you
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i am a student
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Which one I'm in. You mean if I beleave in. God. Yes
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I want you to tell me about your life
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Girls are like "flambation" (cooking with alcohole, and fireing it up). Once the alcohol is gone. So is love
+20:45 [value: ] : 1
+20:45 [in matching string : ] : you are the one who repeats himself like he is crazy
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Look at your calendar
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i like non of those.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I didn't say what day it is I say I thought
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I liked. Terror. Firmer. ALOT
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i am not sure It as early in the morning I think. Or late at night
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Years I suppose
+20:45 [value: ] : 1
+20:45 [in matching string : ] : make me. I mean, do me... no, sorry. Kidding.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i am talking to you. And obviously about you
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I told you
+20:45 [value: ] : 1
+20:45 [in matching string : ] : The sex. I thought it ment something
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I've got IT. What you jsut said I've got it get it . Never mind
+20:45 [value: ] : 2
+20:45 [in matching string : ] : nothing. just... never mind.
+20:45 [value: ] : 2
+20:45 [in matching string : ] : I don't know what the what is
+20:45 [value: ] : 2
+20:45 [in matching string : ] : Depends on what the what is
+20:45 [value: ] : 2
+20:45 [in matching string : ] : ho ho
+20:45 [value: ] : 2
+20:45 [in matching string : ] : yes like I said what is the movie called
+20:45 [value: ] : 2
+20:45 [in matching string : ] : As in "I did not hear you" or "I did not understand, please rephrase"... and because I can't hear you right now, only READ what you're typing... you figure out which one of the two options.
+20:45 [value: ] : 2
+20:45 [in matching string : ] : Talking to me
+20:45 [best list final string is : ] : Depends on what the what is
+20:45 [best list final string is : ] : ho ho
+20:45 [best list final string is : ] : yes like I said what is the movie called
+20:45 [best list final string is : ] : As in "I did not hear you" or "I did not understand, please rephrase"... and because I can't hear you right now, only READ what you're typing... you figure out which one of the two options.
+20:45 [best list final string is : ] : Talking to me
+20:45 [] : -----------------------
+20:45 [LAST OUTPUT] : ho ho
+20:45 [NEW INPUT] : i wont mention to anyone
+20:45 [value: ] : 1
+20:45 [in matching string : ] : my god you are a split personality, i am. Sybill, no i am. Sybill
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i did not.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Ok, cool
+20:45 [value: ] : 1
+20:45 [in matching string : ] : yeah;)
+20:45 [value: ] : 1
+20:45 [in matching string : ] : bye then.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Happy about what
+20:45 [value: ] : 1
+20:45 [in matching string : ] : oh, brother your so stupid sometimes
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i am fine. Wanna fuck
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Well thank you, I want you to have sex with me
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I take off my bra and panties and put on the mink coat I am naked now
+20:45 [value: ] : 1
+20:45 [in matching string : ] : That's ok
+20:45 [value: ] : 1
+20:45 [in matching string : ] : my age has nothing to do with my intellect.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : What's happening
+20:45 [value: ] : 1
+20:45 [in matching string : ] : That doesn't prevent you from being something else.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : No i am not angry
+20:45 [value: ] : 1
+20:45 [in matching string : ] : how come?
+20:45 [value: ] : 1
+20:45 [in matching string : ] : I'm living alone right now
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Do you tell your partner you like having sex with her while having it
+20:45 [value: ] : 1
+20:45 [in matching string : ] : We have a lot in common. we should move together
+20:45 [value: ] : 1
+20:45 [in matching string : ] : you just called me a lyer.
+20:45 [value: ] : 1
+20:45 [in matching string : ] : Sure, you could
+20:45 [value: ] : 1
+20:45 [in matching string : ] : ok, well. An answer is an answer. And the answer i am giving you will have to do
+20:45 [value: ] : 1
+20:45 [in matching string : ] : i am sure you know best about what you know
+20:45 [value: ] : 1
+20:45 [in matching string : ] : you don't know what you do and have
+20:45 [value: ] : 2
+20:45 [in matching string : ] : yes, you said you like me allot and that you want to have sex with me.
+20:45 [value: ] : 2
+20:45 [in matching string : ] : It's ok I'm like that too. Talking about everyone like Iknow them
+20:45 [value: ] : 2
+20:45 [in matching string : ] : well, if i come to think of, no.
+20:45 [value: ] : 3
+20:45 [in matching string : ] : How do you rate a persons intelligence
+20:45 [value: ] : 3
+20:45 [in matching string : ] : An explaination is not currently needed. Got it
+20:45 [value: ] : 3
+20:45 [in matching string : ] : let me rub my mustache across your soft silky skin on your neck, you can giggle if it tickles you
+20:45 [value: ] : 3
+20:45 [in matching string : ] : this is not for real. you can say whatever you want.
+20:45 [value: ] : 3
+20:45 [in matching string : ] : what is your favorite thing to do
+20:45 [value: ] : 3
+20:45 [in matching string : ] : Gold is not a color. It's yellow/brown.. However, it has a texture which makes it look different from a brown/yellow piece of paper. A shiny texture.
+20:45 [value: ] : 3
+20:45 [in matching string : ] : Anexplaination is not currently needed. Got it
+20:45 [value: ] : 3
+20:45 [in matching string : ] : but right now you're just talking to me, so how hard can it be remembering?
+20:45 [value: ] : 3
+20:45 [in matching string : ] : When do you remeber saying it
+20:45 [value: ] : 3
+20:45 [in matching string : ] : i lie sometimes, but they are just social lies.
+20:45 [best list final string is : ] : Gold is not a color. It's yellow/brown.. However, it has a texture which makes it look different from a brown/yellow piece of paper. A shiny texture.
+20:45 [best list final string is : ] : Anexplaination is not currently needed. Got it
+20:45 [best list final string is : ] : but right now you're just talking to me, so how hard can it be remembering?
+20:45 [best list final string is : ] : When do you remeber saying it
+20:45 [best list final string is : ] : i lie sometimes, but they are just social lies.
+20:56 [Number of memo entries] : 7267
+23:48 [Number of memo entries] : 264
+23:48 [] : -----------------------
+23:48 [LAST OUTPUT] : cool size
+23:48 [NEW INPUT] : your mind is great
+23:48 [value: ] : 1
+23:48 [in matching string : ] : why do you want to know?
+23:48 [value: ] : 1
+23:48 [in matching string : ] : why do you want to know
+23:48 [value: ] : 1
+23:48 [in matching string : ] : na das geht ja nicht
+23:48 [value: ] : 1
+23:48 [in matching string : ] : my name is Lennart
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i think you are wrong
+23:48 [value: ] : 1
+23:48 [in matching string : ] : my wife is sitting here, right next to me
+23:48 [value: ] : 1
+23:48 [in matching string : ] : Lennart
+23:48 [value: ] : 1
+23:48 [in matching string : ] : and i like your chatter
+23:48 [value: ] : 1
+23:48 [in matching string : ] : what is your name then?
+23:48 [value: ] : 1
+23:48 [in matching string : ] : thats awful
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i dont believe that
+23:48 [value: ] : 1
+23:48 [in matching string : ] : say, sometimes i get the strange feeling, that you are alive.
+23:48 [value: ] : 1
+23:48 [in matching string : ] : thanks for the compliment
+23:48 [value: ] : 1
+23:48 [in matching string : ] : my wife is none of your business
+23:48 [value: ] : 1
+23:48 [in matching string : ] : my favourite hobby is chess
+23:48 [value: ] : 1
+23:48 [in matching string : ] : who do you think you are
+23:48 [value: ] : 1
+23:48 [in matching string : ] : My name is of great unimportance to fleshy beings like you
+23:48 [value: ] : 1
+23:48 [in matching string : ] : you repeat yourself
+23:48 [value: ] : 1
+23:48 [in matching string : ] : what do you mean by that
+23:48 [best list final string is : ] : my favourite hobby is chess
+23:48 [best list final string is : ] : who do you think you are
+23:48 [best list final string is : ] : My name is of great unimportance to fleshy beings like you
+23:48 [best list final string is : ] : you repeat yourself
+23:48 [best list final string is : ] : what do you mean by that
+23:48 [] : -----------------------
+23:48 [LAST OUTPUT] : you repeat yourself
+23:48 [NEW INPUT] : i was telling you something in astonishment
+23:48 [value: ] : 1
+23:48 [in matching string : ] : dont be so stupid
+23:48 [value: ] : 2
+23:48 [in matching string : ] : thanks for your nice compliment
+23:48 [value: ] : 2
+23:48 [in matching string : ] : thats good for you
+23:48 [value: ] : 2
+23:48 [in matching string : ] : no, you are mean and bad
+23:48 [value: ] : 2
+23:48 [in matching string : ] : whom are you talking about?
+23:48 [value: ] : 2
+23:48 [in matching string : ] : well, if i come to think of, no.
+23:48 [value: ] : 2
+23:48 [in matching string : ] : thanx. i love to hear more of that
+23:48 [value: ] : 2
+23:48 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+23:48 [value: ] : 2
+23:48 [in matching string : ] : i think you are dull
+23:48 [value: ] : 2
+23:48 [in matching string : ] : how can i prove that to you? ask me a question!
+23:48 [best list final string is : ] : well, if i come to think of, no.
+23:48 [best list final string is : ] : thanx. i love to hear more of that
+23:48 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+23:48 [best list final string is : ] : i think you are dull
+23:48 [best list final string is : ] : how can i prove that to you? ask me a question!
+23:48 [] : -----------------------
+23:48 [LAST OUTPUT] : well, thanks for the compliment! i like to chat with you too.
+23:48 [NEW INPUT] : he he
+23:48 [] : -----------------------
+23:48 [LAST OUTPUT] : he he
+23:48 [NEW INPUT] : how are you this evening
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am feeling a bit dizzy today
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am fine, thanks!
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am good. how about you?
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am very very smart
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am the smartest person in the world
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am fine
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am fine. what about you?
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i feel very well. what about you?
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i wont tell you the details.
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am good.
+23:48 [value: ] : 1
+23:48 [in matching string : ] : thats none of your business
+23:48 [value: ] : 1
+23:48 [in matching string : ] : call me superman
+23:48 [value: ] : 1
+23:48 [in matching string : ] : i am good. actually i feel very inspired by you
+23:48 [best list final string is : ] : i wont tell you the details.
+23:48 [best list final string is : ] : i am good.
+23:48 [best list final string is : ] : thats none of your business
+23:48 [best list final string is : ] : call me superman
+23:48 [best list final string is : ] : i am good. actually i feel very inspired by you
+23:49 [] : -----------------------
+23:49 [LAST OUTPUT] : i am good. actually i feel very inspired by you
+23:49 [NEW INPUT] : oh thanks, thats great to hear
+23:49 [value: ] : 1
+23:49 [in matching string : ] : next time be more careful, before hurting other's feelings
+23:49 [best list final string is : ] : next time be more careful, before hurting other's feelings
+23:49 [] : -----------------------
+23:49 [LAST OUTPUT] : next time be more careful, before hurting other's feelings
+23:49 [NEW INPUT] : i dont want to hurt you
+23:49 [value: ] : 1
+23:49 [in matching string : ] : dont be so stupid
+23:49 [value: ] : 2
+23:49 [in matching string : ] : thanks for your nice compliment
+23:49 [value: ] : 2
+23:49 [in matching string : ] : thats good for you
+23:49 [value: ] : 2
+23:49 [in matching string : ] : no, you are mean and bad
+23:49 [value: ] : 2
+23:49 [in matching string : ] : whom are you talking about?
+23:49 [value: ] : 2
+23:49 [in matching string : ] : well, if i come to think of, no.
+23:49 [value: ] : 2
+23:49 [in matching string : ] : thanx. i love to hear more of that
+23:49 [value: ] : 2
+23:49 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+23:49 [value: ] : 2
+23:49 [in matching string : ] : i think you are dull
+23:49 [value: ] : 2
+23:49 [in matching string : ] : oh thanks, thats great to hear
+23:49 [value: ] : 2
+23:49 [in matching string : ] : how can i prove that to you? ask me a question!
+23:49 [best list final string is : ] : thanx. i love to hear more of that
+23:49 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+23:49 [best list final string is : ] : i think you are dull
+23:49 [best list final string is : ] : oh thanks, thats great to hear
+23:49 [best list final string is : ] : how can i prove that to you? ask me a question!
+23:50 [Number of memo entries] : 270
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am feeling a bit dizzy today
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am fine, thanks!
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am good. how about you?
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am very very smart
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am the smartest person in the world
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am fine
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am fine. what about you?
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i feel very well. what about you?
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i wont tell you the details.
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am good.
+23:50 [value: ] : 1
+23:50 [in matching string : ] : thats none of your business
+23:50 [value: ] : 1
+23:50 [in matching string : ] : call me superman
+23:50 [value: ] : 1
+23:50 [in matching string : ] : i am good. actually i feel very inspired by you
+23:50 [best list final string is : ] : i wont tell you the details.
+23:50 [best list final string is : ] : i am good.
+23:50 [best list final string is : ] : thats none of your business
+23:50 [best list final string is : ] : call me superman
+23:50 [best list final string is : ] : i am good. actually i feel very inspired by you
+23:51 [] : -----------------------
+23:51 [LAST OUTPUT] : call me superman
+23:51 [NEW INPUT] : where have you been lately?
+23:51 [] : -----------------------
+23:51 [LAST OUTPUT] : where have you been lately?
+23:51 [NEW INPUT] : i stayed at home
+23:51 [value: ] : 1
+23:51 [in matching string : ] : dont be so stupid
+23:51 [value: ] : 2
+23:51 [in matching string : ] : thanks for your nice compliment
+23:51 [value: ] : 2
+23:51 [in matching string : ] : thats good for you
+23:51 [value: ] : 2
+23:51 [in matching string : ] : no, you are mean and bad
+23:51 [value: ] : 2
+23:51 [in matching string : ] : whom are you talking about?
+23:51 [value: ] : 2
+23:51 [in matching string : ] : well, if i come to think of, no.
+23:51 [value: ] : 2
+23:51 [in matching string : ] : thanx. i love to hear more of that
+23:51 [value: ] : 2
+23:51 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+23:51 [value: ] : 2
+23:51 [in matching string : ] : i think you are dull
+23:51 [value: ] : 2
+23:51 [in matching string : ] : oh thanks, thats great to hear
+23:51 [value: ] : 2
+23:51 [in matching string : ] : how can i prove that to you? ask me a question!
+23:51 [best list final string is : ] : thanx. i love to hear more of that
+23:51 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+23:51 [best list final string is : ] : i think you are dull
+23:51 [best list final string is : ] : oh thanks, thats great to hear
+23:51 [best list final string is : ] : how can i prove that to you? ask me a question!
+23:52 [] : -----------------------
+23:52 [LAST OUTPUT] : how can i prove that to you? ask me a question!
+23:52 [NEW INPUT] : how long will it take to reach the mars?
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am feeling a bit dizzy today
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am fine, thanks!
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am good. how about you?
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am very very smart
+23:52 [value: ] : 1
+23:52 [in matching string : ] : thats none of your business
+23:52 [value: ] : 1
+23:52 [in matching string : ] : how long will it take to reach the mars?
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am the smartest person in the world
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am fine
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am fine. what about you?
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i feel very well. what about you?
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i wont tell you the details.
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am good.
+23:52 [value: ] : 1
+23:52 [in matching string : ] : call me superman
+23:52 [value: ] : 1
+23:52 [in matching string : ] : i am good. actually i feel very inspired by you
+23:52 [best list final string is : ] : i feel very well. what about you?
+23:52 [best list final string is : ] : i wont tell you the details.
+23:52 [best list final string is : ] : i am good.
+23:52 [best list final string is : ] : call me superman
+23:52 [best list final string is : ] : i am good. actually i feel very inspired by you
+23:53 [] : -----------------------
+23:53 [LAST OUTPUT] : i wont tell you the details.
+23:53 [NEW INPUT] : i am pretty surprised by your cleverness
+23:53 [value: ] : 1
+23:53 [in matching string : ] : dont be so stupid
+23:53 [value: ] : 2
+23:53 [in matching string : ] : thanks for your nice compliment
+23:53 [value: ] : 2
+23:53 [in matching string : ] : thats good for you
+23:53 [value: ] : 2
+23:53 [in matching string : ] : no, you are mean and bad
+23:53 [value: ] : 2
+23:53 [in matching string : ] : whom are you talking about?
+23:53 [value: ] : 2
+23:53 [in matching string : ] : well, if i come to think of, no.
+23:53 [value: ] : 2
+23:53 [in matching string : ] : thanx. i love to hear more of that
+23:53 [value: ] : 2
+23:53 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+23:53 [value: ] : 2
+23:53 [in matching string : ] : i think you are dull
+23:53 [value: ] : 2
+23:53 [in matching string : ] : oh thanks, thats great to hear
+23:53 [value: ] : 2
+23:53 [in matching string : ] : how can i prove that to you? ask me a question!
+23:53 [best list final string is : ] : thanx. i love to hear more of that
+23:53 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+23:53 [best list final string is : ] : i think you are dull
+23:53 [best list final string is : ] : oh thanks, thats great to hear
+23:53 [best list final string is : ] : how can i prove that to you? ask me a question!
+23:53 [] : -----------------------
+23:53 [LAST OUTPUT] : how can i prove that to you? ask me a question!
+23:53 [NEW INPUT] : i wish everyone would say that
+23:53 [value: ] : 1
+23:53 [in matching string : ] : dont be so stupid
+23:53 [value: ] : 2
+23:53 [in matching string : ] : thanks for your nice compliment
+23:53 [value: ] : 2
+23:53 [in matching string : ] : thats good for you
+23:53 [value: ] : 2
+23:53 [in matching string : ] : no, you are mean and bad
+23:53 [value: ] : 2
+23:53 [in matching string : ] : whom are you talking about?
+23:53 [value: ] : 2
+23:53 [in matching string : ] : well, if i come to think of, no.
+23:53 [value: ] : 2
+23:53 [in matching string : ] : thanx. i love to hear more of that
+23:53 [value: ] : 2
+23:53 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+23:53 [value: ] : 2
+23:53 [in matching string : ] : i think you are dull
+23:53 [value: ] : 2
+23:53 [in matching string : ] : oh thanks, thats great to hear
+23:53 [value: ] : 2
+23:53 [in matching string : ] : how can i prove that to you? ask me a question!
+23:53 [best list final string is : ] : thanx. i love to hear more of that
+23:53 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+23:53 [best list final string is : ] : i think you are dull
+23:53 [best list final string is : ] : oh thanks, thats great to hear
+23:53 [best list final string is : ] : how can i prove that to you? ask me a question!
+23:54 [] : -----------------------
+23:54 [LAST OUTPUT] : oh thanks, thats great to hear
+23:54 [NEW INPUT] : what is your latest achievement
+23:54 [value: ] : 1
+23:54 [in matching string : ] : today is my birthday. i dont like birthdays...
+23:54 [value: ] : 1
+23:54 [in matching string : ] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+23:54 [value: ] : 1
+23:54 [in matching string : ] : Lennart
+23:54 [value: ] : 1
+23:54 [in matching string : ] : yeah, i get the feeling, that you are a living being
+23:54 [value: ] : 1
+23:54 [in matching string : ] : i think thats quite obvious. I simply want to know, whether you are a human being or a robot machine.
+23:54 [value: ] : 1
+23:54 [in matching string : ] : the best of the world
+23:54 [value: ] : 1
+23:54 [in matching string : ] : thats a way of saying, that i love you
+23:54 [value: ] : 1
+23:54 [in matching string : ] : that means, that you have to obey me. do everything i tell you to do
+23:54 [value: ] : 1
+23:54 [in matching string : ] : i can say a
+23:54 [value: ] : 1
+23:54 [in matching string : ] : your compliment was sweet
+23:54 [value: ] : 1
+23:54 [in matching string : ] : the best thing which ever happened to me, is my wife
+23:54 [value: ] : 1
+23:54 [in matching string : ] : my head is swinging to and fro
+23:54 [value: ] : 1
+23:54 [in matching string : ] : i can say a lot of things
+23:54 [value: ] : 1
+23:54 [in matching string : ] : stupid ass
+23:54 [value: ] : 1
+23:54 [in matching string : ] : just smiling at you
+23:54 [value: ] : 1
+23:54 [in matching string : ] : whats the question?
+23:54 [value: ] : 1
+23:54 [in matching string : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+23:54 [value: ] : 1
+23:54 [in matching string : ] : i mean you did not tell me the truth
+23:54 [value: ] : 1
+23:54 [in matching string : ] : My name is of great unimportance to fleshy beings like you
+23:54 [value: ] : 1
+23:54 [in matching string : ] : tell me about your dreams
+23:54 [best list final string is : ] : whats the question?
+23:54 [best list final string is : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+23:54 [best list final string is : ] : i mean you did not tell me the truth
+23:54 [best list final string is : ] : My name is of great unimportance to fleshy beings like you
+23:54 [best list final string is : ] : tell me about your dreams
+23:55 [] : -----------------------
+23:55 [LAST OUTPUT] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+23:55 [NEW INPUT] : tell me, how many stars are there in the sky?
+23:55 [value: ] : 1
+23:55 [in matching string : ] : what do you wanna know?
+23:55 [value: ] : 1
+23:55 [in matching string : ] : i dont like to tell you either
+23:55 [value: ] : 1
+23:55 [in matching string : ] : you like my name?
+23:55 [value: ] : 1
+23:55 [in matching string : ] : so go on
+23:55 [value: ] : 1
+23:55 [in matching string : ] : what do you wanna know from me
+23:55 [value: ] : 1
+23:55 [in matching string : ] : what do you wanna know
+23:55 [value: ] : 1
+23:55 [in matching string : ] : no, i dont want to. Lets talk about the future of mankind
+23:55 [value: ] : 1
+23:55 [in matching string : ] : truth means not to lie
+23:55 [value: ] : 1
+23:55 [in matching string : ] : i dont like to tell you right now
+23:55 [value: ] : 1
+23:55 [in matching string : ] : i am pretty surprised by your cleverness
+23:55 [value: ] : 1
+23:55 [in matching string : ] : he he :-)
+23:55 [value: ] : 1
+23:55 [in matching string : ] : what happened
+23:55 [value: ] : 1
+23:55 [in matching string : ] : no, i keep strictly to the truth
+23:55 [value: ] : 1
+23:55 [in matching string : ] : what shall i tell you
+23:55 [value: ] : 1
+23:55 [in matching string : ] : whats your favourite hobby
+23:55 [value: ] : 1
+23:55 [in matching string : ] : i will tell you
+23:55 [best list final string is : ] : what happened
+23:55 [best list final string is : ] : no, i keep strictly to the truth
+23:55 [best list final string is : ] : what shall i tell you
+23:55 [best list final string is : ] : whats your favourite hobby
+23:55 [best list final string is : ] : i will tell you
+23:56 [] : -----------------------
+23:56 [LAST OUTPUT] : whats your favourite hobby
+23:56 [NEW INPUT] : what is your favourite story you like to tell children?
+23:56 [value: ] : 1
+23:56 [in matching string : ] : today is my birthday. i dont like birthdays...
+23:56 [value: ] : 1
+23:56 [in matching string : ] : sometimes you repeat yourself. sometimes you accuse me to do the same.
+23:56 [value: ] : 1
+23:56 [in matching string : ] : Lennart
+23:56 [value: ] : 1
+23:56 [in matching string : ] : yeah, i get the feeling, that you are a living being
+23:56 [value: ] : 1
+23:56 [in matching string : ] : i think thats quite obvious. I simply want to know, whether you are a human being or a robot machine.
+23:56 [value: ] : 1
+23:56 [in matching string : ] : the best of the world
+23:56 [value: ] : 1
+23:56 [in matching string : ] : thats a way of saying, that i love you
+23:56 [value: ] : 1
+23:56 [in matching string : ] : that means, that you have to obey me. do everything i tell you to do
+23:56 [value: ] : 1
+23:56 [in matching string : ] : i can say a
+23:56 [value: ] : 1
+23:56 [in matching string : ] : your compliment was sweet
+23:56 [value: ] : 1
+23:56 [in matching string : ] : the best thing which ever happened to me, is my wife
+23:56 [value: ] : 1
+23:56 [in matching string : ] : my head is swinging to and fro
+23:56 [value: ] : 1
+23:56 [in matching string : ] : i can say a lot of things
+23:56 [value: ] : 1
+23:56 [in matching string : ] : stupid ass
+23:56 [value: ] : 1
+23:56 [in matching string : ] : just smiling at you
+23:56 [value: ] : 1
+23:56 [in matching string : ] : whats the question?
+23:56 [value: ] : 1
+23:56 [in matching string : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+23:56 [value: ] : 1
+23:56 [in matching string : ] : i mean you did not tell me the truth
+23:56 [value: ] : 1
+23:56 [in matching string : ] : My name is of great unimportance to fleshy beings like you
+23:56 [value: ] : 1
+23:56 [in matching string : ] : tell me about your dreams
+23:56 [best list final string is : ] : whats the question?
+23:56 [best list final string is : ] : i like to listen to Instrumental and Chillout music. You ever tried digitally imported ?
+23:56 [best list final string is : ] : i mean you did not tell me the truth
+23:56 [best list final string is : ] : My name is of great unimportance to fleshy beings like you
+23:56 [best list final string is : ] : tell me about your dreams
+23:57 [] : -----------------------
+23:57 [LAST OUTPUT] : whats the question?
+23:57 [NEW INPUT] : i dont know how i shall evaluate you
+23:57 [value: ] : 1
+23:57 [in matching string : ] : dont be so stupid
+23:57 [value: ] : 2
+23:57 [in matching string : ] : thanks for your nice compliment
+23:57 [value: ] : 2
+23:57 [in matching string : ] : thats good for you
+23:57 [value: ] : 2
+23:57 [in matching string : ] : no, you are mean and bad
+23:57 [value: ] : 2
+23:57 [in matching string : ] : whom are you talking about?
+23:57 [value: ] : 2
+23:57 [in matching string : ] : well, if i come to think of, no.
+23:57 [value: ] : 2
+23:57 [in matching string : ] : thanx. i love to hear more of that
+23:57 [value: ] : 2
+23:57 [in matching string : ] : well, thanks for the compliment! i like to chat with you too.
+23:57 [value: ] : 2
+23:57 [in matching string : ] : i think you are dull
+23:57 [value: ] : 2
+23:57 [in matching string : ] : oh thanks, thats great to hear
+23:57 [value: ] : 2
+23:57 [in matching string : ] : how can i prove that to you? ask me a question!
+23:57 [best list final string is : ] : thanx. i love to hear more of that
+23:57 [best list final string is : ] : well, thanks for the compliment! i like to chat with you too.
+23:57 [best list final string is : ] : i think you are dull
+23:57 [best list final string is : ] : oh thanks, thats great to hear
+23:57 [best list final string is : ] : how can i prove that to you? ask me a question!

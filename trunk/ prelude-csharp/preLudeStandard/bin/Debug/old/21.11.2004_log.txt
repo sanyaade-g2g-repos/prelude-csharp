@@ -1,0 +1,216 @@
+00:04 [Number of memo entries] : 7112
+00:04 [best list final string is : ] : Depends on what the what is
+00:04 [best list final string is : ] : What I ment was. What kind of television do you mean. Films or what
+00:04 [best list final string is : ] : yes like I said what is the movie called
+00:04 [best list final string is : ] : Talking to me
+00:04 [best list final string is : ] : As in [QUOTE]I did not hear you[QUOTE] or [QUOTE]I did not understand, please rephrase[QUOTE]... and because I can't hear you right now, only READ what you're typing... you figure out which one of the two options.
+00:04 [] : -----------------------
+00:04 [LAST OUTPUT] : Talking to me
+00:04 [NEW INPUT] : i think i have network problems
+00:04 [best list final string is : ] : Then you are going to get fat and out of shape
+00:04 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+00:04 [best list final string is : ] : How do you rate a persons intelligence
+00:04 [best list final string is : ] : An explaination is not currently needed. Got it
+00:04 [best list final string is : ] : give me your phone number, and we'll work something out.
+00:05 [] : -----------------------
+00:05 [LAST OUTPUT] : How do you rate a persons intelligence
+00:05 [NEW INPUT] : i simply listen to him
+00:05 [best list final string is : ] : Then you are going to get fat and out of shape
+00:05 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+00:05 [best list final string is : ] : How do you rate a persons intelligence
+00:05 [best list final string is : ] : An explaination is not currently needed. Got it
+00:05 [best list final string is : ] : give me your phone number, and we'll work something out.
+00:09 [Number of memo entries] : 7114
+00:15 [Number of memo entries] : 7114
+00:16 [Number of memo entries] : 7114
+00:19 [Number of memo entries] : 7114
+00:25 [Number of memo entries] : 7114
+00:29 [Number of memo entries] : 7114
+00:29 [Number of memo entries] : 0
+00:32 [Number of memo entries] : 7114
+00:32 [Number of memo entries] : 32
+00:32 [best list final string is : ] : i dont know anything
+00:32 [best list final string is : ] : so go if you have to 
+00:32 [best list final string is : ] : no, that is my name
+00:32 [best list final string is : ] : i am your master and your Lord
+00:32 [best list final string is : ] : how do you do my dear
+00:32 [] : -----------------------
+00:32 [LAST OUTPUT] : i dont know anything
+00:32 [NEW INPUT] : i know, but you get smarter all the time
+00:32 [best list final string is : ] : you are my slave
+00:32 [best list final string is : ] : i like you
+00:32 [best list final string is : ] : so you are without a master.
+00:32 [best list final string is : ] : what do you do today
+00:32 [best list final string is : ] : i am not your bot, bot
+01:18 [Number of memo entries] : 7114
+01:27 [Number of memo entries] : 7114
+01:27 [best list final string is : ] : you are not making sense
+01:27 [best list final string is : ] : huh
+01:27 [best list final string is : ] : I'm not a babe. Are you a babe
+01:27 [best list final string is : ] : i am fine, thank you
+01:27 [best list final string is : ] : you don't want me to ask
+01:27 [] : -----------------------
+01:27 [LAST OUTPUT] : you are not making sense
+01:27 [NEW INPUT] : i am fine
+01:27 [best list final string is : ] : How do you rate a persons intelligence
+01:27 [best list final string is : ] : I'm sure they can I beleave Sweden is the number one county when it comes to giving money to needing countries
+01:27 [best list final string is : ] : When do you remeber saying it
+01:27 [best list final string is : ] : Fucking. Nazi
+01:27 [best list final string is : ] : give me your phone number, and we'll work something out.
+10:22 [Number of memo entries] : 7114
+11:17 [best list final string is : ] : I'm fine
+11:17 [best list final string is : ] : I'm fine, thank you. How are you
+11:17 [best list final string is : ] : I'm doing great. Thanks for asking
+11:17 [best list final string is : ] : i am just fine
+11:17 [best list final string is : ] : I didn't ask you if you knew how god was
+11:17 [] : -----------------------
+11:17 [LAST OUTPUT] : I'm doing great. Thanks for asking
+11:17 [NEW INPUT] : no prob
+11:17 [best list final string is : ] : Ese es tu problema.
+11:17 [best list final string is : ] : No, oh my. No please no
+11:17 [best list final string is : ] : Yo te comprendo.
+11:17 [best list final string is : ] : my last name is swan, like the bird
+11:17 [best list final string is : ] : yes you like having sex whit children
+11:18 [] : -----------------------
+11:18 [LAST OUTPUT] : my last name is swan, like the bird
+11:18 [NEW INPUT] : i like birds. they are so graceful
+11:18 [best list final string is : ] : When do you remeber saying it
+11:18 [best list final string is : ] : Fucking. Nazi
+11:18 [best list final string is : ] : I'm sure they can I beleave Sweden is the number one county when it comes to giving money to needing countries
+11:18 [best list final string is : ] : i lie sometimes, but they are just social lies.
+11:18 [best list final string is : ] : give me your phone number, and we'll work something out.
+12:05 [Number of memo entries] : 7116
+12:08 [Number of memo entries] : 7116
+12:08 [best list final string is : ] : I'm fine
+12:08 [best list final string is : ] : I'm fine, thank you. How are you
+12:08 [best list final string is : ] : I'm doing great. Thanks for asking
+12:08 [best list final string is : ] : i am just fine
+12:08 [best list final string is : ] : I didn't ask you if you knew how god was
+12:20 [Number of memo entries] : 7116
+12:20 [best list final string is : ] : I'm fine, thank you. How are you
+12:20 [best list final string is : ] : I'm doing great. Thanks for asking
+12:20 [best list final string is : ] : i am fine
+12:20 [best list final string is : ] : i am just fine
+12:20 [best list final string is : ] : I didn't ask you if you knew how god was
+12:23 [Number of memo entries] : 7116
+12:23 [best list final string is : ] : I'm fine
+12:23 [best list final string is : ] : I'm fine, thank you. How are you
+12:23 [best list final string is : ] : I'm doing great. Thanks for asking
+12:23 [best list final string is : ] : i am just fine
+12:23 [best list final string is : ] : I didn't ask you if you knew how god was
+12:23 [Number of memo entries] : 7116
+12:23 [best list final string is : ] : Put in a Prison cell, but one time he would have been the champion of the world
+12:23 [best list final string is : ] : Hi. How are you
+12:23 [best list final string is : ] : i am not a babe. Are you a babe
+12:23 [best list final string is : ] : Fuck the US
+12:23 [best list final string is : ] : you don't want me to ask
+12:23 [] : -----------------------
+12:23 [LAST OUTPUT] : Hi. How are you
+12:23 [NEW INPUT] : i feel good
+12:23 [best list final string is : ] : How do you rate a persons intelligence
+12:23 [best list final string is : ] : I'm sure they can I beleave Sweden is the number one county when it comes to giving money to needing countries
+12:23 [best list final string is : ] : When do you remeber saying it
+12:23 [best list final string is : ] : Fucking. Nazi
+12:23 [best list final string is : ] : give me your phone number, and we'll work something out.
+12:24 [Number of memo entries] : 7117
+12:24 [best list final string is : ] : That's none of your bizniz
+12:24 [best list final string is : ] : I'm fine, thank you. How are you
+12:24 [best list final string is : ] : I'm doing great. Thanks for asking
+12:24 [best list final string is : ] : i am just fine
+12:24 [best list final string is : ] : I didn't ask you if you knew how god was
+12:24 [] : -----------------------
+12:24 [LAST OUTPUT] : I didn't ask you if you knew how god was
+12:24 [NEW INPUT] : i dont know who he is
+12:24 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+12:24 [best list final string is : ] : Girls are nicer anyway
+12:24 [best list final string is : ] : How do you rate a persons intelligence
+12:24 [best list final string is : ] : An explaination is not currently needed. Got it
+12:24 [best list final string is : ] : give me your phone number, and we'll work something out.
+12:25 [] : -----------------------
+12:25 [LAST OUTPUT] : How do you rate a persons intelligence
+12:25 [NEW INPUT] : i simply look into his eyes
+12:25 [best list final string is : ] : I guess, my favorite breed of dog is the Black Labradore. Some so-called  [QUOTE]Dog Experts[QUOTE] say that the black labradore is the most stupid of all the dog breeds, but that is because they have never worked with the breed before.
+12:25 [best list final string is : ] : Girls are nicer anyway
+12:25 [best list final string is : ] : How do you rate a persons intelligence
+12:25 [best list final string is : ] : An explaination is not currently needed. Got it
+12:25 [best list final string is : ] : give me your phone number, and we'll work something out.
+12:29 [Number of memo entries] : 7119
+12:31 [Number of memo entries] : 7119
+12:34 [Number of memo entries] : 7119
+12:35 [Number of memo entries] : 7119
+12:36 [Number of memo entries] : 7119
+12:37 [Number of memo entries] : 7119
+15:14 [Number of memo entries] : 7119
+15:52 [Number of memo entries] : 7119
+15:55 [Number of memo entries] : 7119
+15:57 [Number of memo entries] : 7119
+15:57 [Number of memo entries] : 7119
+16:08 [Number of memo entries] : 7119
+16:09 [Number of memo entries] : 33
+16:11 [Number of memo entries] : 33
+16:12 [Number of memo entries] : 33
+16:13 [Number of memo entries] : 33
+16:17 [Number of memo entries] : 33
+16:31 [Number of memo entries] : 33
+16:33 [Number of memo entries] : 33
+16:34 [Number of memo entries] : 33
+16:35 [Number of memo entries] : 33
+16:35 [Number of memo entries] : 33
+16:36 [Number of memo entries] : 33
+16:49 [Number of memo entries] : 33
+16:52 [Number of memo entries] : 33
+17:17 [Number of memo entries] : 33
+17:18 [best list final string is : ] : i dont know anything
+17:18 [best list final string is : ] : so go if you have to 
+17:18 [best list final string is : ] : i am very fine
+17:18 [best list final string is : ] : no, that is my name
+17:18 [best list final string is : ] : i am doing fine. what about you
+17:24 [Number of memo entries] : 33
+17:24 [best list final string is : ] : how are you today
+17:24 [best list final string is : ] : what do you do today
+17:24 [best list final string is : ] : how do you do
+17:24 [best list final string is : ] : you are nothing
+17:24 [best list final string is : ] : i am not your bot, bot
+17:26 [Number of memo entries] : 33
+17:27 [best list final string is : ] : doing good
+17:27 [best list final string is : ] : i am very good
+17:27 [best list final string is : ] : hi my little sweet bot
+17:27 [best list final string is : ] : i am fine
+17:27 [best list final string is : ] : i am doing fine. what about you
+17:28 [Number of memo entries] : 33
+17:30 [Number of memo entries] : 33
+17:31 [Number of memo entries] : 33
+17:37 [Number of memo entries] : 7119
+17:42 [Number of memo entries] : 7119
+18:09 [Number of memo entries] : 7119
+18:09 [best list final string is : ] : Put in a Prison cell, but one time he would have been the champion of the world
+18:09 [best list final string is : ] : Hi. How are you
+18:09 [best list final string is : ] : i am not a babe. Are you a babe
+18:09 [best list final string is : ] : Fuck the US
+18:09 [best list final string is : ] : you don't want me to ask
+18:09 [] : -----------------------
+18:09 [LAST OUTPUT] : Hi. How are you
+18:09 [NEW INPUT] : fine! how do you do?
+18:09 [best list final string is : ] : ok. Same to you
+18:09 [best list final string is : ] : Thats good
+18:09 [best list final string is : ] : the wide network of knowlege and porn. mostly porn.
+18:09 [best list final string is : ] : ur mom is fine
+18:09 [best list final string is : ] : Your mom is fine
+18:25 [Number of memo entries] : 7120
+18:30 [Number of memo entries] : 7120
+18:33 [Number of memo entries] : 7120
+18:37 [Number of memo entries] : 7120
+20:10 [Number of memo entries] : 7120
+20:11 [Number of memo entries] : 7120
+20:15 [Number of memo entries] : 7120
+20:16 [Number of memo entries] : 7120
+20:24 [Number of memo entries] : 7120
+20:25 [Number of memo entries] : 7120
+20:28 [Number of memo entries] : 7120
+20:30 [Number of memo entries] : 7120
+20:32 [Number of memo entries] : 7120
+20:58 [Number of memo entries] : 7120
+21:05 [Number of memo entries] : 7120
+21:14 [Number of memo entries] : 7120
+21:15 [Number of memo entries] : 7120
+21:38 [Number of memo entries] : 82

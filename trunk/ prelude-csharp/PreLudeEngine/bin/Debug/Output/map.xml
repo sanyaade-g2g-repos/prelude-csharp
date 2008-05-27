@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+	<Aspose.Obfuscator.Map version="1.0">
+			 <!--
+ Map file for Aspose.Obfuscator.
+ Copyright 2002 Aspose Pty Ltd. All rights reserved.
+ -->
+		<Time>
+			<Start>22:03:46</Start>
+			<End>22:04:00</End>
+		</Time>
+
+			<File>
+				<Name>C:\Documents and Settings\novalis78\My Documents\SharpDevelop Projects\PreLudeEngine\bin\Debug\PreLudeEngine.dll</Name>
+				<NewName>C:\Documents and Settings\novalis78\My Documents\SharpDevelop Projects\PreLudeEngine\bin\Debug\Output\PreLudeEngine.dll</NewName>
+			</File>
+	</Aspose.Obfuscator.Map>

@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+	<Aspose.Obfuscator.Config version="1.0">
+<!--
+ Config file for Aspose.Obfuscator.
+ Copyright 2002 Aspose Pty Ltd. All rights reserved.
+ -->
+		<OutPutDir>
+			<Dir>C:\Documents and Settings\novalis78\My Documents\SharpDevelop Projects\PreLudeEngine\bin\Debug\Output</Dir>
+		</OutPutDir>
+		<MapXml>
+			<MapPath>C:\Documents and Settings\novalis78\My Documents\SharpDevelop Projects\PreLudeEngine\bin\Debug\Output\map.xml</MapPath>
+		</MapXml>
+		<FileList>
+			<FilePath>
+				<Old>C:\Documents and Settings\novalis78\My Documents\SharpDevelop Projects\PreLudeEngine\bin\Debug\PreLudeEngine.dll</Old>
+				<New>C:\Documents and Settings\novalis78\My Documents\SharpDevelop Projects\PreLudeEngine\bin\Debug\Output\PreLudeEngine.dll</New>
+			</FilePath>
+		</FileList>
+		<NameList>
+			<FileName name="C:\Documents and Settings\novalis78\My Documents\SharpDevelop Projects\PreLudeEngine\bin\Debug\PreLudeEngine.dll">
+				<Namespace name="PreLudeEngine Reserved">
+					<Type name="PreLudeInterface Reserved">
+<Class/>						<Method name="setProactiveMode Reserved">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="setPreludeClient Reserved">
+							<Parameter>server</Parameter>
+							<Parameter>port</Parameter>
+						</Method>
+						<Method name="getVersionInfo Reserved">
+						</Method>
+						<Method name="countMindMemory Reserved">
+						</Method>
+						<Method name="forcedSaveMindFile Reserved">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="forcedSaveMindFile Reserved">
+						</Method>
+						<Method name="forcedContribution Reserved">
+						</Method>
+						<Method name="stopPreludeEngine Reserved">
+						</Method>
+						<Method name="speak">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="autoAnswering Reserved">
+							<Parameter>sender</Parameter>
+							<Parameter>e</Parameter>
+						</Method>
+						<Method name="chatWithPrelude Reserved">
+							<Parameter>input</Parameter>
+						</Method>
+						<Method name="initializeEngine Reserved">
+						</Method>
+						<Field>mindInstance</Field>
+						<Field>loadedMind Reserved</Field>
+						<Field>isContributable Reserved</Field>
+						<Field>isSpeaking Reserved</Field>
+						<Field>proactiveMode Reserved</Field>
+						<Field>idleTime</Field>
+						<Field>autoSpeakInput</Field>
+						<Field>timer</Field>
+						<Field>reportBoredom Reserved</Field>
+					</Type>
+					<Type name="PreLudeInterface+AutoSpeakHandler Reserved">
+<Class/>						<Method name="EndInvoke Reserved">
+							<Parameter>result</Parameter>
+						</Method>
+						<Method name="BeginInvoke Reserved">
+							<Parameter>boredString</Parameter>
+							<Parameter>callback</Parameter>
+							<Parameter>object</Parameter>
+						</Method>
+						<Method name="Invoke Reserved">
+							<Parameter>boredString</Parameter>
+						</Method>
+					</Type>
+				</Namespace>
+				<Namespace name="DefaultNamespace Reserved">
+					<Type name="PreLudeClient Reserved">
+<Class/>						<Method name="connectToPreludeServer Reserved">
+							<Parameter>botsMemory</Parameter>
+						</Method>
+						<Field>tcpc</Field>
+						<Field>name</Field>
+						<Field>hostname</Field>
+						<Field>outputString:Static Reserved</Field>
+						<Field>botsMemory:Static</Field>
+						<Field>port:Static Reserved</Field>
+						<Field>server:Static Reserved</Field>
+					</Type>
+				</Namespace>
+				<Namespace name="preLude Reserved">
+					<Type name="StringBase Reserved">
+<Class/>						<Method name="calculateMatchRate Reserved">
+							<Parameter>input</Parameter>
+							<Parameter>memory</Parameter>
+						</Method>
+						<Method name="tokenizeString Reserved">
+							<Parameter>a</Parameter>
+						</Method>
+					</Type>
+					<Type name="Brain Reserved">
+<Class/>						<Method name="writeToLogFile Reserved">
+							<Parameter>header</Parameter>
+							<Parameter>message</Parameter>
+						</Method>
+						<Method name="writeBrainFile Reserved">
+							<Parameter>memoryBuffer</Parameter>
+							<Parameter>saveAs</Parameter>
+						</Method>
+						<Method name="writeBrainFile Reserved">
+							<Parameter>memoryBuffer</Parameter>
+						</Method>
+						<Method name="readBrainFile Reserved">
+							<Parameter>openFrom</Parameter>
+						</Method>
+						<Method name="readBrainFile Reserved">
+						</Method>
+						<Field>filePath:Static</Field>
+						<Field>currDir:Static</Field>
+						<Field>fullPathName:Static Reserved</Field>
+					</Type>
+					<Type name="Mind Reserved">
+<Class/>						<Method name="contributeClientMind Reserved">
+						</Method>
+						<Method name="checkInputForHiddenCommands">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="killStickingPhrasesFromMemory">
+						</Method>
+						<Method name="purifyBotsMind">
+						</Method>
+						<Method name="randomSelectAnswer">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="findBestMatchWithinMemory">
+						</Method>
+						<Method name="matchInputWithMemory">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="thinkItOver">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="listenToInput Reserved">
+							<Parameter>receivedInput</Parameter>
+						</Method>
+						<Method name="joinWordsAndThoughts">
+						</Method>
+						<Method name="prepareCurrentMemoryForDisc Reserved">
+							<Parameter>saveAs</Parameter>
+						</Method>
+						<Method name="prepareCurrentMemoryForDisc Reserved">
+						</Method>
+						<Method name="addNewInputToCurrentMemory">
+							<Parameter>input</Parameter>
+						</Method>
+						<Method name="parseXMLContent">
+							<Parameter>xmlString</Parameter>
+							<Parameter>xmlTag</Parameter>
+						</Method>
+						<Method name="parseForThoughts">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="parseForWords">
+							<Parameter>a</Parameter>
+						</Method>
+						<Method name="analyzeShortTermMemory Reserved">
+						</Method>
+						<Field>memorySize Reserved</Field>
+						<Field>proactiveMode Reserved</Field>
+						<Field>input:Static</Field>
+						<Field>lastOutput:Static</Field>
+						<Field>bestMatchesList:Static</Field>
+						<Field>botsMemory:Static</Field>
+						<Field>matchedMemoryValues:Static</Field>
+						<Field>MAX_NUMBER_OF_IDENT_ENTRIES:Static</Field>
+						<Field>MAX_MATCHES_ALLOWED:Static</Field>
+						<Field>START_MIND_CLEANER_IN:Static</Field>
+					</Type>
+				</Namespace>
+				<Namespace name=" Reserved">
+					<Type name="LeftIncludePrivateImplementationDetailsRightInclude">
+<Class/>						<Field>$$method0x6000016-1:Static</Field>
+					</Type>
+					<Type name="LeftIncludePrivateImplementationDetailsRightInclude+$$struct0x6000016-1">
+<Class/>					</Type>
+				</Namespace>
+			</FileName>
+		</NameList>
+	</Aspose.Obfuscator.Config>

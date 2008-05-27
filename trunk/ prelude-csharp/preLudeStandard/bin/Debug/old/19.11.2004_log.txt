@@ -1,0 +1,103 @@
+Freitag, 19. November 2004 [Number of word entries] : 21
+Freitag, 19. November 2004 [Number of thought entries] : 21
+Freitag, 19. November 2004 [input is: ] : what is your name
+Freitag, 19. November 2004 [rated for: ] : hello my bot
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : who are you
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i never mentioned that i am
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am the king
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i dont think you are
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am the king
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am not your bot, bot
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : stop it please
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : what do you do today
+Freitag, 19. November 2004 [Match Value: ] : 1
+Freitag, 19. November 2004 [rated for: ] : why shall i stop it?
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you are nothing
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i dont care about your private live
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am going to bed
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : hi my sweetheart
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : how do you feel today
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you dont have to, if you dont like
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : but i really enjoy talking with you
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you dont have to, if you dont like
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : but i like to do it
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you really? thats so nice of you
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you are nothing
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 1
+Freitag, 19. November 2004 [] : -----------------------
+Freitag, 19. November 2004 [LAST OUTPUT] : you dont have to, if you dont like
+Freitag, 19. November 2004 [NEW INPUT] : who are you
+Freitag, 19. November 2004 [input is: ] : who are you
+Freitag, 19. November 2004 [rated for: ] : hello my bot
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : who are you
+Freitag, 19. November 2004 [Match Value: ] : 1
+Freitag, 19. November 2004 [rated for: ] : i never mentioned that i am
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am the king
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i dont think you are
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am the king
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am not your bot, bot
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : stop it please
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : what do you do today
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : why shall i stop it?
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you are nothing
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i dont care about your private live
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : i am going to bed
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : hi my sweetheart
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : how do you feel today
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you dont have to, if you dont like
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : but i really enjoy talking with you
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you dont have to, if you dont like
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : but i like to do it
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you really? thats so nice of you
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you are nothing
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [rated for: ] : you dont have to, if you dont like
+Freitag, 19. November 2004 [Match Value: ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 1
+Freitag, 19. November 2004 [best list final is : ] : 0
+Freitag, 19. November 2004 [best list final is : ] : 1

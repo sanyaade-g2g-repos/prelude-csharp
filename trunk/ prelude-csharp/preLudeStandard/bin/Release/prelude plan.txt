@@ -1,0 +1,26 @@
+prelude enhancements:
+++++++++++++++++++++++
+
+
+prelude web:
+------------
+
+.) menu einträge checken
+.) site download update übersichtlicher
+.) bronze medaille einblenden
+
+prelude engine:
+---------------
+
+K.) 2 sentence matching process - threshold? non-repeating? log output
+??K.) internet knowledge - texts filter (leaving he, she, they, us, her, him...) 2 continuing sentences
+K.) autospeak - no need of starting conversation first
+K.) scroll down when chatting (prelude std)
+K.) allow unicode words 
+K.) load largest *.mdu file when no mind.mdu is found in directory
+G.) association map
+G.) save knowledgebase as in number and sentence list / alternatively
+G.) online server platform: IM, WEB, IRC, EMAIL
+G.) e-mail bot
+>>G.) sentence generation (pattern generator thread)
+G.) server synching verbessern (down/upload)
