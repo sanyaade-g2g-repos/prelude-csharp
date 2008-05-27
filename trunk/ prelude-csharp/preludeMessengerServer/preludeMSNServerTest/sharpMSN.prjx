@@ -1,0 +1,48 @@
+<Project name="sharpMSN" standardNamespace="sharpMSN" description="" newfilesearch="None" enableviewstate="True" version="1.1" projecttype="C#">
+  <Contents>
+    <File name=".\Connection.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\AssemblyInfo.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ConnectionErrorEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\Contact.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ContactGroup.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ContactChangeEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ContactEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ContactGroupEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ContactStatusChangeEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ConversationEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ConversationQueueItem.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\IInvitationHandler.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ListMutateEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\ListReceivedEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\MailboxStatusEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\Message.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\MessageEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\MSNErrorEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\MSNException.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\NewMailReceivedEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\Owner.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\RegularExpressionException.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\StatusChangeEventArgs.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\Conversation.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+    <File name=".\Messenger.cs" subtype="Code" buildaction="Compile" dependson="" data="" />
+  </Contents>
+  <References />
+  <DeploymentInformation target="" script="" strategy="File" />
+  <Configuration runwithwarnings="True" name="Release">
+    <CodeGeneration runtime="MsNet" compiler="Csc" compilerversion="" warninglevel="4" nowarn="" includedebuginformation="False" optimize="True" unsafecodeallowed="False" generateoverflowchecks="False" mainclass="" target="Library" definesymbols="" generatexmldocumentation="False" win32Icon="" noconfig="False" nostdlib="False" />
+    <Execution commandlineparameters="" consolepause="False" />
+    <Output directory="..\bin\Release" assembly="sharpMSN" executeScript="" executeBeforeBuild="" executeAfterBuild="" executeBeforeBuildArguments="" executeAfterBuildArguments="" />
+  </Configuration>
+  <Configurations active="Release">
+    <Configuration runwithwarnings="True" name="Debug">
+      <CodeGeneration runtime="MsNet" compiler="Csc" compilerversion="" warninglevel="4" nowarn="" includedebuginformation="True" optimize="False" unsafecodeallowed="False" generateoverflowchecks="True" mainclass="" target="Library" definesymbols="" generatexmldocumentation="False" win32Icon="" noconfig="False" nostdlib="False" />
+      <Execution commandlineparameters="" consolepause="False" />
+      <Output directory="..\bin\Debug" assembly="sharpMSN" executeScript="" executeBeforeBuild="" executeAfterBuild="" executeBeforeBuildArguments="" executeAfterBuildArguments="" />
+    </Configuration>
+    <Configuration runwithwarnings="True" name="Release">
+      <CodeGeneration runtime="MsNet" compiler="Csc" compilerversion="" warninglevel="4" nowarn="" includedebuginformation="False" optimize="True" unsafecodeallowed="False" generateoverflowchecks="False" mainclass="" target="Library" definesymbols="" generatexmldocumentation="False" win32Icon="" noconfig="False" nostdlib="False" />
+      <Execution commandlineparameters="" consolepause="False" />
+      <Output directory="..\bin\Release" assembly="sharpMSN" executeScript="" executeBeforeBuild="" executeAfterBuild="" executeBeforeBuildArguments="" executeAfterBuildArguments="" />
+    </Configuration>
+  </Configurations>
+</Project>
