@@ -16,11 +16,3 @@ Though the work on Prelude was initially inspired by various self-learning chatb
 Create your own Prelude-Bot, exchange memory files with other users or chat with a Bot based on available memory files...
 
 If you have any questions or problems feel free to post a message or contact Prelude's developers!
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-[Development Steps]
