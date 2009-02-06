@@ -11,7 +11,7 @@ It can be applied to any language and will quickly gain conversational skills as
 
 In 2008 Prelude was released as open source to the public and found a new home on the Google Project Hosting server. Now everyone is invited to check out the source code, improve on it and include it in other projects.
 
-Though the work on Prelude was initially inspired by various self-learning chatbots like "Leo" it is based on a complete new approach.
+Though the work on Prelude was initially inspired by various self-learning chatbots like "Leo" it is based on a [HowDoesPreludeWork complete new approach].
 
 Create your own Prelude-Bot, exchange memory files with other users or chat with a Bot based on available memory files...
 
