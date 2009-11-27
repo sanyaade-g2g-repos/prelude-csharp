@@ -3,7 +3,7 @@
 	        PRELUDE @ # 
 		E N G I N E
 
-   		 v. 0.4.0 
+   		 v. 0.9.6 
 
     Copyright (c) 2003-5 Lennart Lopin.
             see license.txt for
