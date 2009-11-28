@@ -29,10 +29,10 @@ SetCompressor lzma
 
 
 
-Name "Prelude@# v. 0.9.5"
+Name "Prelude@# v. 0.9.6"
 BrandingText ""
 XPStyle on
-OutFile "preludeSharp9.exe"
+OutFile "preludeSharp9.6.exe"
 InstallDir "$PROGRAMFILES\PreludeSharp"
 ShowInstDetails show
 ShowUnInstDetails show
@@ -40,6 +40,8 @@ ShowUnInstDetails show
 Section -Files
   SetOutPath "$INSTDIR"
   File "preLude.exe"
+  File "preLude.exe.xml"
+  File "Prelude.exe.manifest"
   File "mind.mdu"
   File "Interop.SpeechLib.dll"
   File "AxInterop.AgentObjects.dll"
@@ -48,11 +50,11 @@ Section -Files
   File "stem.dll"
   File "Melissa.acs"
   File "AMS.Profile.dll"
-  File "StringTokenizer.dll"
-  File "PreLudeEngine4.dll"
+  File "PreludeEngine.dll"
   File "readme.txt"
   File "Prelude Online.url"
-  File "Prelude.exe.manifest"
+  File "Prelude UPDATES.url"
+  File "Prelude FAN SITE.url"
 SectionEnd
 
 Section -Icons
@@ -62,7 +64,7 @@ Section -Icons
 SectionEnd
 
 Section -PostInstall
-  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Prelude@#" "DisplayName" "Prelude@# v.0.9.2"
+  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Prelude@#" "DisplayName" "Prelude@# v.0.9.6"
   WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Prelude@#" "UninstallString" "$INSTDIR\uninstall.exe"
   WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Prelude@#" "DisplayIcon" "$INSTDIR\uninstall.exe"
   WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\Prelude@#" "URLInfoAbout" "http://prelude.lennart-lopin.de"
@@ -127,7 +129,7 @@ FunctionEnd
 
 
 Function myGUIInit
-    newadvsplash::wait ; waits or exits immediately if finished, use 'stop' to terminate
+    ;newadvsplash::wait ; waits or exits immediately if finished, use 'stop' to terminate
     Delete "$PLUGINSDIR\${IMG_SPLASH}"
     SetOutPath "$EXEDIR"
     ;  plug-in requires this to be called in .onGUIInit

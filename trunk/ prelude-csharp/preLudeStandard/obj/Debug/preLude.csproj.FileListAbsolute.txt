@@ -1,0 +1,15 @@
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\preLude.exe
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\preLude.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\AMS.Profile.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\AxInterop.AgentObjects.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\Interop.AgentObjects.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\Interop.SpeechLib.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\PreLudeEngine.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\bin\Debug\StringTokenizer.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\obj\Debug\preLude.exe
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\obj\Debug\preLude.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\obj\Debug\DefaultNamespace.AboutBox.resources
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\obj\Debug\preLude.Properties.Resources.resources
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\obj\Debug\preLude.csproj.GenerateResource.Cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\obj\Debug\preLude.MainForm.resources

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="preLude">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\preLude.sln">
+</Property><Property Name="Date" Value="Friday, November 27, 2009">
+</Property><Property Name="Time" Value="15:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="preLude.sln" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\preLude.sln">
+</Event><Event ErrorLevel="0" Project="preLude" Source="preLude.csproj" Description="Project file successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\preLude.csproj">
+</Event><Event ErrorLevel="0" Project="preLude" Source="preLude.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\preLude.csproj.user">
+</Event><Event ErrorLevel="0" Project="preLude" Source="MainForm.cs" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="preLude" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="preLude" Source="AboutBox.cs" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\AboutBox.cs">
+</Event><Event ErrorLevel="2" Project="preLude" Source="preLude.MainForm.resources" Description="Failed to backup file as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\preLude.MainForm.resources">
+</Event><Event ErrorLevel="0" Project="preLude" Source="DefaultNamespace.AboutBox.resources" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\Prelude\preLudeStandard\Backup\DefaultNamespace.AboutBox.resources">
+</Event><Event ErrorLevel="0" Project="preLude" Source="preLude.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="preLude" Source="preLude.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="preLude.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="preLude.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="preLude" Source="preLude.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
